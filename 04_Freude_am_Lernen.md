@@ -30,7 +30,7 @@ Wie weckt man Neugier auf ein Thema, das einen (noch) kalt lässt? Mit einem **F
 - ein verblüffendes Experiment, ein Rätsel, eine gute Frage („Warum ist der Himmel blau?")
 - eine Geschichte oder ein Film über eine historische Epoche, bevor du sie „durchnimmst"
 
-Genau wie du es vorgeschlagen hast: Erst ein tolles Video als **Initialzündung**, dann mit den richtigen Methoden vertiefen. Das ist klug — denn das Video bringt dich in den neugierigen Aufnahme-Modus.
+Erst ein tolles Video als **Initialzündung**, dann mit den richtigen Methoden vertiefen. Das ist klug — denn das Video bringt dich in den neugierigen Aufnahme-Modus.
 
 Aber ein ehrlicher Hinweis, der sich durch dieses ganze Buch zieht: **Das Video ist der Funke, nicht das Feuer.** Zuschauen allein ist passiv — es fühlt sich nach Lernen an, ist aber vor allem Inspiration (erinnerst du dich an die Illusion der Kompetenz aus Kapitel 1?). Der eigentliche Lerneffekt kommt erst, wenn du danach aktiv wirst: dich selbst abfragst, es jemandem erklärst, übst. Nutze den Funken, um loszulegen — und dann zünde mit den Königstechniken das richtige Feuer.
 
