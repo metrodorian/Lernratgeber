@@ -61,7 +61,7 @@ Viele schnelle Denker sind auch sehr selbstkritisch. Du *spürst* genau, wie gut
 
 Fachleute nennen es **„Underachievement"**: Wenn jemand mit großem Potenzial deutlich weniger leistet, als er könnte — manchmal landet man trotz Hochbegabung nur im Mittelfeld. Das ist fast nie Dummheit oder Faulheit. Es ist meistens die Summe der Fallen 1 bis 3: Langeweile frisst die Motivation, fehlende Lernstrategien rächen sich, sobald es schwer wird, und Perfektionismus oder Versagensangst bremsen aus.
 
-Du siehst: Es hängt alles zusammen. Und es ist umkehrbar — genau dafür ist dieses Buch da.
+Du siehst: Es hängt alles zusammen. Und es ist umkehrbar — genau dafür ist dieser Ratgeber da.
 
 ---
 
