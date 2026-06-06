@@ -132,3 +132,38 @@ Und **Quizlet**, das viele aus der Schule kennen? Hübsch und kinderleicht — a
 > Bau dir diese Woche einen echten Karteikasten. Such dir ein Fach, in dem es etwas zu behalten gibt (Vokabeln, Formeln, Jahreszahlen). Schreib 15 Karteikarten: Frage vorne, Antwort hinten.
 >
 > Dann die Regel: gewusst → ein Fach nach hinten, nicht gewusst → zurück nach vorne. Fünf Minuten am Tag. Beobachte nach einer Woche, wie der vordere Stapel schrumpft. Das Gefühl, wenn eine Karte ganz nach hinten wandert, macht süchtig.
+
+---
+
+## 🎁 Bonus: In 10 Minuten mit Anki startklar
+
+Du willst den digitalen Karteikasten ausprobieren? Hier der Schnellstart — keine Sorge, der erste Aufbau dauert nur ein paar Minuten.
+
+**Was Anki eigentlich macht:** Stell dir den Leitner-Karteikasten von oben vor — nur dass Anki das Einsortieren komplett für dich übernimmt. Du sagst nach jeder Karte bloß, ob du sie wusstest, und Anki rechnet selbst aus, an welchem Tag du sie das nächste Mal sehen solltest. Mehr musst du nie einstellen.
+
+**Schritt 1 — Anki holen** (es heißt auf jedem Gerät etwas anders):
+- **Computer (Windows/Mac):** kostenlos auf [apps.ankiweb.net](https://apps.ankiweb.net)
+- **Android-Handy/Tablet:** „AnkiDroid" im Play Store — kostenlos
+- **iPhone/iPad:** „AnkiMobile" im App Store — kostet einmalig etwas (die anderen sind gratis)
+
+> Am bequemsten ist es, die Karten am Computer zu erstellen und dann unterwegs auf dem Handy zu lernen.
+
+**Schritt 2 — (freiwillig) Konto zum Synchronisieren:** Wenn du auf mehreren Geräten lernen willst, leg dir ein kostenloses Konto auf [ankiweb.net](https://ankiweb.net) an — dann sind deine Karten überall gleich. Nutzt du nur ein Gerät, kannst du das überspringen.
+
+**Schritt 3 — einen Stapel anlegen:** In Anki heißt ein Kartenstapel „Deck". Klick auf „Stapel erstellen" / „Create Deck" und gib ihm einen Namen, z. B. *Englisch Vokabeln*.
+
+**Schritt 4 — Karten machen (oder schummeln):** Klick auf „Hinzufügen" / „Add", tipp die Frage ins obere Feld (Vorderseite) und die Antwort ins untere (Rückseite), dann „Hinzufügen". Fertig.
+*Schummel-Variante:* Über „Geteilte Stapel" / „Get Shared" gibt es Tausende fertige Decks zum Herunterladen — praktisch für gängige Themen.
+
+**Schritt 5 — lernen:** Klick auf dein Deck → „Jetzt lernen". Anki zeigt dir eine Frage. Denk an die Antwort, dann „Antwort zeigen" und bewerte ehrlich:
+- **Nochmal** = wusste ich nicht → kommt gleich wieder dran
+- **Gut** = wusste ich → kommt erst in ein paar Tagen wieder
+
+Das ist alles. „Nochmal" und „Gut" reichen für den Anfang völlig — die anderen Knöpfe brauchst du noch nicht.
+
+**Drei Tipps fürs Gelingen:**
+1. **Jeden Tag kurz** schlägt selten lang — schon 5–10 Minuten genügen.
+2. **Wenig Neues am Anfang:** Stell „neue Karten pro Tag" auf 5–10, sonst wird es schnell zu viel.
+3. **Eine Karte = eine Sache.** Kurze, klare Karten lernst du viel leichter als vollgestopfte.
+
+Eine ausführliche Anleitung mit Bildern findest du im offiziellen Anki-Handbuch: [docs.ankiweb.net/getting-started](https://docs.ankiweb.net/getting-started.html). Und denk dran: Die Oberfläche sieht altbacken aus — aber du hast den Dreh schneller raus, als du denkst.
