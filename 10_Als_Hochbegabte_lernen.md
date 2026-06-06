@@ -1,4 +1,4 @@
-# Kapitel 9 — Als hochbegabte Person lernen
+# Kapitel 10 — Als hochbegabte Person lernen
 
 🟩🟩🟩🟨⬜ **Konfidenz: Solide (Fachkonsens)** · Die beschriebenen Muster (Langeweile, fehlende Lernstrategien, Perfektionismus, Underachievement) sind in der Hochbegabungsforschung breit anerkannt — sie beruhen aber stärker auf Beobachtung und Beratungspraxis als auf großen Experimenten.
 

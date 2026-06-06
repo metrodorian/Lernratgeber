@@ -1,4 +1,4 @@
-# Kapitel 12 — Freude am Lernen
+# Kapitel 4 — Freude am Lernen
 
 🟩🟩🟩🟩⬜ **Konfidenz: Solide** · Dass Neugier und Freude das Lernen messbar verstärken, ist gut belegt (Neugier-Gedächtnis-Forschung, Selbstbestimmungstheorie). Projektbasiertes Lernen zeigt große Effekte, ist aber methodisch vielfältig.
 
@@ -75,7 +75,7 @@ Bei einem Projekt fragst du gar nicht mehr „Muss ich das wirklich lernen?" —
 
 ## Gute Laune lernt besser
 
-Noch ein kleiner, aber feiner Punkt: In guter Stimmung lernt es sich leichter. Stress und Angst engen das Denken ein; Freude und Gelassenheit öffnen es. Genug Schlaf (Kapitel 7), Bewegung, Pausen mit echten Freunden, und ab und zu bewusst etwas lernen, das einfach *Spaß* macht — all das ist kein „Zeitverlust", sondern hält den Motor am Laufen.
+Noch ein kleiner, aber feiner Punkt: In guter Stimmung lernt es sich leichter. Stress und Angst engen das Denken ein; Freude und Gelassenheit öffnen es. Genug Schlaf (Kapitel 8), Bewegung, Pausen mit echten Freunden, und ab und zu bewusst etwas lernen, das einfach *Spaß* macht — all das ist kein „Zeitverlust", sondern hält den Motor am Laufen.
 
 ---
 

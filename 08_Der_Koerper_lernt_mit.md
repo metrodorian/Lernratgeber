@@ -1,4 +1,4 @@
-# Kapitel 7 — Der Körper lernt mit
+# Kapitel 8 — Der Körper lernt mit
 
 🟩🟩🟩🟩⬜ **Konfidenz: Solide** · Dass Schlaf Gelerntes festigt und Bewegung dem Gehirn hilft, ist gut belegt. Einzelheiten wie „direkt vor dem Schlaf lernen" sind plausibel, aber schwächer abgesichert.
 

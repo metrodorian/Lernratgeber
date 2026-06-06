@@ -1,4 +1,4 @@
-# Kapitel 10 — Was nicht funktioniert (und dir Zeit stiehlt)
+# Kapitel 11 — Was nicht funktioniert (und dir Zeit stiehlt)
 
 🟩🟩🟩🟩🟩 **Konfidenz: Felsenfest** · Dass Lernstile nichts bringen, Wiederlesen wenig hilft und Multitasking schadet, ist wissenschaftlich klar belegt — diese Mythen sind so gründlich widerlegt wie kaum etwas anderes in der Lernforschung.
 
@@ -15,7 +15,7 @@ Das klingt einleuchtend. Es ist nur leider **falsch** — und das ist einer der 
 Warum hält sich der Mythos trotzdem so hartnäckig? Weil ein wahrer Kern drinsteckt — nur ein anderer, als man denkt:
 
 - **Es kommt auf den Inhalt an, nicht auf den Typ.** Erdkunde lernt man besser mit Karten, Musik besser mit den Ohren, Tanzschritte besser durch Bewegung. Das gilt für *alle* — nicht nur für angebliche „Typen".
-- **Mehrere Kanäle zusammen sind am stärksten.** Wort *und* Bild gemeinsam schlägt Wort allein (die „duale Kodierung" aus Kapitel 5). Du musst dich also gar nicht auf einen Kanal festlegen — im Gegenteil, nutze ruhig mehrere.
+- **Mehrere Kanäle zusammen sind am stärksten.** Wort *und* Bild gemeinsam schlägt Wort allein (die „duale Kodierung" aus Kapitel 6). Du musst dich also gar nicht auf einen Kanal festlegen — im Gegenteil, nutze ruhig mehrere.
 
 Die eigentliche Gefahr am Lerntyp-Mythos: Er verführt dazu, sich selbst einzusperren („Texte sind nichts für mich, ich bin halt visuell") — und sich so um die Hälfte der nützlichen Methoden zu bringen.
 
@@ -40,7 +40,7 @@ Das heißt nicht, dass du nie wieder etwas lesen oder markieren darfst. Aber:
 
 Lernen und nebenbei chatten, Video gucken, alle paar Minuten aufs Handy — viele glauben, sie seien gut im Multitasking. Die Wahrheit: **Multitasking gibt es beim Denken nicht.** Dein Gehirn macht nicht zwei anspruchsvolle Dinge gleichzeitig, es **schaltet** blitzschnell hin und her. Und jeder einzelne Wechsel kostet dich Zeit, Fehler und Konzentration — du brauchst danach jedes Mal viele Sekunden, um wieder richtig im Stoff zu sein.
 
-Das Ergebnis: Du sitzt länger, lernst weniger und machst mehr Fehler. „Nebenbei lernen" ist die teuerste Art zu lernen. (Was dagegen hilft, steht in Kapitel 6.)
+Das Ergebnis: Du sitzt länger, lernst weniger und machst mehr Fehler. „Nebenbei lernen" ist die teuerste Art zu lernen. (Was dagegen hilft, steht in Kapitel 7.)
 
 ---
 

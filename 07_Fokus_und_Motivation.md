@@ -1,4 +1,4 @@
-# Kapitel 6 — Fokus und Motivation
+# Kapitel 7 — Fokus und Motivation
 
 🟩🟩🟩🟨⬜ **Konfidenz: Überwiegend solide** · Dass Multitasking schadet und dass Wenn-dann-Pläne und kleine Startschritte helfen, ist gut belegt. Die *genaue* Pomodoro-Formel (25/5 min) ist dagegen eher Erfahrungswert — wichtig ist der Rhythmus aus Fokus und Pause, nicht die exakte Minutenzahl.
 

@@ -1,4 +1,4 @@
-# Kapitel 11 — KI: Werkzeug und Falle
+# Kapitel 12 — KI: Werkzeug und Falle
 
 🟧🟧⬜⬜⬜ **Konfidenz: Vorläufig** · KI ist zu neu für gesicherte Langzeitstudien. Die genannten Befunde (MIT-Hirnstudie, „metakognitive Faulheit") sind erste, ernstzunehmende Hinweise — aber noch nicht endgültig bewiesen, teils noch nicht abschließend begutachtet. Die *Grundprinzipien* dahinter (Anstrengung = Lernen, Illusion der Kompetenz) sind dagegen 🟩 felsenfest.
 

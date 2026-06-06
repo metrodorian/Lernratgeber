@@ -1,4 +1,4 @@
-# Kapitel 5 — Notizen und Texte
+# Kapitel 6 — Notizen und Texte
 
 🟩🟩🟨🟨⬜ **Konfidenz: Gemischt** · Die *Prinzipien* dahinter (Selbst-Abfrage, Wort + Bild) sind solide belegt. Die konkreten Marken-Methoden (Cornell, SQ3R, Mindmaps) sind populär, aber nur dünn erforscht — sie wirken vor allem, *weil* sie diese Prinzipien einbauen.
 
@@ -83,7 +83,7 @@ Ein schöner Nebeneffekt: Wer Texte so bearbeitet, geht **mit weniger Prüfungsa
 
 🟡 *Wort + Bild zusammen (Dual Coding) ist gut belegt; Mindmaps als solche weniger.*
 
-Es gibt noch einen Grund, warum Bilder beim Lernen so stark sind (du kennst ihn aus Kapitel 4): Dein Gehirn hat **zwei** Speicher — einen für Worte und einen für Bilder. Wenn du beide nutzt, speicherst du eine Sache *doppelt* ab und hast zwei Wege, sie wiederzufinden. Forscher nennen das **„duale Kodierung"**. In Studien behalten Lernende mit Wort *und* Bild deutlich mehr als mit Worten allein.
+Es gibt noch einen Grund, warum Bilder beim Lernen so stark sind (du kennst ihn aus Kapitel 5): Dein Gehirn hat **zwei** Speicher — einen für Worte und einen für Bilder. Wenn du beide nutzt, speicherst du eine Sache *doppelt* ab und hast zwei Wege, sie wiederzufinden. Forscher nennen das **„duale Kodierung"**. In Studien behalten Lernende mit Wort *und* Bild deutlich mehr als mit Worten allein.
 
 Das nutzt du mit:
 

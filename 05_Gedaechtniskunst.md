@@ -1,4 +1,4 @@
-# Kapitel 4 — Gedächtniskunst
+# Kapitel 5 — Gedächtniskunst
 
 🟩🟩🟩🟩⬜ **Konfidenz: Solide** · Der Gedächtnispalast ist gut belegt — vor allem für Listen, Reihenfolgen und Fakten, weniger für tiefes Verstehen. Eselsbrücken und Vokabel-Bilder helfen ebenfalls nachweislich.
 

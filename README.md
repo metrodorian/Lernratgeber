@@ -4,29 +4,15 @@
 
 ---
 
-## Stell dir zwei Schülerinnen vor
-
-Beide sind gleich klug. Beide schreiben morgen dieselbe Prüfung. Und beide lernen heute genau **eine Stunde**.
-
-Die erste liest ihr Heft dreimal aufmerksam durch. Es kommt ihr danach alles vertraut vor — sie fühlt sich gut vorbereitet.
-
-Die zweite liest es **einmal**, klappt es dann zu und fragt sich für den Rest der Stunde selbst ab: Was weiß ich noch? Wo hakt es? Das fühlt sich anstrengender und holpriger an.
-
-Wer schneidet morgen besser ab? Und wer weiß den Stoff in einer Woche noch?
-
-In beiden Fällen die zweite — und zwar nicht ein bisschen. In wissenschaftlichen Experimenten behalten Lernende, die sich selbst abfragen, nach einer Woche **rund die Hälfte mehr** als die, die denselben Stoff immer wieder durchlesen.\*
-
-Gleiche Zeit. Gleiche Köpfe. **Doppelt so viel hängen geblieben** — nur durch eine andere Technik.
-
 ## Darum gibt es diesen Ratgeber
 
-Das ist die eigentliche Nachricht, und sie ist großartig: Besser lernen heißt fast nie *mehr* lernen. Es heißt *anders* lernen.
+Besser lernen heißt fast nie *mehr* lernen. Es heißt *anders* lernen. Ein Beispiel: In wissenschaftlichen Experimenten behalten Lernende, die sich selbst abfragen, nach einer Woche **rund die Hälfte mehr** als die, die denselben Stoff einfach immer wieder durchlesen — bei *gleicher* Lernzeit.\* Gleiche Zeit, fast doppeltes Ergebnis, nur durch eine andere Technik.
 
 Die meisten Menschen — auch sehr kluge — benutzen ihr Leben lang die Methoden, die sich am besten *anfühlen*: wiederlesen, markieren, Zusammenfassungen abschreiben. Leider sind das ausgerechnet die schwächsten. Die wirksamen Methoden fühlen sich anfangs unbequem an — und genau deshalb kennt und nutzt sie kaum jemand.
 
 Dabei sind sie kein Geheimnis. Die Lernforschung weiß seit Jahrzehnten ziemlich genau, was funktioniert. Es steht nur in wissenschaftlichen Aufsätzen, die niemand liest, statt in der Schule, wo es jeder bräuchte.
 
-Dieses Buch holt dieses Wissen heraus und übersetzt es für dich — verständlich, mit Beispielen, zum sofort Ausprobieren. Wenn du es nutzt, bekommst du etwas geschenkt, das die meisten nie haben: **mehr Ergebnis bei weniger Mühe.** Zeit, die du mit Dingen verbringen kannst, die dir wichtiger sind als Lernen.
+Dieser Ratgeber holt dieses Wissen heraus und übersetzt es für dich — verständlich, mit Beispielen, zum sofort Ausprobieren. Wenn du es nutzt, bekommst du etwas geschenkt, das die meisten nie haben: **mehr Ergebnis bei weniger Mühe.** Zeit, die du mit Dingen verbringen kannst, die dir wichtiger sind als Lernen.
 
 ## Wie dieser Ratgeber funktioniert
 
@@ -58,15 +44,16 @@ So wird aus diesem Ratgeber kein weiterer Stapel guter Ratschläge, den man nick
 | 1 | [Wie dein Gedächtnis funktioniert](01_Wie_Gedaechtnis_funktioniert.md) | Die Grundlage für alles andere |
 | 2 | [Die zwei Königstechniken](02_Die_zwei_Koenigstechniken.md) | Was die Forschung als Nr. 1 und 2 eingestuft hat |
 | 3 | [Tief verstehen statt auswendig lernen](03_Tief_verstehen.md) | Feynman-Technik, Selbsterklärung, Themen mischen |
-| 4 | [Gedächtniskunst](04_Gedaechtniskunst.md) | Gedächtnispalast, Eselsbrücken, Vokabeln behalten |
-| 5 | [Notizen und Texte](05_Notizen_und_Texte.md) | Cornell-Methode, aktiv lesen, Mindmaps |
-| 6 | [Fokus und Motivation](06_Fokus_und_Motivation.md) | Pomodoro, Ablenkung, Aufschieberitis |
-| 7 | [Der Körper lernt mit](07_Der_Koerper_lernt_mit.md) | Schlaf, Bewegung, Pausen — kein Wellness-Blabla |
-| 8 | [Kopf und Einstellung](08_Kopf_und_Einstellung.md) | Wachstumsdenken, Selbstbeobachtung, Prüfungsangst |
-| 9 | [Als hochbegabte Person lernen](09_Als_Hochbegabte_lernen.md) | Besondere Stärken, besondere Fallen |
-| 10 | [Was nicht funktioniert — Mythen](10_Mythen.md) | Spart dir die meiste Zeit |
-| 11 | [KI: Werkzeug und Falle](11_Kuenstliche_Intelligenz.md) | Wie du KI klug nutzt — und wo die Forschung vor ihr warnt |
-| 12 | [Freude am Lernen](12_Freude_am_Lernen.md) | Neugier, mit Freunden lernen, eigene Projekte |
+| 4 | [Freude am Lernen](04_Freude_am_Lernen.md) | Neugier, mit Freunden lernen, eigene Projekte |
+| 5 | [Gedächtniskunst](05_Gedaechtniskunst.md) | Gedächtnispalast, Eselsbrücken, Vokabeln behalten |
+| 6 | [Notizen und Texte](06_Notizen_und_Texte.md) | Cornell-Methode, aktiv lesen, Mindmaps |
+| 7 | [Fokus und Motivation](07_Fokus_und_Motivation.md) | Pomodoro, Ablenkung, Aufschieberitis |
+| 8 | [Der Körper lernt mit](08_Der_Koerper_lernt_mit.md) | Schlaf, Bewegung, Pausen — kein Wellness-Blabla |
+| 9 | [Kopf und Einstellung](09_Kopf_und_Einstellung.md) | Wachstumsdenken, Selbstbeobachtung, Prüfungsangst |
+| 10 | [Als hochbegabte Person lernen](10_Als_Hochbegabte_lernen.md) | Besondere Stärken, besondere Fallen |
+| 11 | [Was nicht funktioniert — Mythen](11_Mythen.md) | Spart dir die meiste Zeit |
+| 12 | [KI: Werkzeug und Falle](12_Kuenstliche_Intelligenz.md) | Wie du KI klug nutzt — und wo die Forschung vor ihr warnt |
+
 ---
 
 \* *Beleg: Karpicke & Blunt (2011), Science — sich selbst abzufragen führte zu rund 50 % besserer Behaltensleistung als wiederholtes Durcharbeiten oder das Erstellen von Concept-Maps. Eingebettet in den robust belegten „Testing-Effekt" (u. a. Roediger & Karpicke, 2006). Konfidenz: 🟢 felsenfest. — Weitere Einzelnachweise in der [Forschungs-Übersicht](Recherche/01_Recherche_Lerntechniken.md).*

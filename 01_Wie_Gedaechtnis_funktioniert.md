@@ -48,7 +48,7 @@ Hier ist etwas, das fast niemand weiß: Wenn du etwas gelernt hast, ist die Erin
 
 Erst nach und nach wird sie hart. Dein Gehirn arbeitet diese Erinnerung in den Stunden und Tagen *nach* dem Lernen weiter durch, verknüpft sie mit anderem Wissen und schiebt sie ins Langzeitgedächtnis. Forscher nennen das **Konsolidierung**.
 
-Das Spannende: Ein riesiger Teil dieser Arbeit passiert, während du **schläfst**. Du lernst also buchstäblich im Schlaf weiter — vorausgesetzt, du gönnst dir welchen (mehr dazu in Kapitel 7).
+Das Spannende: Ein riesiger Teil dieser Arbeit passiert, während du **schläfst**. Du lernst also buchstäblich im Schlaf weiter — vorausgesetzt, du gönnst dir welchen (mehr dazu in Kapitel 8).
 
 Daraus folgt etwas Überraschendes: *Wie oft* und *wann* du eine Information wieder anfasst, ist wichtiger als *wie lange* du sie beim ersten Mal anschaust.
 
