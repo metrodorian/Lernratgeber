@@ -1,5 +1,7 @@
 # Kapitel 8 — Kopf und Einstellung
 
+🟩🟩🟩🟨⬜ **Konfidenz: Gemischt** · Sich selbst beim Lernen zu beobachten (Metakognition) gehört zu den wirksamsten Dingen überhaupt — sehr solide. Das **Wachstumsdenken** dagegen (🟥🟥⬜⬜⬜ umstritten) hält den großen Versprechen neuerer Studien nicht stand — wir sagen im Kapitel offen, warum.
+
 > Die besten Werkzeuge nützen wenig, wenn du innerlich aufgibst, sobald es schwer wird — oder wenn du gar nicht merkst, dass deine Methode gerade nicht funktioniert. Dieses Kapitel geht um die Einstellung hinter dem Lernen: wie du an Schwieriges herangehst, wie du dich selbst beim Lernen beobachtest, und was du gegen Prüfungsangst tun kannst.
 
 ---

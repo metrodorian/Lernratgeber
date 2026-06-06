@@ -1,5 +1,7 @@
 # Kapitel 2 — Die zwei Königstechniken
 
+🟩🟩🟩🟩🟩 **Konfidenz: Felsenfest** · Verteiltes Lernen und Selbst-Abfragen sind die am besten belegten Lernmethoden überhaupt — hunderte Studien, breiter Forschungskonsens (Dunlosky et al. 2013).
+
 > Wenn du aus diesem ganzen Ratgeber nur ein einziges Kapitel lesen würdest, dann sollte es dieses sein. Denn hier stehen die zwei Techniken, die die Wissenschaft mit Abstand am besten bewertet hat. Alles andere ist nützlich — diese zwei sind entscheidend.
 
 ---

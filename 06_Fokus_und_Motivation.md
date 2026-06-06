@@ -1,5 +1,7 @@
 # Kapitel 6 — Fokus und Motivation
 
+🟩🟩🟩🟨⬜ **Konfidenz: Überwiegend solide** · Dass Multitasking schadet und dass Wenn-dann-Pläne und kleine Startschritte helfen, ist gut belegt. Die *genaue* Pomodoro-Formel (25/5 min) ist dagegen eher Erfahrungswert — wichtig ist der Rhythmus aus Fokus und Pause, nicht die exakte Minutenzahl.
+
 > Du kannst die besten Lerntechniken der Welt kennen — sie nützen dir nichts, wenn du dich nicht hinsetzt oder alle zwei Minuten aufs Handy schaust. Dieses Kapitel handelt davon, wie du *anfängst*, wie du *dranbleibst* und wie du die Aufschieberitis besiegst. Gute Nachricht: Das sind keine Charakterfragen. Das sind Techniken.
 
 ---

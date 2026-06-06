@@ -1,5 +1,7 @@
 # Kapitel 5 — Notizen und Texte
 
+🟩🟩🟨🟨⬜ **Konfidenz: Gemischt** · Die *Prinzipien* dahinter (Selbst-Abfrage, Wort + Bild) sind solide belegt. Die konkreten Marken-Methoden (Cornell, SQ3R, Mindmaps) sind populär, aber nur dünn erforscht — sie wirken vor allem, *weil* sie diese Prinzipien einbauen.
+
 > Mitschreiben und Texte lesen — das tust du jeden Tag in der Schule. Aber die meisten machen beides auf die langsamste, unwirksamste Art: Sie schreiben mit wie ein Kopierer und lesen wie ein Staubsauger, der einfach alles aufsaugt. Dieses Kapitel zeigt dir Methoden, die das Abrufen und Verstehen aus Kapitel 2 und 3 schon *eingebaut* haben.
 
 ---

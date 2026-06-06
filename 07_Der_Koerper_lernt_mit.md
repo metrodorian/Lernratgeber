@@ -1,5 +1,7 @@
 # Kapitel 7 — Der Körper lernt mit
 
+🟩🟩🟩🟩⬜ **Konfidenz: Solide** · Dass Schlaf Gelerntes festigt und Bewegung dem Gehirn hilft, ist gut belegt. Einzelheiten wie „direkt vor dem Schlaf lernen" sind plausibel, aber schwächer abgesichert.
+
 > Lernen passiert nicht nur im Kopf am Schreibtisch. Es passiert auch im Bett, beim Sport und in der Pause. Das klingt nach gut gemeinten Ermahnungen von Erwachsenen — ist aber knallharte Wissenschaft. Wenn du diese Grundlagen ignorierst, verschenkst du einen großen Teil deiner Lernarbeit. Buchstäblich.
 
 ---

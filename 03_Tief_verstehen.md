@@ -1,5 +1,7 @@
 # Kapitel 3 — Tief verstehen statt auswendig lernen
 
+🟩🟩🟩🟩⬜ **Konfidenz: Solide** · Selbsterklärung und Verschachteln sind gut belegt (das Verschachteln mit ein paar Nuancen). Die „Feynman-Technik" ist als Marke nicht eigens getestet — sie verpackt aber das gut belegte Prinzip der Selbsterklärung.
+
 > Sich abzufragen (Kapitel 2) bringt nur dann etwas, wenn dahinter echtes Verständnis steckt. Reines Auswendiglernen ohne Verstehen ist wie ein Haus auf Sand. Dieses Kapitel zeigt dir, wie du Dinge so verstehst, dass sie *halten* — und sich sogar auf neue Aufgaben übertragen lassen.
 
 ---
