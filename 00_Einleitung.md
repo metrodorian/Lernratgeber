@@ -1,9 +1,5 @@
 # Einleitung — Warum dieses Buch dir Zeit schenkt
 
-> *Entwurf — Stand der Diskussion. Wird noch gemeinsam überarbeitet.*
-
----
-
 ## Stell dir zwei Schülerinnen vor
 
 Beide sind gleich klug. Beide schreiben morgen dieselbe Prüfung. Und beide lernen heute genau **eine Stunde**.
