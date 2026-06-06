@@ -59,6 +59,15 @@ Oft kommen einem genau in solchen leeren Momenten die besten Einfälle — weil 
 
 Noch ein Wort zum Schlaf, weil er so wichtig ist: Helle Bildschirme am späten Abend gaukeln deinem Gehirn vor, es sei noch Tag, und machen das Einschlafen schwerer. Wenn du also abends noch lernst, ist Papier am Ende des Tages oft die bessere Wahl als der leuchtende Screen — und das Handy gehört eine Weile vor dem Schlafen weggelegt. Dein morgiges Ich wird es dir danken.
 
+Wenn du abends doch an den Bildschirm musst, kannst du wenigstens den **Blaulicht-Filter** einschalten — die Anzeige wird dann wärmer und gelblicher. Fast jedes Gerät hat das eingebaut:
+
+- **Windows:** „Nachtlicht" (Einstellungen → System → Anzeige)
+- **Mac:** „Night Shift" (Systemeinstellungen → Displays)
+- **iPhone / iPad:** „Night Shift" (Einstellungen → Anzeige & Helligkeit)
+- **Android:** „Nachtmodus" bzw. „Blaulichtfilter" (je nach Handy etwas anders benannt — meist in den Schnelleinstellungen, die du von oben herunterwischst)
+
+Ehrlich dazu: Neuere Studien zeigen, dass so ein Filter *allein* den Schlaf kaum messbar verbessert — wichtiger sind **den Bildschirm dunkler stellen** und vor allem **früher weglegen**. Sieh den Filter also als kleinen Bonus, nicht als Freibrief, bis Mitternacht zu scrollen.
+
 ---
 
 > ## 📦 Für deine Werkzeugkiste
