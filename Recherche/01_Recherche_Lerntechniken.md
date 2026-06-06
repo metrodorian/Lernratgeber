@@ -348,6 +348,53 @@ Ein moderner Ratgeber muss auch sagen, was *nicht* funktioniert — das spart di
 
 ---
 
+## J — Lernen mit Künstlicher Intelligenz (neues Feld, erste Befunde)
+
+KI ist zu neu für Langzeitstudien, aber erste, methodisch gute Untersuchungen zeichnen
+ein klares Bild: **Dieselbe KI kann Lernen massiv fördern oder massiv verhindern — je
+nach Einsatzart.** Kernunterscheidung: KI als *Denk-Ersatz* (schädlich) vs. KI als
+*Denk-Trainer* (nützlich). Verbindet sich direkt mit A3 (Illusion der Kompetenz),
+A4 (wünschenswerte Schwierigkeiten) und B2 (aktives Abrufen).
+
+### J1 — Die Gefahr: kognitive Schuld & metakognitive Faulheit
+- **MIT-EEG-Studie „Your Brain on ChatGPT" (Kosmyna et al. 2025):** 54 Personen
+  schreiben Essays (ChatGPT / Suchmaschine / nur Kopf), gemessen per EEG. LLM-Nutzer
+  zeigten die **schwächste Hirnvernetzung**; „Nur-Kopf"-Gruppe die stärkste. Effekt
+  hielt an: Beim späteren Schreiben *ohne* KI blieben die LLM-Nutzer schwächer
+  vernetzt → **„cognitive debt"**. **78 %** konnten direkt danach kein Zitat aus dem
+  eigenen Essay nennen.
+- **„Metacognitive laziness" (Fan et al., British Journal of Educational Technology,
+  Dez 2024):** 117 Studierende. ChatGPT-Gruppe schrieb die *besten* Essays, zeigte
+  aber **keinen Wissenszuwachs** im späteren Test und **weniger Selbstkorrektur/
+  Reflexion**. → Performance ≠ Learning.
+
+### J2 — Weitere Risiken
+- **Halluzinationen:** KI erzeugt plausible, aber faktisch falsche Aussagen — mit
+  selbstbewusstem Ton, dadurch schwer zu erkennen. In der Bildung: Gefahr, falsches
+  Wissen unbemerkt zu übernehmen.
+- **Overreliance / Verlust an kritischem Denken:** Auslagern anspruchsvoller Denk-
+  prozesse schwächt Argumentations- und Urteilsfähigkeit.
+
+### J3 — Die Chance: KI als sokratischer Tutor
+- KI-Tutoren, die nach dem **Sokratischen Prinzip** gebaut sind (Hinweise & Fragen
+  statt fertiger Lösungen, z. B. *Khanmigo*), erreichen Lernzuwächse vergleichbar mit
+  menschlichen Tutor:innen; ein RCT (Nature *Scientific Reports*) fand KI-Tutoren mit
+  aktivem Lernen besser als klassischen Unterricht.
+- **Gute Einsatzmuster:** geduldiger Erklärer (danach selbst nacherzählen → Feynman),
+  Tutor ohne Lösung, Quiz-/Abfragemaschine (→ B2), Feynman-Zuhörer, Feedback-Geber
+  (kein Ghostwriter).
+- **Schutzregeln:** Faktencheck in zweiter Quelle; Mindestalter/Elternbegleitung;
+  keine personenbezogenen Daten eingeben.
+
+*Quellen J:*
+- [Your Brain on ChatGPT: Accumulation of Cognitive Debt … — MIT Media Lab](https://www.media.mit.edu/publications/your-brain-on-chatgpt/)
+- [Your Brain on ChatGPT — arXiv 2506.08872](https://arxiv.org/abs/2506.08872)
+- [Beware of metacognitive laziness … — Hechinger Report (Zusammenfassung der BJET-Studie)](https://hechingerreport.org/proof-points-offload-critical-thinking-ai/)
+- [From Superficial Outputs to Superficial Learning: Risks of LLMs in Education — arXiv](https://arxiv.org/html/2509.21972v1)
+- [Khanmigo / sokratischer KI-Tutor — Khan Academy & Microsoft](https://news.microsoft.com/source/features/ai/khan-academy-and-microsoft-partner-to-expand-access-to-ai-tools/)
+
+---
+
 ## Vorschlag: roter Faden für den späteren Ratgeber
 
 Ein eingängiges Gerüst, das die Kategorien in eine Lern-Reihenfolge bringt:
