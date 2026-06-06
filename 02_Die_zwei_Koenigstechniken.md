@@ -125,6 +125,7 @@ Und **Quizlet**, das viele aus der Schule kennen? Hübsch und kinderleicht — a
 > - **Abstände:** ca. 1 Stunde → 1 Tag → 1 Woche → 1 Monat.
 > - **Sich selbst abfragen** schlägt Wiederlesen um Längen — und deckt ehrlich deine Lücken auf.
 > - Der **Karteikasten** vereint beide Königstechniken in einem Schuhkarton.
+> - **Als App:** für Vokabeln **phase6**, für alles andere **Anki** — kostenlos und mit dem besten Wiederhol-System überhaupt. Lass dich von Ankis altmodischer Oberfläche nicht abschrecken: Die kurze Einarbeitung ist gut zu schaffen und trägt dich dann jahrelang.
 
 > ## 🎯 Probier's aus
 >
