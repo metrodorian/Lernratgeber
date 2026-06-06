@@ -167,3 +167,12 @@ Das ist alles. „Nochmal" und „Gut" reichen für den Anfang völlig — die a
 3. **Eine Karte = eine Sache.** Kurze, klare Karten lernst du viel leichter als vollgestopfte.
 
 Eine ausführliche Anleitung mit Bildern findest du im offiziellen Anki-Handbuch: [docs.ankiweb.net/getting-started](https://docs.ankiweb.net/getting-started.html). Und denk dran: Die Oberfläche sieht altbacken aus — aber du hast den Dreh schneller raus, als du denkst.
+
+---
+
+## 📚 Quellen & Links
+
+- **Dunlosky et al. (2013)** · „Improving Students' Learning With Effective Learning Techniques", *Psychological Science in the Public Interest*, 14(1) — Das große Techniken-Turnier (169 000 Teilnehmende, 10 Methoden bewertet)
+- **Karpicke & Blunt (2011)** · „Retrieval Practice Produces More Learning than Elaborative Studying with Concept Mapping", *Science*, 331 — ~50 % besseres Behalten durch Selbst-Abfragen
+- **Roediger & Karpicke (2006)** · „Test-Enhanced Learning", *Psychological Science*, 17(3) — Grundlagenwerk zum Testing-Effekt
+- **Apps:** [phase6.de](https://www.phase6.de) · [apps.ankiweb.net](https://apps.ankiweb.net) · [ankiweb.net](https://ankiweb.net) · [docs.ankiweb.net](https://docs.ankiweb.net/getting-started.html) — alle direkt im Kapitel erklärt

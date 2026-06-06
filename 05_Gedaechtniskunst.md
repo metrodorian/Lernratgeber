@@ -90,3 +90,13 @@ Es fühlt sich albern an. Genau deshalb funktioniert es: Das Verrückte bleibt h
 > Bau deinen ersten Gedächtnispalast. Nimm eine Route durch deine Wohnung mit genau fünf Stationen. Such dir fünf Dinge, die du dir merken willst (z. B. fünf Vokabeln oder fünf Punkte für ein Referat).
 >
 > Leg an jede Station ein möglichst absurdes Bild. Geh die Route dreimal im Kopf ab. Dann mach etwas völlig anderes — und versuch es eine Stunde später nochmal, ohne nachzuschauen. Du wirst überrascht sein, wie mühelos die fünf Dinge plötzlich da sind.
+
+---
+
+## 📚 Quellen & Links
+
+- **Yates (1966)** · *The Art of Memory* — Historisches Standardwerk über den Gedächtnispalast und seine 2000-jährige Geschichte
+- **Luria (1968)** · *The Mind of a Mnemonist* — Fesselnde Fallstudie über einen Mann mit außergewöhnlichem Gedächtnis
+- **Atkinson & Raugh (1975)** · „An Application of the Mnemonic Keyword Method to the Acquisition of a Russian Vocabulary", *Journal of Experimental Psychology* — Klassischer Beleg für die Schlüsselwort-Methode
+- [Wikipedia: Loci-Methode](https://de.wikipedia.org/wiki/Loci-Methode) — Geschichte und Aufbau des Gedächtnispalastes
+- [Wikipedia: Mnemotechnik](https://de.wikipedia.org/wiki/Mnemotechnik) — Überblick über alle Merktechniken

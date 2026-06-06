@@ -74,7 +74,7 @@ Sich selbst abfragen ist anstrengender als nochmal lesen. Eine Woche zu warten u
 
 Zwei Forscher, Robert und Elizabeth Bjork, haben dafür einen wunderbaren Namen erfunden: **„wünschenswerte Schwierigkeiten"**. Eine Schwierigkeit, die man sich *wünschen* sollte, weil sie einen besser macht. Wie beim Krafttraining: Der Muskel wächst nicht, wenn du das leichte Gewicht hebst, sondern wenn es ein bisschen zwickt.
 
-Merke dir diesen Satz, er ist der rote Faden durch dieses ganze Buch:
+Merke dir diesen Satz, er ist der rote Faden durch diesen ganzen Ratgeber:
 
 > **Wenn Lernen sich zu leicht anfühlt, lernst du wahrscheinlich gerade wenig.**
 
@@ -92,3 +92,13 @@ Merke dir diesen Satz, er ist der rote Faden durch dieses ganze Buch:
 > Nimm dir heute etwas vor, das du eigentlich „schon kannst" — eine Vokabelliste, ein Gedicht, die Hauptstädte. Schau es dir einmal an. Klapp es zu. Warte bis morgen früh. Schreib dann auf, woran du dich erinnerst, **ohne** zu spicken.
 >
 > Erschrick nicht, wenn es weniger ist, als du dachtest — du hast gerade die Vergessenskurve mit eigenen Augen gesehen. In den nächsten Kapiteln lernst du, sie auszutricksen.
+
+---
+
+## 📚 Quellen & Links
+
+- **Ebbinghaus (1885)** · *Über das Gedächtnis* — Das Originalwerk; die Vergessenskurve gilt bis heute als Grundlage der Gedächtnisforschung
+- **Bjork & Bjork (2011)** · „Making things hard on yourself, but in a good way" — Quelle zu den wünschenswerten Schwierigkeiten
+- **Stickgold (2005)** · „Sleep-Dependent Memory Consolidation", *Nature* 437 — Kernbefunde zur Gedächtnisfestigung im Schlaf
+- [Wikipedia: Vergessenskurve](https://de.wikipedia.org/wiki/Vergessenskurve) — mit Grafik und Erklärung
+- [Wikipedia: Gedächtniskonsolidierung](https://de.wikipedia.org/wiki/Ged%C3%A4chtniskonsolidierung) — wie Erinnerungen im Schlaf gefestigt werden

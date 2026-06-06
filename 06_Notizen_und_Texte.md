@@ -107,3 +107,13 @@ Ein Hinweis: Mindmaps sind super zum *Ordnen* und für den Überblick, aber als 
 > Nimm den nächsten Sachtext, den du für die Schule lesen musst, und wende SQ3R an. Verwandle vor dem Lesen jede Überschrift in eine Frage und schreib sie auf. Lies dann mit dem Auftrag, diese Fragen zu beantworten.
 >
 > Vergleiche hinterher das Gefühl mit dem normalen Drüberlesen: Du wirst merken, dass viel mehr hängen geblieben ist — weil dein Kopf eine Aufgabe hatte, statt nur Buchstaben einzusaugen.
+
+---
+
+## 📚 Quellen & Links
+
+- **Pauk & Owens** · *How to Study in College* (10. Aufl.) — Quelle des Cornell-Notiz-Systems; entwickelt an der Cornell-Universität, Ithaca
+- **Robinson (1946)** · *Effective Study* — Quelle der SQ3R-Methode
+- **Paivio (1986)** · *Mental Representations: A Dual-Coding Approach* — Ursprung der Dual-Coding-Theorie (Wort + Bild = zwei Speicher)
+- **Mayer (2009)** · *Multimedia Learning* (2. Aufl.) — Wissenschaftliche Grundlage der dualen Kodierung im Unterricht
+- [Wikipedia: Duales Kodieren](https://de.wikipedia.org/wiki/Doppelkodierungstheorie) — kurze Erklärung mit Beispielen

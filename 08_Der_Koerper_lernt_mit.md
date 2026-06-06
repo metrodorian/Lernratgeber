@@ -82,3 +82,12 @@ Ehrlich dazu: Neuere Studien zeigen, dass so ein Filter *allein* den Schlaf kaum
 > Mach diese Woche ein kleines Experiment. Schau dir an zwei Abenden direkt vor dem Schlafengehen fünf Minuten deine Karteikarten oder Notizen an — und dann sofort Licht aus, kein Handy mehr. Prüfe am nächsten Morgen, wie viel davon noch da ist.
 >
 > Vergleiche es mit Stoff, den du tagsüber gelernt und danach noch stundenlang am Bildschirm „übertüncht" hast. Du wirst den Unterschied spüren — und nebenbei besser schlafen.
+
+---
+
+## 📚 Quellen & Links
+
+- **Walker (2017)** · *Why We Sleep* — Sehr lesbares Buch über die Schlafforschung (auf Deutsch: *Das große Buch vom Schlaf*)
+- **Ratey & Hagerman (2008)** · *Spark: The Revolutionary New Science of Exercise and the Brain* — Bewegung und ihre Wirkung auf das Gehirn
+- **Stickgold (2005)** · „Sleep-Dependent Memory Consolidation", *Nature*, 437 — Kernbefunde: wie der Schlaf Gelerntes festigt
+- **Chang et al. (2015)** · „Evening use of light-emitting eReaders negatively affects sleep", *PNAS* — Blaulicht und Schlaf: Bildschirme verzögern das Einschlafen

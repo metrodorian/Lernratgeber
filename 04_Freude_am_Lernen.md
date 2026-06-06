@@ -32,7 +32,7 @@ Wie weckt man Neugier auf ein Thema, das einen (noch) kalt lässt? Mit einem **F
 
 Erst ein tolles Video als **Initialzündung**, dann mit den richtigen Methoden vertiefen. Das ist klug — denn das Video bringt dich in den neugierigen Aufnahme-Modus.
 
-Aber ein ehrlicher Hinweis, der sich durch dieses ganze Buch zieht: **Das Video ist der Funke, nicht das Feuer.** Zuschauen allein ist passiv — es fühlt sich nach Lernen an, ist aber vor allem Inspiration (erinnerst du dich an die Illusion der Kompetenz aus Kapitel 1?). Der eigentliche Lerneffekt kommt erst, wenn du danach aktiv wirst: dich selbst abfragst, es jemandem erklärst, übst. Nutze den Funken, um loszulegen — und dann zünde mit den Königstechniken das richtige Feuer.
+Aber ein ehrlicher Hinweis, der sich durch diesen ganzen Ratgeber zieht: **Das Video ist der Funke, nicht das Feuer.** Zuschauen allein ist passiv — es fühlt sich nach Lernen an, ist aber vor allem Inspiration (erinnerst du dich an die Illusion der Kompetenz aus Kapitel 1?). Der eigentliche Lerneffekt kommt erst, wenn du danach aktiv wirst: dich selbst abfragst, es jemandem erklärst, übst. Nutze den Funken, um loszulegen — und dann zünde mit den Königstechniken das richtige Feuer.
 
 ## Aus Lust, nicht aus Zwang
 
@@ -50,7 +50,7 @@ Drei Zutaten machen aus „müssen" ein „wollen":
 
 🟡 *Solide — gemeinsames Lernen steigert Motivation und Leistung, wenn alle mitmachen.*
 
-Sich mit Freunden zum Lernen zu treffen, ist nicht „weniger ernst" — richtig gemacht ist es eine der angenehmsten *und* wirksamsten Arten zu lernen. Warum? Weil ihr automatisch die besten Techniken aus diesem Buch benutzt:
+Sich mit Freunden zum Lernen zu treffen, ist nicht „weniger ernst" — richtig gemacht ist es eine der angenehmsten *und* wirksamsten Arten zu lernen. Warum? Weil ihr automatisch die besten Techniken aus diesem Ratgeber benutzt:
 
 - **Gegenseitig abfragen** = aktives Abrufen (Kapitel 2).
 - **Einander etwas erklären** = die Feynman-Technik (Kapitel 3) — und wer erklärt, lernt am meisten.
@@ -92,3 +92,11 @@ Noch ein kleiner, aber feiner Punkt: In guter Stimmung lernt es sich leichter. S
 > Such dir ein Thema, das dich *wirklich* interessiert — egal ob Schulstoff oder nicht. Finde dazu einen guten **Funken**: ein spannendes Video, einen Artikel, ein Experiment. Lass dich anstecken.
 >
 > Und dann der entscheidende zweite Schritt: Erzähl noch heute jemandem (einem Freund, deinen Eltern) mit eigenen Worten, was du Faszinierendes herausgefunden hast. So wird aus dem Funken echtes Wissen — und du merkst, wie gut sich Lernen anfühlen kann, wenn es von Neugier getragen ist.
+
+---
+
+## 📚 Quellen & Links
+
+- **Gruber et al. (2014)** · „States of Curiosity Modulate Hippocampus-Dependent Learning via the Dopaminergic Circuit", *Neuron*, 84(2) — Die Hirnscan-Studie: Neugier aktiviert Belohnungssystem und Gedächtniszentrum gleichzeitig
+- **Deci & Ryan (2000)** · „The 'What' and 'Why' of Goal Pursuits: Human Needs and the Self-Determination of Behavior", *Psychological Inquiry* — Grundlagenwerk der Selbstbestimmungstheorie (intrinsische Motivation)
+- **Krajcik & Shin (2014)** · „Project-Based Learning" in *The Cambridge Handbook of the Learning Sciences* — Überblick zur Wirkung von Projektlernen

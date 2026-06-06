@@ -45,7 +45,7 @@ Eine zweite Studie (mit 117 Studierenden) brachte es auf den Punkt. Die Gruppe m
 
 Nur: Als man sie später abfragte, hatten sie **nichts dazugelernt**. Null Wissenszuwachs. Die Forscher nannten das Verhalten **„metakognitive Faulheit"**: Weil die KI alles übernahm, hörten die Lernenden auf, sich selbst zu überprüfen, nachzudenken und sich zu korrigieren.
 
-Hier triffst du auf einen der wichtigsten Gedanken dieses ganzen Buches wieder — erinnerst du dich an Kapitel 1?
+Hier triffst du auf einen der wichtigsten Gedanken dieses ganzen Ratgebers wieder — erinnerst du dich an Kapitel 1?
 
 > **Die Anstrengung *ist* das Lernen.** Nimmt dir die KI die Anstrengung ab, nimmt sie dir das Lernen gleich mit.
 
@@ -113,3 +113,11 @@ Schreib deinen Aufsatz **selbst**. Dann darfst du fragen: *„Welche Stellen sin
 > *„Sei mein Tutor. Gib mir nicht die Antwort. Stell mir Fragen und kleine Hinweise, einen nach dem anderen, bis ich selbst draufkomme."*
 >
 > Spür den Unterschied: Am Ende hast du es *selbst* gelöst — die KI hat dich nur geführt. Genau dieses Gefühl ist der Unterschied zwischen einem Werkzeug, das dich schlauer macht, und einer Falle, die dich abhängig macht.
+
+---
+
+## 📚 Quellen & Links
+
+- **Kosmyna et al. (2025)** · „Your Brain on ChatGPT: Accumulation of Cognitive Debt when Using an AI Assistant for Essay Writing Task" (MIT Media Lab) — EEG-Studie zur kognitiven Schuld; 78 % der ChatGPT-Nutzer konnten keinen eigenen Satz zitieren
+- **Fan et al. (2024)** · „The impact of artificial intelligence on student learning outcomes", *British Journal of Educational Technology* — Metakognitive Faulheit: bessere Ergebnisse, null Wissenszuwachs
+- [Wikipedia: Halluzination (Künstliche Intelligenz)](https://de.wikipedia.org/wiki/Halluzination_(K%C3%BCnstliche_Intelligenz)) — Erklärung, warum KI manchmal selbstbewusst falsche Fakten erfindet

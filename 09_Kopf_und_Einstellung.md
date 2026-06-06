@@ -75,3 +75,12 @@ Dazu kommen ein paar Helfer:
 > Führe ab heute ein winziges „Lern-Logbuch" — ein paar Zeilen nach jeder Lernsession. Drei Fragen: *Was habe ich gelernt? Welche Methode habe ich benutzt? Hat sie funktioniert?*
 >
 > Nach einer Woche liest du es durch. Du wirst Muster entdecken — welche Methoden bei dir wirken und welche Zeitverschwendung waren. Damit wirst du zu deiner eigenen besten Lern-Trainerin.
+
+---
+
+## 📚 Quellen & Links
+
+- **Dweck (2006)** · *Mindset: The New Psychology of Success* — Grundlagenwerk zum Wachstumsdenken (auch auf Deutsch erhältlich)
+- **Sisk et al. (2018)** · „To What Extent and Under Which Circumstances Are Growth Mind-Sets Important to Academic Achievement?", *Psychological Science* — Kritische Meta-Analyse: Wachstumsdenken wirkt, aber schwächer als vermutet
+- **Hattie (2008)** · *Visible Learning* — Umfangreiche Auswertung von über 800 Meta-Analysen; Metakognition als einer der stärksten Faktoren für Lernerfolg
+- [Wikipedia: Metakognition](https://de.wikipedia.org/wiki/Metakognition) — Erklärung und Phasen der Selbstbeobachtung beim Lernen

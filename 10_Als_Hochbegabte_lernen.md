@@ -89,3 +89,12 @@ Genug von den Fallen — reden wir über deine Vorteile. Denn deine schnelle Auf
 > Such dir diese Woche bewusst **eine Sache aus, die dir schwerfällt** — eine harte Knobelaufgabe, ein kniffliges Stück auf einem Instrument, ein Logikrätsel, eine schwierige Programmierübung. Etwas, das du *nicht* sofort kannst.
 >
 > Bleib zehn Minuten dran, auch wenn es zwickt. Beobachte dabei das Gefühl der Anstrengung — und sag dir innerlich: „Das hier ist genau das Gefühl von Wachsen." Du trainierst gerade die wertvollste Fähigkeit, die ein kluger Kopf haben kann: am Schweren dranzubleiben.
+
+---
+
+## 📚 Quellen & Links
+
+- **Winner (1996)** · *Gifted Children: Myths and Realities* — Klassiker der Hochbegabungsforschung
+- **Subotnik et al. (2011)** · „Rethinking Giftedness and Gifted Education", *Psychological Science in the Public Interest* — Umfassender aktueller Überblick, u. a. zu Underachievement
+- **Karg-Stiftung** · [karg-stiftung.de](https://www.karg-stiftung.de) — Deutsche Stiftung für Hochbegabtenförderung; kostenlose Materialien für Kinder, Eltern und Schule
+- [Wikipedia: Hochbegabung](https://de.wikipedia.org/wiki/Hochbegabung) — Definition, Merkmale, Forschungsstand

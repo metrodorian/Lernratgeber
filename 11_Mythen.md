@@ -81,3 +81,12 @@ Fast die gesamte Lernwissenschaft passt in diesen einen Satz. Wenn du nur ihn be
 > Geh ehrlich deine letzte Lernwoche durch: Welche dieser vier Mythen hast du selbst benutzt? (Keine Sorge — fast jeder benutzt mindestens zwei.)
 >
 > Such dir **einen** davon aus und ersetz ihn diese Woche durch die bessere Variante: statt Wiederlesen → abfragen, statt nebenbei → Handy weg, statt Nacht-Pauken → auf drei Abende verteilen. Nur eine Umstellung. Sie wird mehr bringen als jede neue Lern-App.
+
+---
+
+## 📚 Quellen & Links
+
+- **Pashler et al. (2008)** · „Learning Styles: Concepts and Evidence", *Psychological Science in the Public Interest*, 9(3) — Umfassende Widerlegung des Lerntypen-Mythos
+- **Dunlosky et al. (2013)** · bereits in Kapitel 2 zitiert — enthält den direkten Vergleich von Wiederlesen, Markieren und wirksameren Methoden
+- **Ophir et al. (2009)** · „Cognitive Control in Media Multitaskers", *PNAS*, 106(37) — Multitasking-Studie: Wer viel jongliert, kann schlechter filtern
+- [Wikipedia: Lernstil](https://de.wikipedia.org/wiki/Lernstil) — mit Abschnitt zur wissenschaftlichen Kritik am Lerntypen-Modell

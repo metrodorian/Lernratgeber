@@ -77,3 +77,12 @@ Wenn du etwas **zum allerersten Mal** lernst — eine ganz neue Regel, einen fri
 > Nimm dir das schwierigste Thema deiner aktuellen Woche vor. Setz dich hin und erklär es laut — einem Stofftier, dem Spiegel, deinem Hund. Ohne ins Buch zu schauen.
 >
 > Achte genau auf den Moment, in dem du ins Stocken gerätst oder denkst „… und dann ist das halt irgendwie so". Genau *da* hast du es noch nicht verstanden. Schlag nach, und erklär die Stelle nochmal — diesmal flüssig. Dieses eine Aha von eben ist mehr wert als eine Stunde Wiederlesen.
+
+---
+
+## 📚 Quellen & Links
+
+- **Bisra et al. (2018)** · „Inducing Self-Explanation: A Meta-Analysis", *Educational Psychology Review* — 64 Studien, fast doppelt so gute Lernergebnisse durch Selbsterklärung
+- **Chi et al. (1994)** · „Eliciting Self-Explanations Improves Understanding", *Cognitive Science*, 18(3) — Frühes Grundlagenwerk zur Selbsterklärung
+- **Rohrer & Taylor (2007)** · „The Shuffling of Mathematics Problems Improves Learning", *Instructional Science* — Kernbeleg für Interleaving im Fach Mathematik
+- [Wikipedia: Elaboratives Enkodieren](https://de.wikipedia.org/wiki/Elaboration_(Kognitionswissenschaft)) — Hintergrund zum tiefen Verarbeiten von Wissen

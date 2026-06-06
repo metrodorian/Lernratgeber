@@ -99,3 +99,12 @@ Knüpf an erledigte Häppchen kleine Belohnungen: nach zwei Pomodoros eine Folge
 > Schreib dir für morgen einen einzigen Wenn-dann-Plan auf — ganz konkret, mit Zeitpunkt und Ort. Zum Beispiel: *„Wenn ich nach dem Abendessen den Tisch abgeräumt habe, dann mache ich einen 25-Minuten-Pomodoro Englisch-Vokabeln an meinem Schreibtisch."*
 >
 > Häng den Zettel dorthin, wo du ihn siehst. Und dann achte morgen darauf, wie viel leichter das Anfangen fällt, wenn die Entscheidung schon getroffen war.
+
+---
+
+## 📚 Quellen & Links
+
+- **Cirillo (2018)** · *The Pomodoro Technique* — Das Original; auch kostenlos als PDF auf der Website des Autors
+- **Gollwitzer (1999)** · „Implementation Intentions: Strong Effects of Simple Plans", *American Psychologist*, 54(7) — Grundlagenwerk zu Wenn-dann-Plänen (über 100 Folgestudien)
+- **Ward et al. (2017)** · „Brain Drain: The Mere Presence of One's Own Smartphone Reduces Available Cognitive Capacity", *Journal of the Association for Consumer Research*, 2(2) — Handy auf dem Tisch senkt Konzentration messbar
+- [Wikipedia: Pomodoro-Technik](https://de.wikipedia.org/wiki/Pomodoro-Technik) — kurze Erklärung mit Variationen
