@@ -34,7 +34,7 @@ Wenn du weißt, was du suchst:
 | 8 | [Kopf und Einstellung](08_Kopf_und_Einstellung.md) | Wachstumsdenken, Selbstbeobachtung, Prüfungsangst |
 | 9 | [Als hochbegabte Person lernen](09_Als_Hochbegabte_lernen.md) | Besondere Stärken, besondere Fallen |
 | 10 | [Was nicht funktioniert — Mythen](10_Mythen.md) | Spart dir die meiste Zeit |
-| 11 | [Künstliche Intelligenz: Werkzeug oder Falle?](11_Kuenstliche_Intelligenz.md) | Wie du KI klug nutzt — und was die Forschung vor ihr warnt |
+| 11 | [KI: Werkzeug und Falle](11_Kuenstliche_Intelligenz.md) | Wie du KI klug nutzt — und was die Forschung vor ihr warnt |
 
 ---
 

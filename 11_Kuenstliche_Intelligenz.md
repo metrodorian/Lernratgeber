@@ -1,6 +1,6 @@
-# Kapitel 11 — Künstliche Intelligenz: Werkzeug oder Falle?
+# Kapitel 11 — KI: Werkzeug und Falle
 
-> Du wächst mit etwas auf, das es für deine Eltern in deinem Alter nicht gab: eine künstliche Intelligenz, die fast jede Frage beantwortet, jeden Aufsatz schreibt und jede Aufgabe löst — in Sekunden. Das ist gewaltig. Es kann dein bester Lernhelfer werden oder dein heimlicher Lern-Verhinderer. Was von beidem, entscheidet eine einzige Sache: *wie* du sie benutzt.
+> Du wächst mit etwas auf, das es für deine Eltern in deinem Alter nicht gab: eine künstliche Intelligenz, die fast jede Frage beantwortet, jeden Aufsatz schreibt und jede Aufgabe löst — in Sekunden. Das ist gewaltig. Und hier ist das Wichtigste gleich vorweg: Sie ist nicht *entweder* das eine *oder* das andere — sie ist **beides zugleich**, ein mächtiges Werkzeug *und* eine raffinierte Falle. Welche Seite du bekommst, entscheidet eine einzige Sache: *wie* du sie benutzt. Unterstützen kann sie dich beim Lernen enorm — aber dein Denken ersetzen darf sie nie. Und eines kann sie ganz sicher nicht: *für dich lernen.*
 >
 > Eine Vorbemerkung zur Ehrlichkeit: KI ist so neu, dass es noch kaum Langzeitstudien gibt. Aber die ersten guten Untersuchungen sind da — und sie zeichnen ein erstaunlich klares Bild. Genau die schauen wir uns hier an.
 
