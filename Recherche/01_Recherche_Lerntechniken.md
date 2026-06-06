@@ -395,6 +395,39 @@ A4 (wünschenswerte Schwierigkeiten) und B2 (aktives Abrufen).
 
 ---
 
+## K — Freude, Neugier & Motivation (Treibstoff fürs Lernen)
+
+Gut belegt, dass Neugier und positive Motivation das Lernen messbar verbessern.
+Verbindet sich mit A4 (Anstrengung) — Freude macht die nötige Anstrengung leichter.
+
+### K1 — Neugier verstärkt das Gedächtnis (Dopamin)
+- **Gruber et al. (2014, Neuron):** Bei hoher Neugier sind dopaminerges Belohnungs-
+  system + Hippocampus aktiver; bessere Erinnerung an die gesuchte Info UND an
+  zufälliges Begleitmaterial. Neugier = „Aufnahme-Modus". 🟢
+- Anwendung: „Funke zuerst" (spannendes Video/Doku/Frage als Initialinspiration),
+  DANN aktiv vertiefen. Wichtig: Video allein ist passiv (Illusion der Kompetenz) —
+  Funke, nicht Feuer.
+
+### K2 — Intrinsische Motivation (Self-Determination Theory, Deci & Ryan)
+- Aus Interesse/Freude lernen → tieferes Verständnis, bessere Behaltensleistung,
+  mehr Wohlbefinden. Über hunderte Studien gestützt. 🟢
+- Drei Grundbedürfnisse: Autonomie (selbst wählen), Kompetenz (Fortschritt spüren),
+  Verbundenheit (mit anderen).
+
+### K3 — Mit anderen lernen & Projekte
+- Peer-/kollaboratives Lernen steigert Motivation, Engagement, Selbstregulation
+  (wenn alle mitmachen); nutzt automatisch Abfragen + Erklären. 🟡
+- Projektbasiertes Lernen (PBL): große Effektstärken auf Leistung/Motivation, aber
+  methodisch vielfältig (Umsetzung entscheidend). 🟡
+
+*Quellen K:*
+- [Gruber et al. 2014: States of Curiosity Modulate Hippocampus-Dependent Learning — PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC4252494/)
+- [Curiosity helps learning and memory — University of California](https://www.universityofcalifornia.edu/news/curiosity-helps-learning-and-memory)
+- [Self-Determination Theory in education — ScienceDirect](https://www.sciencedirect.com/science/article/abs/pii/S0361476X20300254)
+- [Project-based learning effectiveness — Nature HSSC](https://www.nature.com/articles/s41599-026-06684-4)
+
+---
+
 ## Vorschlag: roter Faden für den späteren Ratgeber
 
 Ein eingängiges Gerüst, das die Kategorien in eine Lern-Reihenfolge bringt:

@@ -1,6 +1,6 @@
 # Kapitel 3 — Tief verstehen statt auswendig lernen
 
-🟩🟩🟩🟩⬜ **Konfidenz: Solide** · Selbsterklärung und Verschachteln sind gut belegt (das Verschachteln mit ein paar Nuancen). Die „Feynman-Technik" ist als Marke nicht eigens getestet — sie verpackt aber das gut belegte Prinzip der Selbsterklärung.
+🟩🟩🟩🟩⬜ **Konfidenz: Solide** · Selbsterklärung und Verschachteln sind gut belegt (das Verschachteln mit ein paar Nuancen). Die „Feynman-Technik" ist als Marke nicht eigens getestet — sie verpackt aber das gut belegte Prinzip der Selbsterklärung.
 
 > Sich abzufragen (Kapitel 2) bringt nur dann etwas, wenn dahinter echtes Verständnis steckt. Reines Auswendiglernen ohne Verstehen ist wie ein Haus auf Sand. Dieses Kapitel zeigt dir, wie du Dinge so verstehst, dass sie *halten* — und sich sogar auf neue Aufgaben übertragen lassen.
 
@@ -15,6 +15,8 @@ Sein Geheimnis war keine Zauberei. Es war eine Gewohnheit: Wenn Feynman etwas wi
 Daraus ist eine der besten Lerntechniken überhaupt geworden.
 
 ## Die Feynman-Technik
+
+🟡 *Als „Selbsterklärung" gut belegt — die 4-Schritt-Marke selbst ist nicht eigens getestet.*
 
 Sie hat vier einfache Schritte:
 
@@ -42,6 +44,8 @@ Du kannst das auch ohne die volle Feynman-Technik nutzen — einfach, indem du d
 Diese kleinen Warum-Fragen verwandeln totes Auswendiglernen in lebendiges Verstehen. Wissen, das mit anderem Wissen verknüpft ist, sitzt viel fester — weil es viele „Pfade" gibt, über die du es wiederfinden kannst.
 
 ## Themen mischen statt am Stück büffeln
+
+🟡 *Solide belegt — wirkt vor allem beim Festigen, weniger beim allerersten Lernen.*
 
 Jetzt kommt eine Technik, die sich richtig falsch anfühlt — und trotzdem funktioniert. Sie heißt **Interleaving**, zu Deutsch „Verschachteln".
 

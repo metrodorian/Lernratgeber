@@ -1,6 +1,6 @@
 # Kapitel 6 — Fokus und Motivation
 
-🟩🟩🟩🟨⬜ **Konfidenz: Überwiegend solide** · Dass Multitasking schadet und dass Wenn-dann-Pläne und kleine Startschritte helfen, ist gut belegt. Die *genaue* Pomodoro-Formel (25/5 min) ist dagegen eher Erfahrungswert — wichtig ist der Rhythmus aus Fokus und Pause, nicht die exakte Minutenzahl.
+🟩🟩🟩🟨⬜ **Konfidenz: Überwiegend solide** · Dass Multitasking schadet und dass Wenn-dann-Pläne und kleine Startschritte helfen, ist gut belegt. Die *genaue* Pomodoro-Formel (25/5 min) ist dagegen eher Erfahrungswert — wichtig ist der Rhythmus aus Fokus und Pause, nicht die exakte Minutenzahl.
 
 > Du kannst die besten Lerntechniken der Welt kennen — sie nützen dir nichts, wenn du dich nicht hinsetzt oder alle zwei Minuten aufs Handy schaust. Dieses Kapitel handelt davon, wie du *anfängst*, wie du *dranbleibst* und wie du die Aufschieberitis besiegst. Gute Nachricht: Das sind keine Charakterfragen. Das sind Techniken.
 
@@ -17,6 +17,8 @@ Die Lösung ist unbequem, aber simpel: Während du lernst, gehört das Handy **a
 ---
 
 ## Die Pomodoro-Technik
+
+🟠 *Das Prinzip (Fokus + Pause) ist sinnvoll; die genaue 25/5-Formel ist Erfahrungswert, nicht bewiesen.*
 
 Das ist der einfachste Konzentrations-Trick der Welt, und er stammt von einer **Küchenuhr in Tomatenform** (italienisch „pomodoro" = Tomate). Erfunden hat ihn ein Student, der sich partout nicht konzentrieren konnte.
 
@@ -43,6 +45,8 @@ Wenn 25 Minuten am Anfang zu lang sind: Fang mit **15** an. Es gibt keine heilig
 
 ## Tiefes Arbeiten: eine Sache, ganz
 
+🟡 *Dass Multitasking schadet, ist solide belegt; dass schon der bloße „Handy-Anblick" stört, ist schwächer abgesichert.*
+
 Vielleicht denkst du, du könntest „nebenbei" lernen — Vokabeln pauken *und* chatten *und* ein Video laufen lassen. Die schlechte Nachricht: **Multitasking gibt es beim Lernen nicht.** Dein Gehirn macht nicht zwei Dinge gleichzeitig, es springt blitzschnell hin und her. Und jeder Sprung kostet: Zeit, Fehler, Konzentration. Du brauchst nach jeder Unterbrechung viele Sekunden, um wieder richtig „drin" zu sein.
 
 Deshalb schlägt **eine Sache, konzentriert** immer viele Sachen gleichzeitig. Praktisch heißt das:
@@ -54,6 +58,8 @@ Deshalb schlägt **eine Sache, konzentriert** immer viele Sachen gleichzeitig. P
 ---
 
 ## Aufschieberitis besiegen
+
+🟢 *Gut belegt — besonders die Wenn-dann-Pläne.*
 
 Fast jeder schiebt manchmal auf. Aber das Überraschende ist *warum*: Aufschieben ist meistens **keine Faulheit**. Die Forschung zeigt, dass dahinter fast immer ein **unangenehmes Gefühl** steckt, dem man ausweichen will:
 

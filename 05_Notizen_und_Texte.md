@@ -1,6 +1,6 @@
 # Kapitel 5 — Notizen und Texte
 
-🟩🟩🟨🟨⬜ **Konfidenz: Gemischt** · Die *Prinzipien* dahinter (Selbst-Abfrage, Wort + Bild) sind solide belegt. Die konkreten Marken-Methoden (Cornell, SQ3R, Mindmaps) sind populär, aber nur dünn erforscht — sie wirken vor allem, *weil* sie diese Prinzipien einbauen.
+🟩🟩🟨🟨⬜ **Konfidenz: Gemischt** · Die *Prinzipien* dahinter (Selbst-Abfrage, Wort + Bild) sind solide belegt. Die konkreten Marken-Methoden (Cornell, SQ3R, Mindmaps) sind populär, aber nur dünn erforscht — sie wirken vor allem, *weil* sie diese Prinzipien einbauen.
 
 > Mitschreiben und Texte lesen — das tust du jeden Tag in der Schule. Aber die meisten machen beides auf die langsamste, unwirksamste Art: Sie schreiben mit wie ein Kopierer und lesen wie ein Staubsauger, der einfach alles aufsaugt. Dieses Kapitel zeigt dir Methoden, die das Abrufen und Verstehen aus Kapitel 2 und 3 schon *eingebaut* haben.
 
@@ -17,6 +17,8 @@ Das eigentliche Problem: Reines Mitschreiben ist **passiv**. Dein Gehirn ist im 
 ---
 
 ## Die Cornell-Methode
+
+🟠 *Beliebt, aber als eigene Methode nur dünn erforscht — sie wirkt über die belegten Prinzipien dahinter (Abfragen, Zusammenfassen).*
 
 Erfunden an der Cornell-Universität, ist das wahrscheinlich das beste Notiz-System der Welt — und es braucht nur ein Blatt Papier, das du clever aufteilst.
 
@@ -63,6 +65,8 @@ Merkst du was? Das ist **aktives Abrufen** (Königstechnik 2!) — direkt in dei
 
 ## Aktiv lesen mit SQ3R
 
+🟠 *Beliebt, aber als eigene Methode nur dünn erforscht — stark sind die Bausteine (Vorschau, Selbst-Abfrage).*
+
 Einen Sachtext einfach von oben nach unten durchzulesen ist erstaunlich ineffektiv — die Augen wandern über die Zeilen, aber der Kopf döst. Die **SQ3R-Methode** macht aus passivem Lesen ein aktives Gespräch mit dem Text. Die fünf Buchstaben stehen für fünf Schritte:
 
 1. **S – Survey (Überfliegen):** Bevor du richtig liest, verschaffe dir einen Überblick. Schau Überschriften, Bilder, fett Gedrucktes und die Zusammenfassung an. Du baust dir eine „Landkarte", bevor du losläufst.
@@ -76,6 +80,8 @@ Ein schöner Nebeneffekt: Wer Texte so bearbeitet, geht **mit weniger Prüfungsa
 ---
 
 ## Mindmaps und die Macht von Bildern
+
+🟡 *Wort + Bild zusammen (Dual Coding) ist gut belegt; Mindmaps als solche weniger.*
 
 Es gibt noch einen Grund, warum Bilder beim Lernen so stark sind (du kennst ihn aus Kapitel 4): Dein Gehirn hat **zwei** Speicher — einen für Worte und einen für Bilder. Wenn du beide nutzt, speicherst du eine Sache *doppelt* ab und hast zwei Wege, sie wiederzufinden. Forscher nennen das **„duale Kodierung"**. In Studien behalten Lernende mit Wort *und* Bild deutlich mehr als mit Worten allein.
 

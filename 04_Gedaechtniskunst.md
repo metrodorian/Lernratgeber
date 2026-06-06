@@ -1,6 +1,6 @@
 # Kapitel 4 — Gedächtniskunst
 
-🟩🟩🟩🟩⬜ **Konfidenz: Solide** · Der Gedächtnispalast ist gut belegt — vor allem für Listen, Reihenfolgen und Fakten, weniger für tiefes Verstehen. Eselsbrücken und Vokabel-Bilder helfen ebenfalls nachweislich.
+🟩🟩🟩🟩⬜ **Konfidenz: Solide** · Der Gedächtnispalast ist gut belegt — vor allem für Listen, Reihenfolgen und Fakten, weniger für tiefes Verstehen. Eselsbrücken und Vokabel-Bilder helfen ebenfalls nachweislich.
 
 > Manchmal musst du Dinge einfach *behalten*: Vokabeln, Jahreszahlen, die Reihenfolge der Planeten, eine Liste. Dafür gibt es uralte Tricks, mit denen Menschen Erstaunliches leisten — Gedächtnissportler merken sich die Reihenfolge eines gemischten Kartenspiels in unter einer Minute. Das Beste: Diese Tricks sind keine Begabung. Sie sind Technik, und du kannst sie lernen.
 

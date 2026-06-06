@@ -1,12 +1,14 @@
 # Kapitel 8 — Kopf und Einstellung
 
-🟩🟩🟩🟨⬜ **Konfidenz: Gemischt** · Sich selbst beim Lernen zu beobachten (Metakognition) gehört zu den wirksamsten Dingen überhaupt — sehr solide. Das **Wachstumsdenken** dagegen (🟥🟥⬜⬜⬜ umstritten) hält den großen Versprechen neuerer Studien nicht stand — wir sagen im Kapitel offen, warum.
+🟩🟩🟩🟨⬜ **Konfidenz: Gemischt** · Sich selbst beim Lernen zu beobachten (Metakognition) gehört zu den wirksamsten Dingen überhaupt — sehr solide. Das **Wachstumsdenken** dagegen (🟥🟥⬜⬜⬜ umstritten) hält den großen Versprechen neuerer Studien nicht stand — wir sagen im Kapitel offen, warum.
 
 > Die besten Werkzeuge nützen wenig, wenn du innerlich aufgibst, sobald es schwer wird — oder wenn du gar nicht merkst, dass deine Methode gerade nicht funktioniert. Dieses Kapitel geht um die Einstellung hinter dem Lernen: wie du an Schwieriges herangehst, wie du dich selbst beim Lernen beobachtest, und was du gegen Prüfungsangst tun kannst.
 
 ---
 
 ## „Ich kann das nicht" — oder „ich kann das *noch* nicht"?
+
+🔴 *Umstritten: Die großen Versprechen des Wachstumsdenkens halten neueren Studien nicht stand — mehr dazu gleich unter „Aber Vorsicht".*
 
 Stell dir zwei Schüler vor, die bei derselben kniffligen Aufgabe scheitern.
 
@@ -25,11 +27,13 @@ Dieses *noch* verwandelt eine Sackgasse in einen Weg.
 
 Hier muss man fair bleiben, denn dazu gibt es neuere Forschung: Nur *daran zu glauben*, dass man besser werden kann, verbessert deine Noten **nicht** von allein. Positives Denken ist kein Zauberspruch.
 
-Das Wachstums-Denken wirkt erst, wenn du es mit **echtem Handeln** verbindest — also mit den Techniken aus diesem Buch. „Ich kann besser werden" ist nur der erste Schritt. Der zweite ist: „… und hier ist *wie* — durch Abfragen, Verteilen, Erklären, Üben." Die richtige Einstellung öffnet die Tür. Durchgehen musst du mit Methode.
+Das Wachstums-Denken wirkt erst, wenn du es mit **echtem Handeln** verbindest — also mit den Techniken aus diesem Ratgeber. „Ich kann besser werden" ist nur der erste Schritt. Der zweite ist: „… und hier ist *wie* — durch Abfragen, Verteilen, Erklären, Üben." Die richtige Einstellung öffnet die Tür. Durchgehen musst du mit Methode.
 
 ---
 
 ## Sich selbst beim Lernen über die Schulter schauen
+
+🟢 *Sehr gut belegt — Metakognition gehört zu den wirksamsten Faktoren für Lernerfolg überhaupt.*
 
 Das ist vielleicht die wichtigste „unsichtbare" Fähigkeit überhaupt — Forscher nennen sie **Metakognition**, also „das Denken über das eigene Denken". Sie ist der Dirigent, der all deine Lern-Werkzeuge klug einsetzt. Sie hat drei Phasen:
 
@@ -44,6 +48,8 @@ Selbstregulation gehört übrigens zu den Dingen mit dem allerstärksten Einflus
 ---
 
 ## Prüfungsangst
+
+🟡 *Solide — gute Vorbereitung senkt Prüfungsangst nachweislich; die einzelnen Tipps sind plausibel.*
 
 Fast jeder kennt das flaue Gefühl vor einer Klausur. Ein bisschen Anspannung ist sogar gut — sie macht wach. Aber wenn die Angst so groß wird, dass der Kopf leer wird, lohnt es sich, etwas dagegen zu tun.
 

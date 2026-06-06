@@ -1,6 +1,6 @@
 # Kapitel 9 — Als hochbegabte Person lernen
 
-🟩🟩🟩🟨⬜ **Konfidenz: Solide (Fachkonsens)** · Die beschriebenen Muster (Langeweile, fehlende Lernstrategien, Perfektionismus, Underachievement) sind in der Hochbegabungsforschung breit anerkannt — sie beruhen aber stärker auf Beobachtung und Beratungspraxis als auf großen Experimenten.
+🟩🟩🟩🟨⬜ **Konfidenz: Solide (Fachkonsens)** · Die beschriebenen Muster (Langeweile, fehlende Lernstrategien, Perfektionismus, Underachievement) sind in der Hochbegabungsforschung breit anerkannt — sie beruhen aber stärker auf Beobachtung und Beratungspraxis als auf großen Experimenten.
 
 > Dieses Kapitel ist für dich, wenn dir vieles in der Schule leichtfällt — wenn du Dinge oft schon verstehst, während andere noch mitschreiben. Das ist ein großes Geschenk. Aber es bringt ein paar ganz eigene Fallen mit sich, die kaum jemand kennt. Wer sie kennt, kann sie umgehen.
 
@@ -18,7 +18,7 @@ Andere Kinder müssen sich von klein auf abmühen: Sie entwickeln Tricks, sie le
 
 Und dann kommt irgendwann der Tag — vielleicht in einem schweren Fach, vielleicht erst in der Oberstufe oder im Studium — an dem etwas zum ersten Mal **nicht** sofort klappt. Plötzlich reicht „einmal zuhören" nicht mehr. Und jetzt fehlt dir genau das, was die anderen längst können: *richtig zu lernen.*
 
-> **Die gute Nachricht:** Du liest dieses Buch. Du kannst dir den Werkzeugkasten *jetzt* bauen — in Ruhe, bevor du ihn dringend brauchst. Das ist der größte Vorsprung, den du dir verschaffen kannst.
+> **Die gute Nachricht:** Du liest diesen Ratgeber. Du kannst dir den Werkzeugkasten *jetzt* bauen — in Ruhe, bevor du ihn dringend brauchst. Das ist der größte Vorsprung, den du dir verschaffen kannst.
 
 ---
 

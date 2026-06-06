@@ -1,6 +1,6 @@
 # Kapitel 11 — KI: Werkzeug und Falle
 
-🟧🟧⬜⬜⬜ **Konfidenz: Vorläufig** · KI ist zu neu für gesicherte Langzeitstudien. Die genannten Befunde (MIT-Hirnstudie, „metakognitive Faulheit") sind erste, ernstzunehmende Hinweise — aber noch nicht endgültig bewiesen, teils noch nicht abschließend begutachtet. Die *Grundprinzipien* dahinter (Anstrengung = Lernen, Illusion der Kompetenz) sind dagegen 🟩 felsenfest.
+🟧🟧⬜⬜⬜ **Konfidenz: Vorläufig** · KI ist zu neu für gesicherte Langzeitstudien. Die genannten Befunde (MIT-Hirnstudie, „metakognitive Faulheit") sind erste, ernstzunehmende Hinweise — aber noch nicht endgültig bewiesen, teils noch nicht abschließend begutachtet. Die *Grundprinzipien* dahinter (Anstrengung = Lernen, Illusion der Kompetenz) sind dagegen 🟩 felsenfest.
 
 > Du wächst mit etwas auf, das es für deine Eltern in deinem Alter nicht gab: eine künstliche Intelligenz, die fast jede Frage beantwortet, jeden Aufsatz schreibt und jede Aufgabe löst — in Sekunden. Das ist gewaltig. Und hier ist das Wichtigste gleich vorweg: Sie ist nicht *entweder* das eine *oder* das andere — sie ist **beides zugleich**, ein mächtiges Werkzeug *und* eine raffinierte Falle. Welche Seite du bekommst, entscheidet eine einzige Sache: *wie* du sie benutzt. Unterstützen kann sie dich beim Lernen enorm — aber dein Denken ersetzen darf sie nie. Und eines kann sie ganz sicher nicht: *für dich lernen.*
 >
@@ -27,6 +27,8 @@ Dieselbe KI, dasselbe Gerät — und trotzdem der Unterschied zwischen schlauer 
 
 ### Die Schuld, die du später bezahlst
 
+🔴 *Einzelstudie, kleine Stichprobe, noch nicht begutachtet — ein ernstzunehmender Hinweis, kein Beweis.*
+
 2025 hat das MIT, eine der berühmtesten Forschungseinrichtungen der Welt, ein verblüffendes Experiment gemacht. Sie ließen Menschen Aufsätze schreiben — eine Gruppe mit ChatGPT, eine mit einer Suchmaschine, eine ganz ohne Hilfsmittel — und maßen dabei mit Elektroden die **Gehirnaktivität**.
 
 Das Ergebnis war eindeutig: Die Gehirne der ChatGPT-Nutzer waren am **wenigsten** aktiv und vernetzt. Die „Nur-Kopf"-Gruppe zeigte die stärkste, lebendigste Hirnaktivität. Klar — wer selbst denkt, dessen Gehirn arbeitet.
@@ -36,6 +38,8 @@ Aber jetzt kommt der wirklich beunruhigende Teil. Als die ChatGPT-Gruppe später
 Und ein Detail bleibt besonders hängen: **78 % der ChatGPT-Nutzer konnten kurz nach dem Schreiben nicht einen einzigen Satz aus ihrem „eigenen" Aufsatz zitieren.** Es war nie *ihr* Aufsatz. Es ging nie durch ihren Kopf. Also blieb auch nichts hängen.
 
 ### Gute Ergebnisse — und trotzdem nichts gelernt
+
+🟠 *Eine begutachtete Laborstudie — plausibel, aber noch nicht breit bestätigt.*
 
 Eine zweite Studie (mit 117 Studierenden) brachte es auf den Punkt. Die Gruppe mit ChatGPT schrieb die **besseren** Aufsätze — sogar bessere als die Gruppe mit menschlicher Hilfe. Klingt super, oder?
 
@@ -48,6 +52,8 @@ Hier triffst du auf einen der wichtigsten Gedanken dieses ganzen Buches wieder �
 Ein gutes Ergebnis und echtes Lernen sind eben **nicht dasselbe**. Die KI liefert dir mühelos das Ergebnis. Aber lernen — das kann sie nicht für dich. Das musst immer noch du.
 
 ### Die Super-Illusion der Kompetenz
+
+🟢 *Gut belegt — die Illusion der Kompetenz ist solide erforscht (siehe Kapitel 1).*
 
 In Kapitel 1 ging es um die **Illusion der Kompetenz**: das trügerische Gefühl, etwas zu können, nur weil es einem vertraut vorkommt. Die KI ist die stärkste Illusions-Maschine, die je erfunden wurde. Du liest eine perfekte, glasklare Antwort und denkst: *„Ja, genau, verstehe ich."* Aber die Klarheit ist *ihre*, nicht deine. Du hast eine fremde Lösung *erkannt* — abrufen oder selbst erzeugen könntest du sie nicht. Und genau das bräuchtest du in der Prüfung.
 
