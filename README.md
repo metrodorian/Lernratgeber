@@ -18,11 +18,11 @@ Dieser Ratgeber holt dieses Wissen heraus und übersetzt es für dich — verst�
 
 Damit du dich schnell zurechtfindest, ist alles nach demselben Muster gebaut:
 
-- **12 Kapitel, die du frei wählen kannst.** Du musst nicht von vorne nach hinten lesen — spring dahin, wo dich etwas interessiert. (Nur Kapitel 1 lohnt sich am Anfang, weil es erklärt, *warum* der Rest funktioniert.)
+- **12 Kapitel, die du frei wählen kannst:** Du musst nicht von vorne nach hinten lesen — spring dahin, wo dich etwas interessiert. (Nur Kapitel 1 lohnt sich am Anfang, weil es erklärt, *warum* der Rest funktioniert.)
 - **Jede Technik wird gleich erklärt:** *Was* ist das? — *Warum* funktioniert es (mit dem, was die Forschung sagt)? — *Wie* wendest du es an (mit konkretem Beispiel)?
-- **Geschichten statt trockener Theorie.** Du triffst den Mann, der sinnlose Silben auswendig lernte, den Physiker, der alles erklären konnte, und eine Küchenuhr in Tomatenform.
+- **Geschichten statt trockener Theorie:** Du triffst den Mann, der sinnlose Silben auswendig lernte, den Physiker, der alles erklären konnte, und eine Küchenuhr in Tomatenform.
 - **Am Ende jedes Kapitels** findest du **📦 Für deine Werkzeugkiste** (die wichtigsten Punkte in Kürze) und **🎯 Probier's aus** (eine kleine Aufgabe, die du sofort machen kannst — denn gelesen ist nicht gelernt).
-- **Ehrlichkeit über die Belege.** Nicht alles ist gleich gut erforscht. Manche Techniken sind felsenfest bewiesen, andere sind neuer und vorläufiger. Wir sagen dir bei jedem Thema offen dazu, **wie sicher** wir uns sein können — damit du selbst urteilen kannst und nichts blind glauben musst. Du erkennst es an einem **Konfidenz-Balken** direkt unter jeder Kapitelüberschrift:
+- **Ehrlichkeit über die Belege:** Nicht alles ist gleich gut erforscht. Manche Techniken sind felsenfest bewiesen, andere sind neuer und vorläufiger. Wir sagen dir bei jedem Thema offen dazu, **wie sicher** wir uns sein können — damit du selbst urteilen kannst und nichts blind glauben musst. Du erkennst es an einem **Konfidenz-Balken** direkt unter jeder Kapitelüberschrift:
     - 🟩🟩🟩🟩🟩 *felsenfest*
     - 🟩🟩🟩🟩⬜ *solide*
     - 🟩🟩🟨🟨⬜ *gemischt*
@@ -31,7 +31,7 @@ Damit du dich schnell zurechtfindest, ist alles nach demselben Muster gebaut:
 
 ## Eine Einladung, nicht eine Hausaufgabe
 
-Du musst nicht alles auf einmal umkrempeln. Niemand benutzt ab morgen zwölf neue Techniken. Such dir **eine** Sache aus, die dich anspricht, und probier sie eine Woche lang. Wenn sie dir hilft, nimm die nächste dazu.
+Du musst nicht alles auf einmal umkrempeln. Niemand benutzt ab morgen zwölf neue Techniken. Such dir **eine** Sache aus, die dich anspricht, und probier sie eine Woche lang. Wenn Du fertig bist, nimm die nächste dazu.
 
 So wird aus diesem Ratgeber kein weiterer Stapel guter Ratschläge, den man nickend liest und wieder vergisst — sondern ein Werkzeugkasten, den du wirklich benutzt. Fangen wir an.
 
