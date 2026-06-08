@@ -26,7 +26,7 @@ Konkret heißt das ungefähr:
 
 Stell dir das wie einen Eimer mit einem Loch im Boden vor. Du füllst ihn beim Lernen randvoll — und während du noch zuschaust, läuft das Meiste schon wieder aus.
 
-Das klingt deprimierend. Ist es aber nicht. Denn jetzt kommt der Trick.
+Das klingt deprimierend. Aber es hat einen guten Grund und es gibt einen Ausweg.
 
 ## Vergessen ist kein Fehler — es ist eine Superkraft
 
@@ -36,11 +36,13 @@ Stell dir vor, du würdest dich an *alles* erinnern: an jede Telefonnummer, die 
 
 Also macht dein Gehirn etwas Kluges: Es löscht standardmäßig fast alles wieder. Es behält nur, was es für **wichtig** hält. Und woran erkennt es, was wichtig ist?
 
-> **An einer einzigen Sache: ob die Information immer wieder auftaucht.**
+> **Wiederholungen**
 
 Etwas, das nur ein einziges Mal vorkommt, ist wahrscheinlich unwichtig — weg damit. Etwas, das immer wieder kommt, scheint zum Leben dazuzugehören — das behalten wir besser.
 
 Und genau hier setzt jede gute Lerntechnik an. **Lernen heißt im Grunde: deinem Gehirn glaubhaft vormachen, dass eine Information wichtig ist.** Nicht durch langes Anstarren, sondern dadurch, dass sie *wiederkehrt*.
+
+Es ist auch wichtig, wie wir uns dabei fühlen. Wenn wir ehrlich interessiert sind merken wir es uns besser. Mehr dazu in Kapitel 4, Freude am Lernen.
 
 ## Erinnerungen werden nicht beim Lernen gebaut — sondern danach
 
