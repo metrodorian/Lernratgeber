@@ -70,7 +70,7 @@ Es gibt nur eine Möglichkeit, ihr zu entkommen: **Buch zu, und schauen, was wir
 
 Vielleicht ahnst du es schon: Die Dinge, die deinem Gedächtnis am meisten helfen, fühlen sich oft *schwerer* an.
 
-Sich selbst abfragen ist anstrengender als nochmal lesen. Eine Woche zu warten und dann zu wiederholen ist mühsamer, als alles am Stück durchzuziehen. Aber genau diese kleine Anstrengung beim Erinnern **ist** der Lerneffekt.
+Sich selbst abfragen ist anstrengender als nochmal lesen. Eine Woche zu warten und dann zu wiederholen ist mühsamer, als alles am Stück durchzuziehen. Aber genau diese kleine Anstrengung beim Erinnern bedeutet, man lernt etwas.
 
 Zwei Forscher, Robert und Elizabeth Bjork, haben dafür einen wunderbaren Namen erfunden: **„wünschenswerte Schwierigkeiten"**. Eine Schwierigkeit, die man sich *wünschen* sollte, weil sie einen besser macht. Wie beim Krafttraining: Der Muskel wächst nicht, wenn du das leichte Gewicht hebst, sondern wenn es ein bisschen zwickt.
 
