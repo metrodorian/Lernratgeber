@@ -36,9 +36,11 @@ Stell dir vor, du würdest dich an *alles* erinnern: an jede Telefonnummer, die 
 
 Also macht dein Gehirn etwas Kluges: Es löscht standardmäßig fast alles wieder. Es behält nur, was es für **wichtig** hält. Und woran erkennt es, was wichtig ist?
 
-> **Wiederholungen**
+> **Vor allem an einer Sache: ob die Information immer wieder auftaucht.**
 
 Etwas, das nur ein einziges Mal vorkommt, ist wahrscheinlich unwichtig — weg damit. Etwas, das immer wieder kommt, scheint zum Leben dazuzugehören — das behalten wir besser.
+
+(Zwei andere Dinge wirken übrigens ähnlich: Was dich *berührt* und was für dich *Bedeutung* hat, bleibt oft hängen, selbst wenn es nur einmal vorkommt. Deshalb vergisst du den Tag eines großen Erlebnisses nie, eine beliebige Vokabel aber schon. Beim Lernen ist Wiederholung trotzdem dein verlässlichster Hebel — auf sie hast du jederzeit Zugriff.)
 
 Und genau hier setzt jede gute Lerntechnik an. **Lernen heißt im Grunde: deinem Gehirn glaubhaft vormachen, dass eine Information wichtig ist.** Nicht durch langes Anstarren, sondern dadurch, dass sie *wiederkehrt*.
 
@@ -72,7 +74,7 @@ Es gibt nur eine Möglichkeit, ihr zu entkommen: **Buch zu, und schauen, was wir
 
 Vielleicht ahnst du es schon: Die Dinge, die deinem Gedächtnis am meisten helfen, fühlen sich oft *schwerer* an.
 
-Sich selbst abfragen ist anstrengender als nochmal lesen. Eine Woche zu warten und dann zu wiederholen ist mühsamer, als alles am Stück durchzuziehen. Aber genau diese kleine Anstrengung beim Erinnern bedeutet, man lernt etwas.
+Sich selbst abfragen ist anstrengender als nochmal lesen. Eine Woche zu warten und dann zu wiederholen ist mühsamer, als alles am Stück durchzuziehen. Aber genau diese kleine Anstrengung beim Erinnern ist es, die das Lernen *bewirkt* — sie ist der Motor, nicht das Lernen selbst, aber ohne sie springt der Motor nicht an.
 
 Zwei Forscher, Robert und Elizabeth Bjork, haben dafür einen wunderbaren Namen erfunden: **„wünschenswerte Schwierigkeiten"**. Eine Schwierigkeit, die man sich *wünschen* sollte, weil sie einen besser macht. Wie beim Krafttraining: Der Muskel wächst nicht, wenn du das leichte Gewicht hebst, sondern wenn es ein bisschen zwickt.
 
@@ -91,9 +93,9 @@ Merke dir diesen Satz, er ist der rote Faden durch diesen ganzen Ratgeber:
 
 > ## 🎯 Probier's aus
 >
-> Nimm dir heute etwas vor, das du eigentlich „schon kannst" — eine Vokabelliste, ein Gedicht, die Hauptstädte. Schau es dir einmal an. Klapp es zu. Warte bis morgen früh. Schreib dann auf, woran du dich erinnerst, **ohne** zu spicken.
+> Such dir **zehn Dinge, die du noch *nicht* kennst** — zehn neue Vokabeln, zehn Hauptstädte, die du noch nie behalten hast, zehn Fakten aus einem Sachbuch. Lerne sie heute *einmal* bewusst durch, bis du sie einmal fehlerfrei aufsagen kannst. Dann klapp alles zu und mach etwas ganz anderes.
 >
-> Erschrick nicht, wenn es weniger ist, als du dachtest — du hast gerade die Vergessenskurve mit eigenen Augen gesehen. In den nächsten Kapiteln lernst du, sie auszutricksen.
+> Am nächsten Morgen schreibst du auf, woran du dich noch erinnerst — **ohne** zu spicken. Wahrscheinlich sind ein paar weg, obwohl du sie gestern *konntest*. Genau das ist die Vergessenskurve, und du siehst sie an frischem Stoff mit eigenen Augen. In den nächsten Kapiteln lernst du, sie auszutricksen — damit aus „gestern gekonnt" ein „dauerhaft behalten" wird.
 
 ---
 

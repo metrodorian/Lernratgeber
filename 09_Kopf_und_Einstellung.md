@@ -53,7 +53,7 @@ Selbstregulation gehört übrigens zu den Dingen mit dem allerstärksten Einflus
 
 Fast jeder kennt das flaue Gefühl vor einer Klausur. Ein bisschen Anspannung ist sogar gut — sie macht wach. Aber wenn die Angst so groß wird, dass der Kopf leer wird, lohnt es sich, etwas dagegen zu tun.
 
-Das Wirksamste gegen Prüfungsangst ist überraschend unspektakulär: **echte Vorbereitung mit den richtigen Methoden.** Wenn du dich vorher oft selbst abgefragt hast (Kapitel 2), *weißt* du, dass du es kannst — du hoffst es nicht nur. Dieses Wissen nimmt der Angst den Boden. (Erinnerst du dich? Sogar die SQ3R-Lesemethode aus Kapitel 6 senkt nachweislich die Prüfungsangst — weil man sich vorbereitet *fühlt*, weil man es ist.)
+Das Wirksamste gegen Prüfungsangst ist überraschend unspektakulär: **echte Vorbereitung mit den richtigen Methoden.** Wenn du dich vorher oft selbst abgefragt hast (Kapitel 2), *weißt* du, dass du es kannst — du hoffst es nicht nur. Dieses Wissen nimmt der Angst den Boden. (Erinnerst du dich? Sogar die SQ3R-Lesemethode aus Kapitel 6 **kann helfen, sich besser vorbereitet zu fühlen** — und wer sich vorbereitet fühlt, weil er es *ist*, geht ruhiger in die Prüfung.)
 
 Dazu kommen ein paar Helfer:
 

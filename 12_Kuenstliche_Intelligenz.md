@@ -47,7 +47,7 @@ Nur: Als man sie später abfragte, hatten sie **nichts dazugelernt**. Null Wisse
 
 Hier triffst du auf einen der wichtigsten Gedanken dieses ganzen Ratgebers wieder — erinnerst du dich an Kapitel 1?
 
-> **Die Anstrengung *ist* das Lernen.** Nimmt dir die KI die Anstrengung ab, nimmt sie dir das Lernen gleich mit.
+> **Die Anstrengung ist der Motor des Lernens.** Nimmt dir die KI die Anstrengung ab, nimmt sie dir das Lernen gleich mit.
 
 Ein gutes Ergebnis und echtes Lernen sind eben **nicht dasselbe**. Die KI liefert dir mühelos das Ergebnis. Aber lernen — das kann sie nicht für dich. Das musst immer noch du.
 

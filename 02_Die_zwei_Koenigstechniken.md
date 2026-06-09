@@ -10,7 +10,7 @@
 
 2013 taten sich fünf Lernforscher um einen Professor namens John Dunlosky zusammen und stellten sich eine einfache Frage: Von all den Lernmethoden, die Menschen benutzen — welche funktionieren eigentlich *wirklich*?
 
-Sie nahmen sich **zehn** der beliebtesten Techniken vor und durchforsteten dafür hunderte von Studien mit zusammen über **169.000 Teilnehmenden**. Am Ende vergaben sie Noten: hoch wirksam, mittel, niedrig.
+Sie nahmen sich **zehn** der beliebtesten Techniken vor und durchforsteten dafür **hunderte von Studien**. Am Ende vergaben sie Noten: hoch wirksam, mittel, niedrig.
 
 Das Ergebnis war ein Schock für viele — denn die beliebtesten Methoden (Wiederlesen, Markieren, Zusammenfassen) landeten **unten**. Ganz oben standen nur zwei. Und die kennt kaum jemand richtig.
 

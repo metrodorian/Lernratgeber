@@ -1,6 +1,6 @@
 # Kapitel 4 — Freude am Lernen
 
-🟩🟩🟩🟩⬜ **Konfidenz: Solide** · Dass Neugier und Freude das Lernen messbar verstärken, ist gut belegt (Neugier-Gedächtnis-Forschung, Selbstbestimmungstheorie). Projektbasiertes Lernen zeigt große Effekte, ist aber methodisch vielfältig.
+🟩🟩🟩🟩⬜ **Konfidenz: Solide** · Dass Neugier und Freude das Lernen messbar verstärken, ist gut belegt (Neugier-Gedächtnis-Forschung, Selbstbestimmungstheorie). Projektbasiertes Lernen zeigt positive, aber gemischte Effekte, je nach Umsetzung.
 
 > Bisher ging es um Technik. Jetzt geht es um den Treibstoff. Denn die beste Methode bringt wenig, wenn dir das Lernen keinen Funken Freude macht — und umgekehrt lernst du Dinge, die dich begeistern, fast wie von selbst. Dieses Kapitel zeigt, wie du dir diese Begeisterung zunutze machst: durch Neugier, durch andere Menschen und durch eigene Projekte.
 
@@ -30,7 +30,7 @@ Wie weckt man Neugier auf ein Thema, das einen (noch) kalt lässt? Mit einem **F
 - ein verblüffendes Experiment, ein Rätsel, eine gute Frage („Warum ist der Himmel blau?")
 - eine Geschichte oder ein Film über eine historische Epoche, bevor du sie „durchnimmst"
 
-Erst ein tolles Video als **Initialzündung**, dann mit den richtigen Methoden vertiefen. Das ist klug — denn das Video bringt dich in den neugierigen Aufnahme-Modus.
+Der Trick ist immer derselbe: erst der Funke, dann die Methode. Das Video (oder das Experiment, die Geschichte) bringt dich in den neugierigen Aufnahme-Modus — und in dem lernt es sich danach viel leichter.
 
 Aber ein ehrlicher Hinweis, der sich durch diesen ganzen Ratgeber zieht: **Das Video ist der Funke, nicht das Feuer.** Zuschauen allein ist passiv — es fühlt sich nach Lernen an, ist aber vor allem Inspiration (erinnerst du dich an die Illusion der Kompetenz aus Kapitel 1?). Der eigentliche Lerneffekt kommt erst, wenn du danach aktiv wirst: dich selbst abfragst, es jemandem erklärst, übst. Nutze den Funken, um loszulegen — und dann zünde mit den Königstechniken das richtige Feuer.
 
@@ -60,9 +60,9 @@ Dazu kommt: Mit anderen macht es schlicht mehr Spaß, man bleibt eher dran, und 
 
 ## Mach etwas Echtes: Projekte
 
-🟡 *Solide — projektbasiertes Lernen zeigt große Effekte (mit Schwankungen je nach Umsetzung).*
+🟡 *Solide — projektbasiertes Lernen zeigt positive, aber gemischte Effekte je nach Umsetzung.*
 
-Die vielleicht schönste Art zu lernen: Bau oder erforsche etwas, das dich wirklich interessiert. Studien zeigen, dass **projektbasiertes Lernen** — also Wissen anwenden, um etwas Echtes zu schaffen — Motivation und Verständnis stark steigern kann.
+Die vielleicht schönste Art zu lernen: Bau oder erforsche etwas, das dich wirklich interessiert. Studien zeigen, dass **projektbasiertes Lernen** — also Wissen anwenden, um etwas Echtes zu schaffen — Motivation und Verständnis steigern kann.
 
 Ein Projekt verwandelt totes Wissen in lebendiges Können:
 

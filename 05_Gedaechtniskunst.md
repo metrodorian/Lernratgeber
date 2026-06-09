@@ -45,7 +45,7 @@ Du sollst dir die ersten Planeten merken: Merkur, Venus, Erde, Mars.
 - **Küche:** Auf dem Tisch dreht sich ein **Globus** — die Erde.
 - **Sofa:** Ein knallroter Schokoriegel namens *Mars* liegt auf dem Kissen.
 
-Geh die Route zwei-, dreimal im Kopf ab. Du wirst die Reihenfolge nicht mehr vergessen — und sie sogar *rückwärts* aufsagen können. In einer wissenschaftlichen Studie schnitten Lernende mit dieser Methode deutlich besser ab als mit normalem Pauken.
+Geh die Route zwei-, dreimal im Kopf ab. Du wirst die Reihenfolge nicht mehr vergessen — und sie sogar *rückwärts* aufsagen können. In einer wissenschaftlichen Studie schnitten Lernende mit dieser Methode deutlich besser ab als mit normalem Pauken.<sup>[1](#quelle-loci)</sup>
 
 ### Wofür gut?
 
@@ -97,6 +97,7 @@ Es fühlt sich albern an. Genau deshalb funktioniert es: Das Verrückte bleibt h
 
 ## 📚 Quellen & Links
 
+- <a id="quelle-loci"></a>**[1] Dresler et al. (2017)** · „Mnemonic Training Reshapes Brain Networks to Support Superior Memory", *Neuron*, 93(5) — Training mit dem Gedächtnispalast steigerte die Behaltensleistung deutlich gegenüber einer Kontrollgruppe (messbar bis in die Vernetzung des Gehirns). *(Das ist die im Text erwähnte Studie.)*
 - **Yates (1966)** · *The Art of Memory* — Historisches Standardwerk über den Gedächtnispalast und seine 2000-jährige Geschichte
 - **Luria (1968)** · *The Mind of a Mnemonist* — Fesselnde Fallstudie über einen Mann mit außergewöhnlichem Gedächtnis
 - **Atkinson & Raugh (1975)** · „An Application of the Mnemonic Keyword Method to the Acquisition of a Russian Vocabulary", *Journal of Experimental Psychology* — Klassischer Beleg für die Schlüsselwort-Methode

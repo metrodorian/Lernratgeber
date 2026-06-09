@@ -75,7 +75,7 @@ Einen Sachtext einfach von oben nach unten durchzulesen ist erstaunlich ineffekt
 4. **R – Recite (Wiedergeben):** Nach jedem Abschnitt: Buch weg, und sag in eigenen Worten, was drinstand. (Schon wieder aktives Abrufen!)
 5. **R – Review (Wiederholen):** Geh am Ende das Ganze nochmal durch und beantworte deine Fragen vom Anfang.
 
-Ein schöner Nebeneffekt: Wer Texte so bearbeitet, geht **mit weniger Prüfungsangst** in die Klausur — weil man nicht nur gelesen, sondern *wirklich* gearbeitet hat und es spürt.
+Ein schöner Nebeneffekt: Texte so zu bearbeiten **kann helfen, sich besser vorbereitet zu fühlen** — weil man nicht nur gelesen, sondern *wirklich* gearbeitet hat und es spürt.
 
 ---
 

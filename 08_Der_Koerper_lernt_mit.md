@@ -19,7 +19,7 @@ Das hat zwei verblüffende Folgen:
 
 ### Wie viel?
 
-Menschen in deinem Alter brauchen **etwa 8 bis 10 Stunden** Schlaf — mehr als Erwachsene. Das ist keine Schwäche, sondern dein Gehirn baut und verkabelt sich in dieser Lebensphase besonders intensiv um. Schlaf ist dafür der Bauarbeiter.
+Menschen in deinem Alter brauchen **etwa 9 bis 11 Stunden** Schlaf — deutlich mehr als Erwachsene. Das ist keine Schwäche, sondern dein Gehirn baut und verkabelt sich in dieser Lebensphase besonders intensiv um. Schlaf ist dafür der Bauarbeiter.
 
 Und Schlaf hilft nicht nur, das Gestrige zu speichern — er macht dein Gehirn auch wieder **aufnahmebereit für Neues**. Müde lernst du nicht nur schlechter ab, du nimmst auch schlechter auf. Schlaf wirkt also in beide Richtungen.
 

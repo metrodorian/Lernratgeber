@@ -33,7 +33,7 @@ Der ganze Zauber steckt in Schritt 3. Beim Erklären kannst du dich nämlich nic
 
 Wenn du etwas in *deine eigenen* Worte fasst, kann dein Gehirn die Information nicht einfach durchwinken. Es muss sie ordnen, Verbindungen suchen und ein zusammenhängendes Bild bauen. Forscher nennen das **Selbsterklärung** — und es gehört zu den am besten untersuchten Lernmechanismen überhaupt.
 
-In einer großen Auswertung von 64 Studien mit fast 6.000 Menschen zeigte sich ein klarer, deutlicher Effekt. In einer anderen Untersuchung lösten Lernende, die sich beim Lernen selbst erklärten, *warum* etwas so ist, hinterher Aufgaben fast doppelt so gut wie die, die still vor sich hin lasen.
+In einer großen Auswertung von 64 Studien mit fast 6.000 Menschen zeigte sich ein klarer, deutlicher Effekt. In anderen Untersuchungen lösten Lernende, die sich beim Lernen selbst erklärten, *warum* etwas so ist, hinterher Aufgaben deutlich besser als die, die still vor sich hin lasen.
 
 Du kannst das auch ohne die volle Feynman-Technik nutzen — einfach, indem du dir beim Lernen ständig drei Fragen stellst:
 
