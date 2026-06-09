@@ -5,9 +5,14 @@
 #   ./tools/generate_pdfs.sh                           # live-Site (Standard)
 #   ./tools/generate_pdfs.sh http://localhost:4000     # lokaler Jekyll-Server
 #
+# Was passiert:
+#   1. all.md wird neu gebaut (Einleitung + alle Kapitel, Anker-Links)
+#   2. all.md wird gepusht und GitHub Pages Deploy abgewartet
+#   3. Einzel-PDFs für alle 12 Kapitel werden generiert
+#   4. Gesamtdatei wird aus all.html generiert (interne Links funktionieren)
+#   5. Danach: git add pdfs/ && git commit -m 'PDFs aktualisiert' && git push
+#
 # Voraussetzungen: Google Chrome (macOS), Python 3 + pypdf
-# PDF-Ausgabe: pdfs/<kapitel>.pdf + pdfs/Lernratgeber_komplett.pdf
-# Nach der Erzeugung die PDFs committen: git add pdfs/ && git commit -m "PDFs aktualisiert"
 
 set -euo pipefail
 
@@ -17,14 +22,32 @@ OUT_DIR="$REPO_ROOT/pdfs"
 CHROME="/Applications/Google Chrome.app/Contents/MacOS/Google Chrome"
 
 if [ ! -x "$CHROME" ]; then
-  echo "Fehler: Google Chrome nicht gefunden unter: $CHROME" >&2
-  exit 1
+  echo "Fehler: Google Chrome nicht gefunden unter: $CHROME" >&2; exit 1
 fi
 
 mkdir -p "$OUT_DIR"
 
-# Alle Seiten: Dateiname (ohne .html) → URL-Pfad
-declare -a PAGES=(
+# ── 1. all.md aufbauen ────────────────────────────────────────────────────────
+echo "Baue all.md …"
+python3 "$REPO_ROOT/tools/build_all.py"
+
+# ── 2. all.md pushen und Deploy abwarten ──────────────────────────────────────
+cd "$REPO_ROOT"
+if git diff --quiet HEAD -- all.md 2>/dev/null && git ls-files --error-unmatch all.md &>/dev/null; then
+  echo "all.md unverändert, überspringe Push."
+else
+  echo "Pushe all.md …"
+  git add all.md
+  git commit -m "all.md aktualisiert (generiert)"
+  git push
+  echo "Warte auf GitHub Pages Deploy …"
+  until curl -sf "$BASE_URL/all.html" | grep -q "kapitel-1"; do sleep 8; done
+  echo "Deploy fertig."
+fi
+echo ""
+
+# ── 3. Einzel-PDFs ────────────────────────────────────────────────────────────
+PAGES=(
   "01_Wie_Gedaechtnis_funktioniert"
   "02_Die_zwei_Koenigstechniken"
   "03_Tief_verstehen"
@@ -43,42 +66,34 @@ echo "Basis-URL: $BASE_URL"
 echo "Ausgabe:   $OUT_DIR"
 echo ""
 
-CHAPTER_PDFS=()
-
 for page in "${PAGES[@]}"; do
-  url="$BASE_URL/$page.html"
-  out="$OUT_DIR/$page.pdf"
   echo "  → $page.pdf"
   "$CHROME" \
-    --headless=new \
-    --disable-gpu \
+    --headless=new --disable-gpu \
     --no-pdf-header-footer \
-    --print-to-pdf="$out" \
+    --print-to-pdf="$OUT_DIR/$page.pdf" \
     --run-all-compositor-stages-before-draw \
     --virtual-time-budget=3000 \
-    "$url" 2>/dev/null
-  CHAPTER_PDFS+=("$out")
+    "$BASE_URL/$page.html" 2>/dev/null
 done
 
+# ── 4. Gesamtdatei aus all.html ───────────────────────────────────────────────
 echo ""
-echo "Erstelle Gesamtdatei …"
+echo "Erstelle Gesamtdatei aus all.html …"
+"$CHROME" \
+  --headless=new --disable-gpu \
+  --no-pdf-header-footer \
+  --print-to-pdf="$OUT_DIR/Lernratgeber_komplett.pdf" \
+  --run-all-compositor-stages-before-draw \
+  --virtual-time-budget=8000 \
+  "$BASE_URL/all.html" 2>/dev/null
 
-# Kapitel-PDFs zusammenführen
-python3 - "${CHAPTER_PDFS[@]}" "$OUT_DIR/Lernratgeber_komplett.pdf" <<'PYEOF'
+# Seitenzahl ausgeben
+python3 - "$OUT_DIR/Lernratgeber_komplett.pdf" <<'PYEOF'
 import sys
-from pypdf import PdfWriter
-
-inputs = sys.argv[1:-1]
-output = sys.argv[-1]
-
-writer = PdfWriter()
-for path in inputs:
-    writer.append(path)
-
-with open(output, "wb") as f:
-    writer.write(f)
-
-print(f"  → Lernratgeber_komplett.pdf ({len(inputs)} Kapitel, {len(writer.pages)} Seiten)")
+from pypdf import PdfReader
+r = PdfReader(sys.argv[1])
+print(f"  → Lernratgeber_komplett.pdf ({len(r.pages)} Seiten)")
 PYEOF
 
 echo ""
