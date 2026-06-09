@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="de">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>{{ site.title }}</title>
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:400,700&display=swap">
+    <link rel="stylesheet" href="{{ "/assets/css/style.css" | relative_url }}">
+    <style>
+      .page-header .project-name a {
+        color: inherit;
+        text-decoration: none;
+      }
+      .page-header .project-name a:hover {
+        text-decoration: underline;
+        opacity: 0.85;
+      }
+      .print-buttons {
+        margin-top: 3rem;
+        padding-top: 1.5rem;
+        border-top: 1px solid #dce6f0;
+        display: flex;
+        gap: 1rem;
+        flex-wrap: wrap;
+      }
+      .print-btn {
+        display: inline-block;
+        padding: 0.6rem 1.3rem;
+        background: #159957;
+        color: #fff;
+        border-radius: 0.3rem;
+        font-size: 0.95rem;
+        text-decoration: none;
+        cursor: pointer;
+        border: none;
+      }
+      .print-btn:hover { background: #0f7a3e; color: #fff; text-decoration: none; }
+      .print-btn.secondary { background: #555; }
+      .print-btn.secondary:hover { background: #333; }
+
+      @media print {
+        .page-header, .print-buttons, .site-footer { display: none !important; }
+        body { font-size: 11pt; }
+        h1, h2, h3 { page-break-after: avoid; }
+        h2, h3 { margin-top: 1.4em; }
+        blockquote, pre, table { page-break-inside: avoid; }
+        p { orphans: 3; widows: 3; }
+        a[href]::after { content: none; }
+      }
+    </style>
+  </head>
+  <body>
+    <div class="wrapper">
+      <header class="page-header" role="banner">
+        <h1 class="project-name">
+          <a href="{{ site.baseurl }}/">{{ site.title }}</a>
+        </h1>
+        <h2 class="project-tagline">{{ site.description }}</h2>
+      </header>
+
+      <main id="content" class="main-content" role="main">
+        {{ content }}
+
+        <div class="print-buttons">
+          <button class="print-btn" onclick="window.print()">🖨 Seite ausdrucken</button>
+          <a class="print-btn secondary" href="{{ site.baseurl }}/pdfs/Lernratgeber_komplett.pdf" target="_blank">📄 Alles ausdrucken (PDF)</a>
+        </div>
+
+        <footer class="site-footer">
+          <span class="site-footer-credits">
+            <a href="https://github.com/metrodorian/Lernratgeber">Auf GitHub ansehen</a>
+          </span>
+        </footer>
+      </main>
+    </div>
+    <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
+  </body>
+</html>

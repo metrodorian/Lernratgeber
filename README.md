@@ -1,4 +1,4 @@
-# Viel lernen, wenig Mühe — Ein Ratgeber für clevere Köpfe
+# Viel lernen, wenig Aufwand — Ein Ratgeber für clevere Köpfe
 
 > Dieser Ratgeber richtet sich an junge Menschen, die das Beste aus ihrer Lernzeit herausholen wollen — nicht durch mehr Stunden, sondern durch bessere Methoden.
 

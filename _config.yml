@@ -1,3 +1,5 @@
 theme: jekyll-theme-cayman
-title: "Viel lernen, wenig Mühe"
+title: "Lernratgeber"
 description: "Ein evidenzbasierter Lernratgeber für clevere Köpfe — 12 Kapitel, kostenlos, zum Selberlesen und Ausdrucken."
+baseurl: "/Lernratgeber"
+url: "https://metrodorian.github.io"
