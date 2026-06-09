@@ -39,10 +39,7 @@
       .print-btn.secondary { background: #555; }
       .print-btn.secondary:hover { background: #333; }
 
-      /* Kapitel-Trenner: im Browser unsichtbar, im Druck Seitenumbruch */
-      .chapter-break { display: none; }
       @media print {
-        .chapter-break { display: block; height: 0; break-before: page; page-break-before: always; }
         @page { size: A4; margin: 2cm 2.2cm; }
 
         .page-header, .print-buttons, .site-footer { display: none !important; }
