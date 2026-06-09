@@ -73,6 +73,18 @@ Ein Projekt verwandelt totes Wissen in lebendiges Können:
 
 Bei einem Projekt fragst du gar nicht mehr „Muss ich das wirklich lernen?" — du *brauchst* das Wissen, um dein Ding zu bauen. Und Wissen, das du benutzt, vergisst du kaum.
 
+## Was, wenn mich das Thema kalt lässt?
+
+Seien wir ehrlich: Nicht jeder Schulstoff lässt sich in ein Lieblingsprojekt verwandeln. Was tun, wenn das Thema wirklich nicht interessiert — und man es trotzdem lernen muss?
+
+**1. Suche den einen Haken.** Kein Thema ist wirklich rundum langweilig. In der Chemie stecken Explosionen, Gifte und Farbstoffe. In der Geschichte stecken Verbrechen, Zufälle und skurrile Menschen. In der Grammatik steckt der Bauplan jeder Sprache, die je gesprochen wurde. Frage dich: *Welcher Aspekt wäre für einen Detektiv, eine Erfinderin oder ein neugieriges Kind spannend?* Meistens findest du ihn.
+
+**2. Lenke die Neugier auf das Können.** Wenn der Inhalt dich nicht zieht, kann das Meistern es dennoch: *„Kann ich diesen Stoff in 30 Minuten so gut lernen, dass ich jeden Test dazu bestehe?"* — das ist ein Spiel, das sich gewinnen lässt. Die Befriedigung danach ist echt, auch wenn das Thema es nicht war.
+
+**3. Mach es so kurz wie möglich — aber richtig.** Langweiligen Stoff mit schlechten Methoden zu lernen ist die schlimmste Kombination: viel Aufwand, kaum Ergebnis. Mit den Königstechniken aus Kapitel 2 geht derselbe Stoff schneller und bleibt länger — weniger Aufwand bei besserem Ergebnis.
+
+Und manchmal entdeckt man dabei, dass das Thema doch interessanter war, als es zunächst schien.
+
 ## Gute Laune lernt besser
 
 Noch ein kleiner, aber feiner Punkt: In guter Stimmung lernt es sich leichter. Stress und Angst engen das Denken ein; Freude und Gelassenheit öffnen es. Genug Schlaf (Kapitel 8), Bewegung, Pausen mit echten Freunden, und ab und zu bewusst etwas lernen, das einfach *Spaß* macht — all das ist kein „Zeitverlust", sondern hält den Motor am Laufen.
@@ -86,6 +98,7 @@ Noch ein kleiner, aber feiner Punkt: In guter Stimmung lernt es sich leichter. S
 > - **Aus Lust lernen** schlägt aus Zwang: selbst wählen, Fortschritt spüren, mit anderen.
 > - **Mit Freunden lernen** nutzt automatisch Abfragen + Erklären — und macht mehr Spaß.
 > - **Eigene Projekte** verwandeln Wissen in Können, das bleibt.
+> - **Wenn das Thema kalt lässt:** den einen Haken suchen · das Meistern als Spiel nehmen · mit den richtigen Methoden die Lernzeit kürzen.
 
 > ## 🎯 Probier's aus
 >

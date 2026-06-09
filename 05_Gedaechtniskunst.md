@@ -8,15 +8,17 @@
 
 ## Warum dein Gehirn Bilder liebt
 
-Versuch mal, dir diese Zahlenreihe zu merken: 4 – 8 – 15 – 16 – 23 – 42.
+Versuch mal, dir diese fünf Dinge zu merken: **Trompete · Zitrone · Pyramide · Schmetterling · Trommel**
 
-Schwierig, oder? Nüchterne Zahlen, nichts, woran sie sich festhalten könnten.
+Fünf zufällige Wörter, kein Zusammenhang. Du kannst sie jetzt dreimal durchlesen — aber morgen früh werden wahrscheinlich zwei oder drei fehlen.
 
-Und jetzt stell dir vor: ein **knallrosa Elefant**, der auf einem winzigen **Fahrrad** durch dein Klassenzimmer fährt und dabei **Seifenblasen** pupst.
+Jetzt probieren wir es anders. Stell dir vor:
 
-Diese Szene wirst du so schnell nicht mehr los — obwohl du dich gar nicht angestrengt hast.
+> Ein **knallrosa Elefant** fährt auf einem winzigen **Fahrrad** in dein Klassenzimmer. Er bläst in eine goldene **Trompete**, auf seiner Rüsselspitze balanciert eine riesige saftige **Zitrone**, am Rucksack baumelt ein Miniaturmodell der **Pyramide von Gizeh**, ein bunter **Schmetterling** sitzt auf seinem linken Ohr — und das ganze Gefährt dröhnt wie eine riesige **Trommel**.
 
-Das ist der ganze Trick der Gedächtniskunst: Dein Gehirn ist mittelmäßig im Merken von abstrakten Dingen (Zahlen, Begriffe, Listen), aber **brillant** im Merken von Bildern, Orten und Geschichten — besonders, wenn sie *bunt, übertrieben, lustig oder verrückt* sind. Die Kunst besteht darin, das Langweilige in ein Bild zu verwandeln.
+Hast du alle fünf noch? Trompete, Zitrone, Pyramide, Schmetterling, Trommel.
+
+*Das* ist der ganze Trick der Gedächtniskunst: Dein Gehirn ist mittelmäßig im Merken von abstrakten Dingen (Zahlen, Begriffe, Listen), aber **brillant** im Merken von Bildern, Orten und Geschichten — besonders, wenn sie *bunt, übertrieben, lustig oder verrückt* sind. Die Kunst besteht darin, das Langweilige in ein Bild zu verwandeln.
 
 ---
 
