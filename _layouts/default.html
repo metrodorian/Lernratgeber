@@ -38,6 +38,11 @@
       .print-btn:hover { background: #0f7a3e; color: #fff; text-decoration: none; }
       .print-btn.secondary { background: #555; }
       .print-btn.secondary:hover { background: #333; }
+      .print-btn.next { margin-left: auto; background: #1f6feb; font-weight: 700; }
+      .print-btn.next:hover { background: #1a5fd0; }
+      @media (max-width: 480px) {
+        .print-btn.next { margin-left: 0; }
+      }
 
       @media print {
         @page { size: A4; margin: 2cm 2.2cm; }
@@ -85,9 +90,21 @@
       <main id="content" class="main-content" role="main">
         {{ content }}
 
+        {%- assign chapters = "01_Wie_Gedaechtnis_funktioniert,02_Die_zwei_Koenigstechniken,03_Tief_verstehen,04_Freude_am_Lernen,05_Gedaechtniskunst,06_Notizen_und_Texte,07_Fokus_und_Motivation,08_Der_Koerper_lernt_mit,09_Kopf_und_Einstellung,10_Als_Hochbegabte_lernen,11_Mythen,12_Kuenstliche_Intelligenz" | split: "," -%}
+        {%- assign titles = "Wie dein Gedächtnis funktioniert,Die zwei Königstechniken,Tief verstehen,Freude am Lernen,Gedächtniskunst,Notizen und Texte,Fokus und Motivation,Der Körper lernt mit,Kopf und Einstellung,Als hochbegabte Person lernen,Was nicht funktioniert,KI: Werkzeug und Falle" | split: "," -%}
+        {%- assign current = page.name | remove: ".md" -%}
+        {%- assign curpos = -1 -%}
+        {%- for c in chapters -%}{%- if c == current -%}{%- assign curpos = forloop.index0 -%}{%- endif -%}{%- endfor -%}
+        {%- assign nextpos = curpos | plus: 1 -%}
+
         <div class="print-buttons">
           <button class="print-btn" onclick="window.print()">🖨 Seite ausdrucken</button>
           <a class="print-btn secondary" href="{{ '/pdfs/Lernratgeber_komplett.pdf' | relative_url }}" target="_blank">📄 Alles ausdrucken (PDF)</a>
+          {%- if nextpos < chapters.size -%}
+            {%- assign nextslug = chapters[nextpos] -%}
+            {%- assign nexttitle = titles[nextpos] -%}
+            <a class="print-btn next" href="{{ nextslug | append: '.html' | relative_url }}">{% if curpos == -1 %}Zum ersten Kapitel{% else %}Nächstes Kapitel{% endif %}: {{ nexttitle }} →</a>
+          {%- endif -%}
         </div>
 
         <footer class="site-footer">
