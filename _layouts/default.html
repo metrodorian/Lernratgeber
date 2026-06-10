@@ -20,10 +20,13 @@
         margin-top: 3rem;
         padding-top: 1.5rem;
         border-top: 1px solid #dce6f0;
+      }
+      .btn-row {
         display: flex;
         gap: 1rem;
         flex-wrap: wrap;
       }
+      .btn-row + .btn-row { margin-top: 0.8rem; }
       .print-btn {
         display: inline-block;
         padding: 0.6rem 1.3rem;
@@ -140,22 +143,26 @@
         {%- assign nextpos = curpos | plus: 1 -%}
 
         <div class="print-buttons">
-          <button class="print-btn" onclick="window.print()">🖨 Seite ausdrucken</button>
-          <a class="print-btn secondary" href="{{ '/pdfs/Lernratgeber_komplett.pdf' | relative_url }}" target="_blank">📄 Alles ausdrucken (PDF)</a>
-          <details class="chapter-picker">
-            <summary class="print-btn picker">📖 Kapitel wählen</summary>
-            <nav class="chapter-menu">
-              <a href="{{ '/' | relative_url }}"{% if curpos == -1 %} class="current"{% endif %}>Startseite &amp; Inhalt</a>
-              {%- for c in chapters -%}
-                <a href="{{ c | append: '.html' | relative_url }}"{% if forloop.index0 == curpos %} class="current"{% endif %}>{{ forloop.index }}. {{ titles[forloop.index0] }}</a>
-              {%- endfor -%}
-            </nav>
-          </details>
-          {%- if nextpos < chapters.size -%}
-            {%- assign nextslug = chapters[nextpos] -%}
-            {%- assign nexttitle = titles[nextpos] -%}
-            <a class="print-btn next" href="{{ nextslug | append: '.html' | relative_url }}">{% if curpos == -1 %}Zum ersten Kapitel{% else %}Nächstes Kapitel{% endif %}: {{ nexttitle }} →</a>
-          {%- endif -%}
+          <div class="btn-row">
+            <button class="print-btn" onclick="window.print()">🖨 Seite ausdrucken</button>
+            <a class="print-btn secondary" href="{{ '/pdfs/Lernratgeber_komplett.pdf' | relative_url }}" target="_blank">📄 Alles ausdrucken (PDF)</a>
+          </div>
+          <div class="btn-row">
+            <details class="chapter-picker">
+              <summary class="print-btn picker">📖 Kapitel wählen</summary>
+              <nav class="chapter-menu">
+                <a href="{{ '/' | relative_url }}"{% if curpos == -1 %} class="current"{% endif %}>Startseite &amp; Inhalt</a>
+                {%- for c in chapters -%}
+                  <a href="{{ c | append: '.html' | relative_url }}"{% if forloop.index0 == curpos %} class="current"{% endif %}>{{ forloop.index }}. {{ titles[forloop.index0] }}</a>
+                {%- endfor -%}
+              </nav>
+            </details>
+            {%- if nextpos < chapters.size -%}
+              {%- assign nextslug = chapters[nextpos] -%}
+              {%- assign nexttitle = titles[nextpos] -%}
+              <a class="print-btn next" href="{{ nextslug | append: '.html' | relative_url }}">{% if curpos == -1 %}Zum ersten Kapitel{% else %}Nächstes Kapitel{% endif %}: {{ nexttitle }} →</a>
+            {%- endif -%}
+          </div>
         </div>
 
         <footer class="site-footer">
