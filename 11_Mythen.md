@@ -46,7 +46,7 @@ Das Ergebnis: Du sitzt länger, lernst weniger und machst mehr Fehler. „Nebenb
 
 ## Mythos 4: „Vor der Prüfung noch alles reinpauken"
 
-Die ganze Nacht durchbüffeln, am Morgen voll mit Stoff in die Klausur — das fühlt sich nach Einsatz an. Aber du weißt aus Kapitel 1, 2 und 7, warum es eine schlechte Idee ist:
+Die ganze Nacht durchbüffeln, am Morgen voll mit Stoff in die Klausur — das fühlt sich nach Einsatz an. Aber du weißt aus Kapitel 1, 2 und 8, warum es eine schlechte Idee ist:
 
 - Am Stück gepaukter Stoff verschwindet so schnell, wie er kam (keine Verteilung → steile Vergessenskurve).
 - Du opferst den Schlaf, in dem dein Gehirn das Gelernte erst festigt — du lernst also schlechter *und* speicherst schlechter.

@@ -25,9 +25,12 @@ Damit du dich schnell zurechtfindest, ist alles nach demselben Muster gebaut:
 - **Ehrlichkeit über die Belege:** Nicht alles ist gleich gut erforscht. Manche Techniken sind felsenfest bewiesen, andere sind neuer und vorläufiger. Wir sagen dir bei jedem Thema offen dazu, **wie sicher** wir uns sein können — damit du selbst urteilen kannst und nichts blind glauben musst. Du erkennst es an einem **Konfidenz-Balken** direkt unter jeder Kapitelüberschrift:
     - 🟩🟩🟩🟩🟩 *felsenfest*
     - 🟩🟩🟩🟩⬜ *solide*
+    - 🟩🟩🟩🟨⬜ *überwiegend solide*
     - 🟩🟩🟨🟨⬜ *gemischt*
     - 🟧🟧⬜⬜⬜ *vorläufig*
     - 🟥🟥⬜⬜⬜ *umstritten*
+
+    Und wo die Belegstärke *innerhalb* eines Kapitels schwankt, steht unter einzelnen Abschnitts-Überschriften zusätzlich ein einzelner Punkt mit Kurzbegründung — von 🟢 (gut belegt) über 🟡 und 🟠 bis 🔴 (umstritten).
 
 ## Eine Einladung, nicht eine Hausaufgabe
 

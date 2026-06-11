@@ -1,6 +1,6 @@
 # Kapitel 1 — Wie dein Gedächtnis funktioniert
 
-🟩🟩🟩🟩⬜ **Konfidenz: Sehr solide** · Vergessenskurve, Konsolidierung im Schlaf, die „Illusion der Kompetenz" und die „wünschenswerten Schwierigkeiten" sind gut belegt. Nur die exakten Prozentzahlen sind grobe Veranschaulichung, keine festen Naturkonstanten.
+🟩🟩🟩🟩⬜ **Konfidenz: Solide** · Vergessenskurve, Konsolidierung im Schlaf, die „Illusion der Kompetenz" und die „wünschenswerten Schwierigkeiten" sind gut belegt. Nur die exakten Prozentzahlen sind grobe Veranschaulichung, keine festen Naturkonstanten.
 
 > Bevor du lernst, *wie* man am besten lernt, lohnt sich ein Blick darauf, *was* beim Lernen eigentlich in deinem Kopf passiert. Denn wenn du das verstehst, ergeben alle anderen Kapitel plötzlich Sinn — und du musst dir keine einzige Regel mehr merken. Du verstehst sie einfach.
 
@@ -74,7 +74,7 @@ Es gibt nur eine Möglichkeit, ihr zu entkommen: **Buch zu, und schauen, was wir
 
 Vielleicht ahnst du es schon: Die Dinge, die deinem Gedächtnis am meisten helfen, fühlen sich oft *schwerer* an.
 
-Sich selbst abfragen ist anstrengender als nochmal lesen. Eine Woche zu warten und dann zu wiederholen ist mühsamer, als alles am Stück durchzuziehen. Aber genau diese kleine Anstrengung beim Erinnern ist es, die das Lernen *bewirkt* — sie ist der Motor, nicht das Lernen selbst, aber ohne sie springt der Motor nicht an.
+Sich selbst abfragen ist anstrengender als nochmal lesen. Eine Woche zu warten und dann zu wiederholen ist mühsamer, als alles am Stück durchzuziehen. Aber genau diese kleine Anstrengung beim Erinnern ist der **Motor des Lernens**: Sie ist nicht das Lernen selbst — aber ohne sie springt nichts an.
 
 Zwei Forscher, Robert und Elizabeth Bjork, haben dafür einen wunderbaren Namen erfunden: **„wünschenswerte Schwierigkeiten"**. Eine Schwierigkeit, die man sich *wünschen* sollte, weil sie einen besser macht. Wie beim Krafttraining: Der Muskel wächst nicht, wenn du das leichte Gewicht hebst, sondern wenn es ein bisschen zwickt.
 
@@ -95,7 +95,7 @@ Merke dir diesen Satz, er ist der rote Faden durch diesen ganzen Ratgeber:
 >
 > Such dir **zehn Dinge, die du noch *nicht* kennst** — zehn neue Vokabeln, zehn Hauptstädte, die du noch nie behalten hast, zehn Fakten aus einem Sachbuch. Lerne sie heute *einmal* bewusst durch, bis du sie einmal fehlerfrei aufsagen kannst. Dann klapp alles zu und mach etwas ganz anderes.
 >
-> Am nächsten Morgen schreibst du auf, woran du dich noch erinnerst — **ohne** zu spicken. Wahrscheinlich sind ein paar weg, obwohl du sie gestern *konntest*. Genau das ist die Vergessenskurve, und du siehst sie an frischem Stoff mit eigenen Augen. In den nächsten Kapiteln lernst du, sie auszutricksen — damit aus „gestern gekonnt" ein „dauerhaft behalten" wird.
+> Am nächsten Morgen schreibst du auf, woran du dich noch erinnerst — **ohne** zu spicken. Wahrscheinlich ist über die Hälfte weg, obwohl du sie gestern *konntest*. Genau das ist die Vergessenskurve, und du siehst sie an frischem Stoff mit eigenen Augen. In den nächsten Kapiteln lernst du, sie auszutricksen — damit aus „gestern gekonnt" ein „dauerhaft behalten" wird.
 
 ---
 

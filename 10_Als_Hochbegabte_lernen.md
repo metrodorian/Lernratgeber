@@ -1,6 +1,6 @@
 # Kapitel 10 — Als hochbegabte Person lernen
 
-🟩🟩🟩🟨⬜ **Konfidenz: Solide (Fachkonsens)** · Die beschriebenen Muster (Langeweile, fehlende Lernstrategien, Perfektionismus, Underachievement) sind in der Hochbegabungsforschung breit anerkannt — sie beruhen aber stärker auf Beobachtung und Beratungspraxis als auf großen Experimenten.
+🟩🟩🟩🟨⬜ **Konfidenz: Überwiegend solide (Fachkonsens)** · Die beschriebenen Muster (Langeweile, fehlende Lernstrategien, Perfektionismus, Underachievement) sind in der Hochbegabungsforschung breit anerkannt — sie beruhen aber stärker auf Beobachtung und Beratungspraxis als auf großen Experimenten.
 
 > Dieses Kapitel ist für dich, wenn dir vieles in der Schule leichtfällt — wenn du Dinge oft schon verstehst, während andere noch mitschreiben. Das ist ein großes Geschenk. Aber es bringt ein paar ganz eigene Fallen mit sich, die kaum jemand kennt. Wer sie kennt, kann sie umgehen.
 
