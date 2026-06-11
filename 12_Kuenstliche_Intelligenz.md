@@ -65,7 +65,7 @@ Noch eine Gefahr, die du unbedingt kennen musst: KI **erfindet manchmal Dinge**.
 
 ## Teil 2: Wie du KI klug einsetzt (der Denk-Trainer-Modus)
 
-Jetzt die gute Nachricht — und sie ist richtig gut. Genau dieselbe Technologie kann dich enorm voranbringen, wenn du sie zwingst, *dich* arbeiten zu lassen. Untersuchungen zeigen: KI-Tutoren, die nach der richtigen Methode aufgebaut sind, können fast so wirksam sein wie ein guter menschlicher Privatlehrer. Das Geheimnis dieser Tutoren ist immer dasselbe — sie geben **nicht die Antwort**, sondern stellen Fragen und kleine Hinweise, bis du selbst draufkommst (die alte Methode des Philosophen Sokrates).
+Jetzt die gute Nachricht — und sie ist richtig gut. Genau dieselbe Technologie kann dich enorm voranbringen, wenn du sie zwingst, *dich* arbeiten zu lassen. Richtig aufgebaute KI-Tutoren können erstaunlich wirksam sein — aber ehrlich dazu: Zu den neuen Chat-KIs als Tutor gibt es noch wenig Forschung. Gut erforscht sind bisher nur ihre älteren Verwandten, speziell gebaute Tutor-Programme — und die kamen in Studien fast an menschliche Nachhilfe heran. Das Geheimnis guter Tutoren ist immer dasselbe — sie geben **nicht die Antwort**, sondern stellen Fragen und kleine Hinweise, bis du selbst draufkommst (die alte Methode des Philosophen Sokrates).
 
 Das kannst du dir zunutze machen. Hier sind die fünf besten Einsatzweisen:
 
@@ -120,4 +120,5 @@ Schreib deinen Aufsatz **selbst**. Dann darfst du fragen: *„Welche Stellen sin
 
 - **Kosmyna et al. (2025)** · „Your Brain on ChatGPT: Accumulation of Cognitive Debt when Using an AI Assistant for Essay Writing Task" (MIT Media Lab) — EEG-Studie zur kognitiven Schuld; rund vier von fünf ChatGPT-Nutzern konnten keinen eigenen Satz zitieren
 - **Fan et al. (2024)** · „The impact of artificial intelligence on student learning outcomes", *British Journal of Educational Technology* — Metakognitive Faulheit: bessere Ergebnisse, null Wissenszuwachs
+- **VanLehn (2011)** · „The Relative Effectiveness of Human Tutoring, Intelligent Tutoring Systems, and Other Tutoring Systems", *Educational Psychologist*, 46(4) — Meta-Analyse: speziell gebaute Computer-Tutorsysteme erreichen fast die Wirksamkeit menschlicher Nachhilfe (Vor-ChatGPT-Ära)
 - [Wikipedia: Halluzination (Künstliche Intelligenz)](https://de.wikipedia.org/wiki/Halluzination_(K%C3%BCnstliche_Intelligenz)) — Erklärung, warum KI manchmal selbstbewusst falsche Fakten erfindet
