@@ -37,7 +37,7 @@ Erinnerst du dich an die Vergessenskurve aus Kapitel 1? Jedes Mal, wenn du eine 
 
 Du sagst deinem Gehirn damit immer wieder: „Schon wieder das? Scheint wichtig zu sein — behalten wir." Bei Mia taucht alles nur ein einziges Mal auf. Ihr Gehirn hat keinen Grund, es für wichtig zu halten.
 
-Der Effekt ist gewaltig: Studien zeigen, dass verteiltes Lernen das Behalten um rund **ein Viertel** verbessern kann — bei *gleicher* Lernzeit. Das ist geschenkte Leistung.
+Der Effekt ist gewaltig: Studien zeigen, dass verteiltes Lernen das Behalten — je nach Stoff und Abstand — um etwa **10 bis 30 Prozent** verbessern kann, bei *gleicher* Lernzeit. Das ist geschenkte Leistung.
 
 ### Wie du es machst — die Abstände
 
@@ -175,4 +175,5 @@ Eine ausführliche Anleitung mit Bildern findest du im offiziellen Anki-Handbuch
 - **Dunlosky et al. (2013)** · „Improving Students' Learning With Effective Learning Techniques", *Psychological Science in the Public Interest*, 14(1) — Das große Techniken-Turnier (169 000 Teilnehmende, 10 Methoden bewertet)
 - **Karpicke & Blunt (2011)** · „Retrieval Practice Produces More Learning than Elaborative Studying with Concept Mapping", *Science*, 331 — ~50 % besseres Behalten durch Selbst-Abfragen
 - **Roediger & Karpicke (2006)** · „Test-Enhanced Learning", *Psychological Science*, 17(3) — Grundlagenwerk zum Testing-Effekt
+- **Cepeda et al. (2006)** · „Distributed Practice in Verbal Recall Tasks: A Review and Quantitative Synthesis", *Psychological Bulletin*, 132(3) — Meta-Analyse zum verteilten Lernen; Quelle der Verbesserungs-Spanne von rund 10–30 %
 - **Apps:** [phase6.de](https://www.phase6.de) · [apps.ankiweb.net](https://apps.ankiweb.net) · [ankiweb.net](https://ankiweb.net) · [docs.ankiweb.net](https://docs.ankiweb.net/getting-started.html) — alle direkt im Kapitel erklärt

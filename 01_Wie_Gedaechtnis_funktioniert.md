@@ -1,6 +1,6 @@
 # Kapitel 1 — Wie dein Gedächtnis funktioniert
 
-🟩🟩🟩🟩⬜ **Konfidenz: Sehr solide** · Vergessenskurve, Konsolidierung im Schlaf, die „Illusion der Kompetenz" und die „wünschenswerten Schwierigkeiten" sind gut belegt. Nur die exakten Prozentzahlen (50 % / 90 %) sind grobe Veranschaulichung, keine festen Naturkonstanten.
+🟩🟩🟩🟩⬜ **Konfidenz: Sehr solide** · Vergessenskurve, Konsolidierung im Schlaf, die „Illusion der Kompetenz" und die „wünschenswerten Schwierigkeiten" sind gut belegt. Nur die exakten Prozentzahlen sind grobe Veranschaulichung, keine festen Naturkonstanten.
 
 > Bevor du lernst, *wie* man am besten lernt, lohnt sich ein Blick darauf, *was* beim Lernen eigentlich in deinem Kopf passiert. Denn wenn du das verstehst, ergeben alle anderen Kapitel plötzlich Sinn — und du musst dir keine einzige Regel mehr merken. Du verstehst sie einfach.
 
@@ -22,7 +22,7 @@ Konkret heißt das ungefähr:
 
 - Nach **einer Stunde** ist rund die **Hälfte** wieder weg.
 - Nach **einem Tag** sind etwa **zwei Drittel** verschwunden.
-- Nach **einer Woche** erinnerst du dich oft nur noch an **etwa 10 %**.
+- Nach **einer Woche** erinnerst du dich oft nur noch an **etwa ein Viertel** — manchmal weniger.
 
 Stell dir das wie einen Eimer mit einem Loch im Boden vor. Du füllst ihn beim Lernen randvoll — und während du noch zuschaust, läuft das Meiste schon wieder aus.
 

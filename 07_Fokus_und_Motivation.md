@@ -10,7 +10,7 @@
 
 Dein Gehirn ist darauf gebaut, auf Neues zu reagieren — ein Rascheln im Busch konnte früher Gefahr oder Beute bedeuten. Heute macht „bling" das Handy, und dasselbe uralte Alarmsystem feuert los.
 
-Das Tückische: Schon ein Handy, das nur *sichtbar* auf dem Tisch liegt — stumm, mit dem Display nach unten — senkt nachweislich deine Konzentration. Ein Teil deines Kopfes bewacht es ständig: *Kommt gleich was?* Diese Wache kostet Denkkraft, die dann zum Lernen fehlt.
+Das Tückische: Schon ein Handy, das nur *sichtbar* auf dem Tisch liegt — stumm, mit dem Display nach unten — kann deine Konzentration senken. Ein Teil deines Kopfes bewacht es ständig: *Kommt gleich was?* Diese Wache kostet Denkkraft, die dann zum Lernen fehlt.
 
 Die Lösung ist unbequem, aber simpel: Während du lernst, gehört das Handy **außer Sichtweite** — in eine andere Tasche, eine Schublade, einen anderen Raum.
 
@@ -71,6 +71,8 @@ Wenn du das verstehst, wird klar: Du musst nicht „mehr Disziplin" auftreiben. 
 
 ### 1. Die 2-Minuten-Regel
 Nimm dir vor, nur **zwei Minuten** anzufangen. Nur den Mathe-Block aufschlagen und die erste Aufgabe abschreiben. Mehr nicht. Fast immer machst du dann von allein weiter — denn das Schwere war das Anfangen, nicht das Tun. Und wenn nicht? Dann hast du wenigstens zwei Minuten gemacht.
+
+*(Ehrlich dazu: Diese Regel stammt aus der Selbsthilfe-Praxis und ist nicht direkt wissenschaftlich untersucht. Aber sie kostet nichts — und sie passt zu dem, was die Forschung übers Aufschieben weiß: Die größte Hürde ist das Anfangen.)*
 
 ### 2. Mach die Aufgabe klein und konkret
 „Ich lerne Bio" ist ein Nebelberg. „Ich beantworte die drei Fragen auf Seite 42" ist ein klarer Schritt. Zerleg große Aufgaben in kleine, konkrete Häppchen, die du *abhaken* kannst. Jedes Häkchen fühlt sich gut an und zieht dich weiter.
