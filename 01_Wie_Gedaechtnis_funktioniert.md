@@ -26,7 +26,7 @@ Konkret heißt das ungefähr:
 
 Stell dir das wie einen Eimer mit einem Loch im Boden vor. Du füllst ihn beim Lernen randvoll — und während du noch zuschaust, läuft das Meiste schon wieder aus.
 
-Das klingt deprimierend. Aber es hat einen guten Grund und es gibt einen Ausweg.
+Das klingt deprimierend. Aber das Vergessen hat einen guten Grund — und es gibt einen Ausweg.
 
 ## Vergessen ist kein Fehler — es ist eine Superkraft
 
@@ -44,7 +44,7 @@ Etwas, das nur ein einziges Mal vorkommt, ist wahrscheinlich unwichtig — weg d
 
 Und genau hier setzt jede gute Lerntechnik an. **Lernen heißt im Grunde: deinem Gehirn glaubhaft vormachen, dass eine Information wichtig ist.** Nicht durch langes Anstarren, sondern dadurch, dass sie *wiederkehrt*.
 
-Es ist auch wichtig, wie wir uns dabei fühlen. Wenn wir ehrlich interessiert sind merken wir es uns besser. Mehr dazu in Kapitel 4, Freude am Lernen.
+Auch das Gefühl beim Lernen zählt mit: Was dich ehrlich interessiert, merkst du dir besser — mehr dazu in Kapitel 4, *Freude am Lernen*.
 
 ## Erinnerungen werden nicht beim Lernen gebaut — sondern danach
 

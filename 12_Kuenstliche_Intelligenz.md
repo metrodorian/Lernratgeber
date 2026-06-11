@@ -65,7 +65,7 @@ Noch eine Gefahr, die du unbedingt kennen musst: KI **erfindet manchmal Dinge**.
 
 ## Teil 2: Wie du KI klug einsetzt (der Denk-Trainer-Modus)
 
-Jetzt die gute Nachricht — und sie ist richtig gut. Genau dieselbe Technologie kann dich enorm voranbringen, wenn du sie zwingst, *dich* arbeiten zu lassen. Richtig aufgebaute KI-Tutoren können erstaunlich wirksam sein — aber ehrlich dazu: Zu den neuen Chat-KIs als Tutor gibt es noch wenig Forschung. Gut erforscht sind bisher nur ihre älteren Verwandten, speziell gebaute Tutor-Programme — und die kamen in Studien fast an menschliche Nachhilfe heran. Das Geheimnis guter Tutoren ist immer dasselbe — sie geben **nicht die Antwort**, sondern stellen Fragen und kleine Hinweise, bis du selbst draufkommst (die alte Methode des Philosophen Sokrates).
+Jetzt die gute Nachricht — und sie ist richtig gut. Genau dieselbe Technologie kann dich enorm voranbringen, wenn du sie zwingst, *dich* arbeiten zu lassen. Richtig aufgebaute KI-Tutoren können erstaunlich wirksam sein — aber ehrlich dazu: Zu den neuen Chat-KIs als Tutor gibt es noch wenig Forschung. Gut erforscht sind bisher nur ihre älteren Verwandten, speziell gebaute Tutor-Programme — und die kamen in Studien fast an menschliche Nachhilfe heran. Das Geheimnis guter Tutoren ist immer dasselbe — sie geben **nicht die Antwort**, sondern stellen Fragen und kleine Hinweise, bis du selbst draufkommst. So machte es schon der Philosoph Sokrates.
 
 Das kannst du dir zunutze machen. Hier sind die fünf besten Einsatzweisen:
 

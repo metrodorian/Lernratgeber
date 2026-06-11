@@ -20,7 +20,7 @@ Die Lösung ist unbequem, aber simpel: Während du lernst, gehört das Handy **a
 
 🟠 *Das Prinzip (Fokus + Pause) ist sinnvoll; die genaue 25/5-Formel ist Erfahrungswert, nicht bewiesen.*
 
-Das ist der einfachste Konzentrations-Trick der Welt, und er stammt von einer **Küchenuhr in Tomatenform** (italienisch „pomodoro“ = Tomate). Erfunden hat ihn ein Student, der sich partout nicht konzentrieren konnte.
+Der einfachste Konzentrations-Trick der Welt stammt von einer **Küchenuhr in Tomatenform** (italienisch „pomodoro“ = Tomate). Erfunden hat ihn ein Student, der sich partout nicht konzentrieren konnte.
 
 ### So geht's
 
@@ -78,7 +78,7 @@ Nimm dir vor, nur **zwei Minuten** anzufangen. Nur den Mathe-Block aufschlagen u
 „Ich lerne Bio“ ist ein Nebelberg. „Ich beantworte die drei Fragen auf Seite 42“ ist ein klarer Schritt. Zerleg große Aufgaben in kleine, konkrete Häppchen, die du *abhaken* kannst. Jedes Häkchen fühlt sich gut an und zieht dich weiter.
 
 ### 3. Wenn-dann-Pläne
-Das ist ein erstaunlich starker Trick aus der Forschung. Statt vage „Ich sollte heute lernen“ legst du *vorher genau* fest, **wann** und **wo**:
+Wenn-dann-Pläne sind ein erstaunlich starker Trick aus der Forschung. Statt vage „Ich sollte heute lernen“ legst du *vorher genau* fest, **wann** und **wo**:
 
 > *„**Wenn** ich von der Schule nach Hause komme und gegessen habe, **dann** mache ich als Erstes einen Pomodoro Mathe am Küchentisch.“*
 

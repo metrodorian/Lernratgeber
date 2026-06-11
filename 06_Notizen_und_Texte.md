@@ -83,7 +83,7 @@ Ein schöner Nebeneffekt: Texte so zu bearbeiten **kann helfen, sich besser vorb
 
 🟡 *Wort + Bild zusammen (Dual Coding) ist gut belegt; Mindmaps als solche weniger.*
 
-Es gibt noch einen Grund, warum Bilder beim Lernen so stark sind (du kennst ihn aus Kapitel 5): Dein Gehirn hat **zwei** Speicher — einen für Worte und einen für Bilder. Wenn du beide nutzt, speicherst du eine Sache *doppelt* ab und hast zwei Wege, sie wiederzufinden. Forscher nennen das **„duale Kodierung“**. In Studien behalten Lernende mit Wort *und* Bild deutlich mehr als mit Worten allein.
+Bilder sind beim Lernen noch aus einem zweiten Grund stark (den ersten kennst du aus Kapitel 5): Dein Gehirn hat **zwei** Speicher — einen für Worte, einen für Bilder. Wenn du beide nutzt, speicherst du eine Sache *doppelt* ab und hast zwei Wege, sie wiederzufinden. Forscher nennen das **„duale Kodierung“**. In Studien behalten Lernende mit Wort *und* Bild deutlich mehr als mit Worten allein.
 
 Das nutzt du mit:
 

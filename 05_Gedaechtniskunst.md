@@ -18,17 +18,17 @@ Jetzt probieren wir es anders. Stell dir vor:
 
 Hast du alle fünf noch? Trompete, Zitrone, Pyramide, Schmetterling, Trommel.
 
-*Das* ist der ganze Trick der Gedächtniskunst: Dein Gehirn ist mittelmäßig im Merken von abstrakten Dingen (Zahlen, Begriffe, Listen), aber **brillant** im Merken von Bildern, Orten und Geschichten — besonders, wenn sie *bunt, übertrieben, lustig oder verrückt* sind. Die Kunst besteht darin, das Langweilige in ein Bild zu verwandeln.
+*Das* ist der ganze Trick der Gedächtniskunst: Dein Gehirn ist mittelmäßig im Merken von abstrakten Dingen (Zahlen, Begriffe, Listen), aber **brillant** im Merken von Bildern, Orten und Geschichten. Besonders gut klebt, was *bunt, übertrieben, lustig oder verrückt* ist. Die Kunst besteht darin, das Langweilige in ein Bild zu verwandeln.
 
 ---
 
 ## Der Gedächtnispalast (Loci-Methode)
 
-Das ist die mächtigste Gedächtnistechnik überhaupt — und über **2000 Jahre alt**. Schon die Redner im alten Rom hielten damit stundenlange Reden ohne Notizen. „Loci“ ist lateinisch für „Orte“.
+Die mächtigste Technik der Gedächtniskunst ist über **2000 Jahre alt**. Schon die Redner im alten Rom hielten damit stundenlange Reden ohne Notizen. „Loci“ ist lateinisch für „Orte“.
 
 ### Die Idee
 
-Du nutzt einen Ort, den du in- und auswendig kennst — deine Wohnung — und legst die Dinge, die du dir merken willst, *gedanklich* an feste Stellen darin ab. Zum Erinnern gehst du den Weg im Kopf einfach ab.
+Du nutzt einen Ort, den du in- und auswendig kennst — zum Beispiel deine Wohnung. Dort legst du die Dinge, die du dir merken willst, *gedanklich* an feste Stellen ab. Zum Erinnern gehst du den Weg im Kopf einfach ab.
 
 ### So baust du deinen Palast
 
@@ -97,7 +97,7 @@ Es fühlt sich albern an. Genau deshalb funktioniert es: Das Verrückte bleibt h
 
 ## 📚 Quellen & Links
 
-- <a id="quelle-loci"></a>**[1] Dresler et al. (2017)** · „Mnemonic Training Reshapes Brain Networks to Support Superior Memory“, *Neuron*, 93(5) — Training mit dem Gedächtnispalast steigerte die Behaltensleistung deutlich gegenüber einer Kontrollgruppe (messbar bis in die Vernetzung des Gehirns). *(Das ist die im Text erwähnte Studie.)*
+- <a id="quelle-loci"></a>**[1] Dresler et al. (2017)** · „Mnemonic Training Reshapes Brain Networks to Support Superior Memory“, *Neuron*, 93(5) — Training mit dem Gedächtnispalast ließ Lernende deutlich mehr behalten als eine Kontrollgruppe (messbar bis in die Vernetzung des Gehirns). *(Das ist die im Text erwähnte Studie.)*
 - **Yates (1966)** · *The Art of Memory* — Historisches Standardwerk über den Gedächtnispalast und seine 2000-jährige Geschichte
 - **Luria (1968)** · *The Mind of a Mnemonist* — Fesselnde Fallstudie über einen Mann mit außergewöhnlichem Gedächtnis
 - **Atkinson & Raugh (1975)** · „An Application of the Mnemonic Keyword Method to the Acquisition of a Russian Vocabulary“, *Journal of Experimental Psychology* — Klassischer Beleg für die Schlüsselwort-Methode

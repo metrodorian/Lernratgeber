@@ -37,7 +37,7 @@ Erinnerst du dich an die Vergessenskurve aus Kapitel 1? Jedes Mal, wenn du eine 
 
 Du sagst deinem Gehirn damit immer wieder: „Schon wieder das? Scheint wichtig zu sein — behalten wir.“ Bei Mia taucht alles nur ein einziges Mal auf. Ihr Gehirn hat keinen Grund, es für wichtig zu halten.
 
-Der Effekt ist gewaltig: Studien zeigen, dass verteiltes Lernen das Behalten — je nach Stoff und Abstand — um etwa **10 bis 30 Prozent** verbessern kann, bei *gleicher* Lernzeit. Das ist geschenkte Leistung.
+Der Effekt ist gewaltig. Studien zeigen: Verteiltes Lernen verbessert das Behalten um etwa **10 bis 30 Prozent** — je nach Stoff und Abstand, und das bei *gleicher* Lernzeit. Das ist geschenkte Leistung.
 
 ### Wie du es machst — die Abstände
 
@@ -106,9 +106,9 @@ Das ist die mächtigste Lernmethode, die die Wissenschaft kennt. Und das Beste: 
 
 ### Analog oder digital?
 
-Fang mit **Papier** an. Ein Schuhkarton mit fünf Fächern und ein Stapel Karten — mehr brauchst du nicht, und das Schreiben der Karten von Hand ist selbst schon Lernen (kein Bildschirm, keine Ablenkung). Für die meisten Fälle reicht das völlig.
+Fang mit **Papier** an. Ein Schuhkarton mit fünf Fächern und ein Stapel Karten — mehr brauchst du nicht. Und das Schreiben der Karten von Hand ist selbst schon Lernen: kein Bildschirm, keine Ablenkung. Für die meisten Fälle reicht das völlig.
 
-Erst wenn es richtig *viel* wird oder du Stoff über *Monate und Jahre* behalten willst (klassisch: Vokabeln), spielt eine App ihre Stärke aus: Sie rechnet für *jede einzelne* Karte den perfekten Wiederhol-Tag aus und legt dir automatisch genau die Karten vor, die heute „dran“ sind — das kann ein Pappkarton nicht. Ich habe die gängigen Apps gründlich verglichen; zwei lohnen sich wirklich *(Stand 2026)*:
+Erst wenn es richtig *viel* wird oder du Stoff über *Monate und Jahre* behalten willst (klassisch: Vokabeln), spielt eine App ihre Stärke aus. Sie rechnet für *jede einzelne* Karte den perfekten Wiederhol-Tag aus und legt dir automatisch genau die Karten vor, die heute „dran“ sind — das kann ein Pappkarton nicht. Ich habe die gängigen Apps gründlich verglichen; zwei lohnen sich wirklich *(Stand 2026)*:
 
 - **Für Schulvokabeln → phase6.** Die mit Abstand *einfachste* Option, weil du gar keine Karten tippen musst: Du wählst dein Schulbuch (Green Line, Découvertes, À Plus! und viele mehr) und die passenden Vokabeln sind schon fertig drin. phase6 ist ein digitaler Leitner-Kasten von einer deutschen Firma und kostet ein paar Euro im Monat (vorher gratis testbar). Für Sprachen unschlagbar bequem.
 - **Für alle anderen Fächer (und kostenlos) → Anki.** Die App mit dem *besten* Wiederhol-Rechner der Welt — gratis am Computer, im Browser und auf Android, ganz ohne Werbung (nur die iPhone-App kostet einmalig). Du machst die Karten selbst (oder lädst fertige herunter) und sagst nach jeder bloß „gewusst“ oder „nicht gewusst“, den Rest erledigt Anki. Einziger Haken: Die Oberfläche wirkt altmodisch, und du brauchst ein halbes Stündchen zum Einfinden — das lohnt sich, weil dich Anki danach jahrelang trägt.

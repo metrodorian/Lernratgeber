@@ -59,4 +59,4 @@ So wird aus diesem Ratgeber kein weiterer Stapel guter Ratschläge, den man nick
 
 ---
 
-\* *Beleg: Karpicke & Blunt (2011), Science — sich selbst abzufragen führte zu rund 50 % besserer Behaltensleistung als wiederholtes Durcharbeiten oder das Erstellen von Concept-Maps. Eingebettet in den robust belegten „Testing-Effekt“ (u. a. Roediger & Karpicke, 2006). Konfidenz: 🟢 felsenfest. — Weitere Einzelnachweise in der [Forschungs-Übersicht](Recherche/01_Recherche_Lerntechniken.md).*
+\* *Beleg: Karpicke & Blunt (2011), Science — wer sich selbst abfragte, behielt rund 50 % mehr als Lernende, die den Stoff wiederholt durcharbeiteten oder Concept-Maps erstellten. Eingebettet in den robust belegten „Testing-Effekt“ (u. a. Roediger & Karpicke, 2006). Konfidenz: 🟢 felsenfest. — Weitere Einzelnachweise in der [Forschungs-Übersicht](Recherche/01_Recherche_Lerntechniken.md).*

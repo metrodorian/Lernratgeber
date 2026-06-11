@@ -16,7 +16,7 @@ Der Grund ist kein Zufall, und er ist der Schlüssel zu diesem ganzen Kapitel: *
 
 🟢 *Gut belegt — sauber per Hirnscan-Studie nachgewiesen.*
 
-Forscher haben Menschen im Hirnscanner Quizfragen gestellt und gemessen, wie neugierig sie auf die Antwort waren. Das Ergebnis ist verblüffend: Wenn die Neugier groß war, sprang das **Belohnungssystem** des Gehirns an (dasselbe, das bei Vorfreude aktiv wird) — und gleichzeitig arbeitete der **Hippocampus** stärker, die Region, die neue Erinnerungen baut.
+Forscher haben Menschen im Hirnscanner Quizfragen gestellt und gemessen, wie neugierig sie auf die Antwort waren. Das Ergebnis ist verblüffend: Wenn die Neugier groß war, sprang das **Belohnungssystem** des Gehirns an — dasselbe, das bei Vorfreude aktiv wird. Gleichzeitig arbeitete der **Hippocampus** stärker, die Region, die neue Erinnerungen baut.
 
 Die Folge: In Zuständen hoher Neugier merkten sich die Leute die Antworten viel besser. Und der Hammer kommt jetzt: Sie behielten sogar **nebensächliche Dinge** besser, die ihnen währenddessen zufällig begegneten. Neugier versetzt dein Gehirn in einen Aufnahme-Modus, von dem *alles* profitiert, was du in diesem Moment erlebst.
 
@@ -24,7 +24,7 @@ Die Folge: In Zuständen hoher Neugier merkten sich die Leute die Antworten viel
 
 ## Der Funke zuerst
 
-Wie weckt man Neugier auf ein Thema, das einen (noch) kaltlässt? Mit einem **Funken** — etwas, das das Thema spannend, lebendig oder rätselhaft macht, *bevor* du in die Details gehst:
+Wie weckst du Neugier auf ein Thema, das dich (noch) kaltlässt? Mit einem **Funken** — etwas, das das Thema spannend, lebendig oder rätselhaft macht, *bevor* du in die Details gehst:
 
 - ein packendes **YouTube-Video** oder eine Doku zum Thema
 - ein verblüffendes Experiment, ein Rätsel, eine gute Frage („Warum ist der Himmel blau?“)
@@ -56,7 +56,7 @@ Sich mit Freunden zum Lernen zu treffen, ist nicht „weniger ernst“ — richt
 - **Einander etwas erklären** = die Feynman-Technik (Kapitel 3) — und wer erklärt, lernt am meisten.
 - **Sich Fragen ausdenken**, streiten, vergleichen = tiefes Verstehen.
 
-Dazu kommt: Mit anderen macht es schlicht mehr Spaß, man bleibt eher dran, und man zieht sich gegenseitig hoch. Ein, zwei feste „Lern-Verabredungen“ können mehr bringen als stundenlanges Alleine-Grübeln. *(Die einzige Falle: Es darf nicht im reinen Quatschen versinken — ein kleines Ziel pro Treffen hält euch auf Kurs.)*
+Dazu kommt: Mit anderen macht es schlicht mehr Spaß, ihr bleibt eher dran und zieht euch gegenseitig hoch. Ein, zwei feste „Lern-Verabredungen“ können mehr bringen als stundenlanges Alleine-Grübeln. *(Die einzige Falle: Es darf nicht im reinen Quatschen versinken — ein kleines Ziel pro Treffen hält euch auf Kurs.)*
 
 ## Mach etwas Echtes: Projekte
 
@@ -75,7 +75,7 @@ Bei einem Projekt fragst du gar nicht mehr „Muss ich das wirklich lernen?“ �
 
 ## Was, wenn mich das Thema kaltlässt?
 
-Seien wir ehrlich: Nicht jeder Schulstoff lässt sich in ein Lieblingsprojekt verwandeln — und manchmal zündet auch der beste Funke nicht. Was tun, wenn das Thema wirklich nicht interessiert und man es trotzdem lernen muss?
+Seien wir ehrlich: Nicht jeder Schulstoff lässt sich in ein Lieblingsprojekt verwandeln — und manchmal zündet auch der beste Funke nicht. Was tun, wenn das Thema wirklich nicht interessiert und du es trotzdem lernen musst?
 
 **1. Suche den einen Haken.** Kein Thema ist wirklich rundum langweilig. In der Chemie stecken Explosionen, Gifte und Farbstoffe. In der Geschichte stecken Verbrechen, Zufälle und skurrile Menschen. In der Grammatik steckt der Bauplan jeder Sprache, die je gesprochen wurde. Frage dich: *Welcher Aspekt wäre für einen Detektiv, eine Erfinderin oder ein neugieriges Kind spannend?* Meistens findest du ihn.
 
@@ -83,7 +83,7 @@ Seien wir ehrlich: Nicht jeder Schulstoff lässt sich in ein Lieblingsprojekt ve
 
 **3. Mach es so kurz wie möglich — aber richtig.** Langweiligen Stoff mit schlechten Methoden zu lernen ist die schlimmste Kombination: viel Aufwand, kaum Ergebnis. Mit den Königstechniken aus Kapitel 2 geht derselbe Stoff schneller und bleibt länger — weniger Aufwand bei besserem Ergebnis.
 
-Und manchmal entdeckt man dabei, dass das Thema doch interessanter war, als es zunächst schien.
+Und manchmal entdeckst du dabei, dass das Thema doch interessanter war, als es zunächst schien.
 
 ## Gute Laune lernt besser
 

@@ -23,7 +23,7 @@ Die eigentliche Gefahr am Lerntyp-Mythos: Er verführt dazu, sich selbst einzusp
 
 ## Mythos 2: Wiederlesen und Markieren
 
-Das ist die mit Abstand beliebteste Lernmethode der Welt — und eine der schwächsten. In der großen Techniken-Studie aus Kapitel 2 landeten Wiederlesen, Unterstreichen und Markieren ganz unten.
+Wiederlesen ist die mit Abstand beliebteste Lernmethode der Welt — und eine der schwächsten. In der großen Techniken-Studie aus Kapitel 2 landeten Wiederlesen, Unterstreichen und Markieren ganz unten.
 
 Warum sind sie so beliebt, wenn sie so wenig bringen? Weil sie sich **großartig anfühlen.** Das bunt markierte Buch sieht nach Arbeit aus. Der wiedergelesene Text kommt einem vertraut vor. Aber genau das ist die **Illusion der Kompetenz** aus Kapitel 1: Vertrautheit ist nicht Können.
 
