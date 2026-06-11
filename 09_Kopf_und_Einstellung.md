@@ -35,7 +35,7 @@ Das Wachstums-Denken wirkt erst, wenn du es mit **echtem Handeln** verbindest �
 
 🟢 *Sehr gut belegt — Metakognition gehört zu den wirksamsten Faktoren für Lernerfolg überhaupt.*
 
-Vielleicht die wichtigste „unsichtbare“ Fähigkeit überhaupt: Forscher nennen sie **Metakognition**, also „das Denken über das eigene Denken“. Sie ist der Dirigent, der all deine Lern-Werkzeuge klug einsetzt. Sie hat drei Phasen:
+Vielleicht die wichtigste „unsichtbare“ Fähigkeit beim Lernen: Forscher nennen sie **Metakognition**, also „das Denken über das eigene Denken“. Sie ist der Dirigent, der all deine Lern-Werkzeuge klug einsetzt. Sie hat drei Phasen:
 
 1. **Planen (vorher):** *Was* will ich lernen, *wie* und *wie lange*? Welche Technik passt zu diesem Stoff? (Vokabeln → Karteikasten. Ein schwieriges Konzept → Feynman.)
 2. **Überwachen (währenddessen):** *Verstehe ich das wirklich — oder kommt es mir nur bekannt vor?* Hier schützt du dich vor der Illusion der Kompetenz aus Kapitel 1, indem du dich kurz selbst abfragst.

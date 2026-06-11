@@ -73,7 +73,7 @@ Das kannst du dir zunutze machen. Hier sind die fünf besten Einsatzweisen:
 Du verstehst etwas im Buch nicht? Lass es dir von der KI erklären — und zwar so, wie *du* es brauchst: *„Erklär mir das, als wäre ich zwölf.“* · *„Gib mir ein Beispiel aus dem Alltag.“* · *„Erklär es nochmal ganz anders.“* Eine KI wird nie ungeduldig, egal wie oft du nachfragst. Aber dann kommt die Pflicht: **Klapp den Chat zu und erklär es in eigenen Worten nach** (das ist die Feynman-Technik aus Kapitel 3). Erst dann ist es wirklich deins.
 
 ### 2. Als Tutor, der dir nichts schenkt
-Das ist der beste Trick überhaupt. Gib der KI ausdrücklich diese Anweisung:
+Wenn du dir aus diesem Kapitel nur einen Trick merkst, dann diesen. Gib der KI ausdrücklich diese Anweisung:
 
 > *„Sei mein Tutor für [Thema]. Gib mir auf keinen Fall die Lösung. Stell mir stattdessen Fragen und kleine Hinweise, einen nach dem anderen, bis ich selbst auf die Antwort komme.“*
 

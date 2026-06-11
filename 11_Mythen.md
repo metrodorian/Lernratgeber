@@ -2,7 +2,7 @@
 
 🟩🟩🟩🟩🟩 **Konfidenz: Felsenfest** · Dass Lernstile nichts bringen, Wiederlesen wenig hilft und Multitasking schadet, ist wissenschaftlich klar belegt — diese Mythen sind so gründlich widerlegt wie kaum etwas anderes in der Lernforschung.
 
-> Dieses Kapitel ist vielleicht das nützlichste von allen. Denn manchmal lernst du am schnellsten besser, indem du aufhörst, etwas Falsches zu tun. Hier sind die größten Lernmythen — Dinge, die fast alle für klug halten und die in Wahrheit deine Zeit verschwenden.
+> Dieses Kapitel spart dir vermutlich die meiste Zeit von allen. Denn manchmal lernst du am schnellsten besser, indem du aufhörst, etwas Falsches zu tun. Hier sind die größten Lernmythen — Dinge, die fast alle für klug halten und die in Wahrheit deine Zeit verschwenden.
 
 ---
 

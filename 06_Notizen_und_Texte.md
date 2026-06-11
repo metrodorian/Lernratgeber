@@ -20,7 +20,7 @@ Das eigentliche Problem: Reines Mitschreiben ist **passiv**. Dein Gehirn ist im 
 
 🟠 *Beliebt, aber als eigene Methode nur dünn erforscht — sie wirkt über die belegten Prinzipien dahinter (Abfragen, Zusammenfassen).*
 
-Erfunden an der Cornell-Universität, ist das wahrscheinlich das beste Notiz-System der Welt — und es braucht nur ein Blatt Papier, das du clever aufteilst.
+Erfunden an der Cornell-Universität, ist das wohl das durchdachteste Notiz-System — und es braucht nur ein Blatt Papier, das du clever aufteilst.
 
 ### Der Aufbau
 

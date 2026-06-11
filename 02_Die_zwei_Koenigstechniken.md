@@ -102,7 +102,7 @@ Hier kommt der eigentliche Trick. Die zwei Königstechniken sind schon einzeln s
 
 > **Frag dich in größer werdenden Abständen immer wieder selbst ab.**
 
-Das ist die mächtigste Lernmethode, die die Wissenschaft kennt. Und das Beste: Der Karteikasten von eben *macht genau das automatisch*. Jede Karte ist eine Abfrage (Königstechnik 2), und das Fächersystem sorgt für die Abstände (Königstechnik 1). Zwei Fliegen, eine Klappe.
+Das ist die am besten belegte Lernmethode, die die Wissenschaft kennt. Und das Beste: Der Karteikasten von eben *macht genau das automatisch*. Jede Karte ist eine Abfrage (Königstechnik 2), und das Fächersystem sorgt für die Abstände (Königstechnik 1). Zwei Fliegen, eine Klappe.
 
 ### Analog oder digital?
 
@@ -111,7 +111,7 @@ Fang mit **Papier** an. Ein Schuhkarton mit fünf Fächern und ein Stapel Karten
 Erst wenn es richtig *viel* wird oder du Stoff über *Monate und Jahre* behalten willst (klassisch: Vokabeln), spielt eine App ihre Stärke aus. Sie rechnet für *jede einzelne* Karte den perfekten Wiederhol-Tag aus und legt dir automatisch genau die Karten vor, die heute „dran“ sind — das kann ein Pappkarton nicht. Ich habe die gängigen Apps gründlich verglichen; zwei lohnen sich wirklich *(Stand 2026)*:
 
 - **Für Schulvokabeln → phase6.** Die mit Abstand *einfachste* Option, weil du gar keine Karten tippen musst: Du wählst dein Schulbuch (Green Line, Découvertes, À Plus! und viele mehr) und die passenden Vokabeln sind schon fertig drin. phase6 ist ein digitaler Leitner-Kasten von einer deutschen Firma und kostet ein paar Euro im Monat (vorher gratis testbar). Für Sprachen unschlagbar bequem.
-- **Für alle anderen Fächer (und kostenlos) → Anki.** Die App mit dem *besten* Wiederhol-Rechner der Welt — gratis am Computer, im Browser und auf Android, ganz ohne Werbung (nur die iPhone-App kostet einmalig). Du machst die Karten selbst (oder lädst fertige herunter) und sagst nach jeder bloß „gewusst“ oder „nicht gewusst“, den Rest erledigt Anki. Einziger Haken: Die Oberfläche wirkt altmodisch, und du brauchst ein halbes Stündchen zum Einfinden — das lohnt sich, weil dich Anki danach jahrelang trägt.
+- **Für alle anderen Fächer (und kostenlos) → Anki.** Die App mit dem wohl ausgefeiltesten Wiederhol-Rechner — gratis am Computer, im Browser und auf Android, ganz ohne Werbung (nur die iPhone-App kostet einmalig). Du machst die Karten selbst (oder lädst fertige herunter) und sagst nach jeder bloß „gewusst“ oder „nicht gewusst“, den Rest erledigt Anki. Einziger Haken: Die Oberfläche wirkt altmodisch, und du brauchst ein halbes Stündchen zum Einfinden — das lohnt sich, weil dich Anki danach jahrelang trägt.
 
 Und **Quizlet**, das viele aus der Schule kennen? Hübsch und kinderleicht — aber die Gratis-Version ist inzwischen stark beschnitten (ausgerechnet der clevere „Lernen“-Modus kostet jetzt extra) und voller Werbung. Als kostenlose Lern-App nicht mehr die erste Wahl. *(Ausnahme: Richtet deine Lehrerin eine Quizlet-Klasse ein, ist sie für euch gratis und werbefrei.)*
 
@@ -125,7 +125,7 @@ Und **Quizlet**, das viele aus der Schule kennen? Hübsch und kinderleicht — a
 > - **Abstände:** ca. 1 Stunde → 1 Tag → 1 Woche → 1 Monat.
 > - **Sich selbst abfragen** schlägt Wiederlesen um Längen — und deckt ehrlich deine Lücken auf.
 > - Der **Karteikasten** vereint beide Königstechniken in einem Schuhkarton.
-> - **Als App:** für Vokabeln **phase6**, für alles andere **Anki** — kostenlos und mit dem besten Wiederhol-System überhaupt. Lass dich von Ankis altmodischer Oberfläche nicht abschrecken: Die kurze Einarbeitung ist gut zu schaffen und trägt dich dann jahrelang.
+> - **Als App:** für Vokabeln **phase6**, für alles andere **Anki** — kostenlos und mit einem ausgeklügelten Wiederhol-System. Lass dich von Ankis altmodischer Oberfläche nicht abschrecken: Die kurze Einarbeitung ist gut zu schaffen und trägt dich dann jahrelang.
 
 > ## 🎯 Probier's aus
 >
