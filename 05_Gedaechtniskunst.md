@@ -24,7 +24,7 @@ Hast du alle fünf noch? Trompete, Zitrone, Pyramide, Schmetterling, Trommel.
 
 ## Der Gedächtnispalast (Loci-Methode)
 
-Das ist die mächtigste Gedächtnistechnik überhaupt — und über **2000 Jahre alt**. Schon die Redner im alten Rom hielten damit stundenlange Reden ohne Notizen. „Loci" ist lateinisch für „Orte".
+Das ist die mächtigste Gedächtnistechnik überhaupt — und über **2000 Jahre alt**. Schon die Redner im alten Rom hielten damit stundenlange Reden ohne Notizen. „Loci“ ist lateinisch für „Orte“.
 
 ### Die Idee
 
@@ -34,7 +34,7 @@ Du nutzt einen Ort, den du in- und auswendig kennst — deine Wohnung — und le
 
 1. **Wähle eine feste Route** durch einen vertrauten Ort. Zum Beispiel deine Wohnung: Haustür → Garderobe → Küche → Sofa → Fernseher → Bett. Immer dieselbe Reihenfolge.
 2. **Leg an jede Station ein Bild** von dem, was du dir merken willst — je verrückter, desto besser.
-3. **Zum Abrufen** gehst du die Route im Kopf ab und „findest" an jeder Station dein Bild wieder.
+3. **Zum Abrufen** gehst du die Route im Kopf ab und „findest“ an jeder Station dein Bild wieder.
 
 ### Ein Beispiel
 
@@ -57,9 +57,9 @@ Für alles, was eine **Reihenfolge** oder eine **Liste** ist: Aufzählungen, Arg
 
 Die kennst du wahrscheinlich schon — sie sind die kleinen Geschwister des Gedächtnispalastes und perfekt für kürzere Sachen.
 
-- **Merksätze (Akrostichon):** Aus den Anfangsbuchstaben baust du einen Satz. Die Planeten: *„**M**ein **V**ater **e**rklärt **m**ir **j**eden **S**onntag **u**nsere **N**achbarplaneten"* (Merkur, Venus, Erde, Mars, Jupiter, Saturn, Uranus, Neptun).
-- **Reime:** *„Drei, drei, drei — bei Issos Keilerei"* (333 v. Chr.). Oder die Klassiker fürs Rechtschreiben: *„Wer nämlich mit h schreibt, ist dämlich."*
-- **Akronyme:** Ein einziges Kunstwort aus Anfangsbuchstaben. Die Himmelsrichtungen im Uhrzeigersinn: **N**ord, **O**st, **S**üd, **W**est → *„**N**ie **o**hne **S**eife **w**aschen."*
+- **Merksätze (Akrostichon):** Aus den Anfangsbuchstaben baust du einen Satz. Die Planeten: *„**M**ein **V**ater **e**rklärt **m**ir **j**eden **S**onntag **u**nsere **N**achbarplaneten“* (Merkur, Venus, Erde, Mars, Jupiter, Saturn, Uranus, Neptun).
+- **Reime:** *„Drei, drei, drei — bei Issos Keilerei“* (333 v. Chr.). Oder die Klassiker fürs Rechtschreiben: *„Wer nämlich mit h schreibt, ist dämlich.“*
+- **Akronyme:** Ein einziges Kunstwort aus Anfangsbuchstaben. Die Himmelsrichtungen im Uhrzeigersinn: **N**ord, **O**st, **S**üd, **W**est → *„**N**ie **o**hne **S**eife **w**aschen.“*
 
 Eselsbrücken sind genial für feste, kurze Reihenfolgen. Aber Achtung: Sie helfen dir, dich zu *erinnern* — sie ersetzen kein *Verstehen* (siehe Kapitel 3). Beides zusammen ist am stärksten.
 
@@ -71,9 +71,9 @@ Vokabeln sind der Klassiker zum Verzweifeln. Auch hier hilft ein Bild.
 
 Der Trick: Verbinde das fremde Wort mit einem **ähnlich klingenden** Wort aus deiner Sprache und mal daraus ein gemeinsames Bild.
 
-- Englisch **„butterfly"** (Schmetterling) klingt wie „Butter" + „fly" (fliegen). → Stell dir ein Stück **Butter mit Flügeln** vor, das durch die Luft flattert.
-- Spanisch **„caballo"** (Pferd) klingt wie „Kaba" (das Kakaogetränk). → Ein **Pferd, das gierig Kaba** schlürft.
-- Französisch **„grenouille"** (Frosch) klingt ein bisschen wie „Granulat". → Ein **Frosch, der in Müsli-Granulat** sitzt.
+- Englisch **„butterfly“** (Schmetterling) klingt wie „Butter“ + „fly“ (fliegen). → Stell dir ein Stück **Butter mit Flügeln** vor, das durch die Luft flattert.
+- Spanisch **„caballo“** (Pferd) klingt wie „Kaba“ (das Kakaogetränk). → Ein **Pferd, das gierig Kaba** schlürft.
+- Französisch **„grenouille“** (Frosch) klingt ein bisschen wie „Granulat“. → Ein **Frosch, der in Müsli-Granulat** sitzt.
 
 Es fühlt sich albern an. Genau deshalb funktioniert es: Das Verrückte bleibt hängen. Und je öfter du eigene Bilder baust, desto schneller und besser wirst du darin.
 
@@ -97,9 +97,9 @@ Es fühlt sich albern an. Genau deshalb funktioniert es: Das Verrückte bleibt h
 
 ## 📚 Quellen & Links
 
-- <a id="quelle-loci"></a>**[1] Dresler et al. (2017)** · „Mnemonic Training Reshapes Brain Networks to Support Superior Memory", *Neuron*, 93(5) — Training mit dem Gedächtnispalast steigerte die Behaltensleistung deutlich gegenüber einer Kontrollgruppe (messbar bis in die Vernetzung des Gehirns). *(Das ist die im Text erwähnte Studie.)*
+- <a id="quelle-loci"></a>**[1] Dresler et al. (2017)** · „Mnemonic Training Reshapes Brain Networks to Support Superior Memory“, *Neuron*, 93(5) — Training mit dem Gedächtnispalast steigerte die Behaltensleistung deutlich gegenüber einer Kontrollgruppe (messbar bis in die Vernetzung des Gehirns). *(Das ist die im Text erwähnte Studie.)*
 - **Yates (1966)** · *The Art of Memory* — Historisches Standardwerk über den Gedächtnispalast und seine 2000-jährige Geschichte
 - **Luria (1968)** · *The Mind of a Mnemonist* — Fesselnde Fallstudie über einen Mann mit außergewöhnlichem Gedächtnis
-- **Atkinson & Raugh (1975)** · „An Application of the Mnemonic Keyword Method to the Acquisition of a Russian Vocabulary", *Journal of Experimental Psychology* — Klassischer Beleg für die Schlüsselwort-Methode
+- **Atkinson & Raugh (1975)** · „An Application of the Mnemonic Keyword Method to the Acquisition of a Russian Vocabulary“, *Journal of Experimental Psychology* — Klassischer Beleg für die Schlüsselwort-Methode
 - [Wikipedia: Loci-Methode](https://de.wikipedia.org/wiki/Loci-Methode) — Geschichte und Aufbau des Gedächtnispalastes
 - [Wikipedia: Mnemotechnik](https://de.wikipedia.org/wiki/Mnemotechnik) — Überblick über alle Merktechniken

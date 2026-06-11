@@ -69,8 +69,8 @@ Merkst du was? Das ist **aktives Abrufen** (Königstechnik 2!) — direkt in dei
 
 Einen Sachtext einfach von oben nach unten durchzulesen ist erstaunlich ineffektiv — die Augen wandern über die Zeilen, aber der Kopf döst. Die **SQ3R-Methode** macht aus passivem Lesen ein aktives Gespräch mit dem Text. Die fünf Buchstaben stehen für fünf Schritte:
 
-1. **S – Survey (Überfliegen):** Bevor du richtig liest, verschaffe dir einen Überblick. Schau Überschriften, Bilder, fett Gedrucktes und die Zusammenfassung an. Du baust dir eine „Landkarte", bevor du losläufst.
-2. **Q – Question (Fragen):** Mach aus den Überschriften Fragen. Aus „Die Französische Revolution" wird „Warum kam es zur Französischen Revolution?" Jetzt liest du mit einem *Ziel*.
+1. **S – Survey (Überfliegen):** Bevor du richtig liest, verschaffe dir einen Überblick. Schau Überschriften, Bilder, fett Gedrucktes und die Zusammenfassung an. Du baust dir eine „Landkarte“, bevor du losläufst.
+2. **Q – Question (Fragen):** Mach aus den Überschriften Fragen. Aus „Die Französische Revolution“ wird „Warum kam es zur Französischen Revolution?“ Jetzt liest du mit einem *Ziel*.
 3. **R – Read (Lesen):** Lies den Text — und suche dabei aktiv die **Antworten** auf deine Fragen.
 4. **R – Recite (Wiedergeben):** Nach jedem Abschnitt: Buch weg, und sag in eigenen Worten, was drinstand. (Schon wieder aktives Abrufen!)
 5. **R – Review (Wiederholen):** Geh am Ende das Ganze nochmal durch und beantworte deine Fragen vom Anfang.
@@ -83,7 +83,7 @@ Ein schöner Nebeneffekt: Texte so zu bearbeiten **kann helfen, sich besser vorb
 
 🟡 *Wort + Bild zusammen (Dual Coding) ist gut belegt; Mindmaps als solche weniger.*
 
-Es gibt noch einen Grund, warum Bilder beim Lernen so stark sind (du kennst ihn aus Kapitel 5): Dein Gehirn hat **zwei** Speicher — einen für Worte und einen für Bilder. Wenn du beide nutzt, speicherst du eine Sache *doppelt* ab und hast zwei Wege, sie wiederzufinden. Forscher nennen das **„duale Kodierung"**. In Studien behalten Lernende mit Wort *und* Bild deutlich mehr als mit Worten allein.
+Es gibt noch einen Grund, warum Bilder beim Lernen so stark sind (du kennst ihn aus Kapitel 5): Dein Gehirn hat **zwei** Speicher — einen für Worte und einen für Bilder. Wenn du beide nutzt, speicherst du eine Sache *doppelt* ab und hast zwei Wege, sie wiederzufinden. Forscher nennen das **„duale Kodierung“**. In Studien behalten Lernende mit Wort *und* Bild deutlich mehr als mit Worten allein.
 
 Das nutzt du mit:
 

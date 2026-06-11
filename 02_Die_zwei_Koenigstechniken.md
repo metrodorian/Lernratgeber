@@ -20,13 +20,13 @@ Hier sind sie.
 
 ## Königstechnik 1: Verteiltes Lernen
 
-*(Fachbegriff: „Spaced Repetition" oder „verteiltes Üben")*
+*(Fachbegriff: „Spaced Repetition“ oder „verteiltes Üben“)*
 
 ### Die Idee
 
 Stell dir zwei Schülerinnen vor, die gleich viel Zeit zum Lernen haben — sagen wir, vier Stunden.
 
-- **Mia** lernt alles am Abend vor der Prüfung. Vier Stunden am Stück. Das nennt man „Pauken" oder „Cramming".
+- **Mia** lernt alles am Abend vor der Prüfung. Vier Stunden am Stück. Das nennt man „Pauken“ oder „Cramming“.
 - **Lena** verteilt dieselben vier Stunden auf vier Tage: jeden Tag eine Stunde.
 
 Beide haben exakt gleich lang gelernt. Aber Lena wird in der Prüfung besser abschneiden — und Wochen später, wenn Mia fast alles vergessen hat, wird Lena noch immer das Meiste wissen.
@@ -35,7 +35,7 @@ Beide haben exakt gleich lang gelernt. Aber Lena wird in der Prüfung besser abs
 
 Erinnerst du dich an die Vergessenskurve aus Kapitel 1? Jedes Mal, wenn du eine Information **kurz bevor du sie vergessen würdest** auffrischst, passiert etwas Magisches: Die Kurve wird flacher. Du vergisst danach langsamer. Beim nächsten Mal hält die Erinnerung noch länger.
 
-Du sagst deinem Gehirn damit immer wieder: „Schon wieder das? Scheint wichtig zu sein — behalten wir." Bei Mia taucht alles nur ein einziges Mal auf. Ihr Gehirn hat keinen Grund, es für wichtig zu halten.
+Du sagst deinem Gehirn damit immer wieder: „Schon wieder das? Scheint wichtig zu sein — behalten wir.“ Bei Mia taucht alles nur ein einziges Mal auf. Ihr Gehirn hat keinen Grund, es für wichtig zu halten.
 
 Der Effekt ist gewaltig: Studien zeigen, dass verteiltes Lernen das Behalten — je nach Stoff und Abstand — um etwa **10 bis 30 Prozent** verbessern kann, bei *gleicher* Lernzeit. Das ist geschenkte Leistung.
 
@@ -68,17 +68,17 @@ Ein Schuhkarton mit fünf Trennwänden und ein Stapel Karteikarten — mehr brau
 
 ## Königstechnik 2: Sich selbst abfragen
 
-*(Fachbegriff: „Active Recall", „Abrufübung" oder „Testing-Effekt")*
+*(Fachbegriff: „Active Recall“, „Abrufübung“ oder „Testing-Effekt“)*
 
 ### Die Idee
 
-Die meisten Menschen „lernen", indem sie Stoff in sich *hineinlesen*. Immer wieder. Das ist, als würdest du Wasser in den Eimer mit dem Loch kippen.
+Die meisten Menschen „lernen“, indem sie Stoff in sich *hineinlesen*. Immer wieder. Das ist, als würdest du Wasser in den Eimer mit dem Loch kippen.
 
 Aktives Abrufen dreht die Richtung um: Statt Information *rein*zulesen, holst du sie *raus*. Buch zu. Frage stellen. Antwort aus dem Kopf hervorkramen. *Dann* erst kontrollieren.
 
 ### Warum das funktioniert
 
-Jedes Mal, wenn du etwas erfolgreich aus deinem Gedächtnis hervorholst, wird der „Pfad" zu dieser Information **breiter und stabiler** — wie ein Trampelpfad durch eine Wiese, der zur Straße wird, je öfter du ihn gehst.
+Jedes Mal, wenn du etwas erfolgreich aus deinem Gedächtnis hervorholst, wird der „Pfad“ zu dieser Information **breiter und stabiler** — wie ein Trampelpfad durch eine Wiese, der zur Straße wird, je öfter du ihn gehst.
 
 Das bloße Wiederlesen baut diesen Pfad *nicht*. Es fühlt sich nur so an (du erinnerst dich — die Illusion der Kompetenz). Das Abrufen baut ihn wirklich.
 
@@ -88,11 +88,11 @@ Und ganz nebenbei tut das Abrufen noch etwas Wertvolles: Es zeigt dir **schonung
 
 ### Wie du es machst
 
-- **Der „Brain Dump":** Leeres Blatt, Buch zu. Schreib *alles* auf, was dir zu einem Thema einfällt. Dann mit dem Buch abgleichen und die Lücken markieren. Diese Lücken sind dein Lernplan.
+- **Der „Brain Dump“:** Leeres Blatt, Buch zu. Schreib *alles* auf, was dir zu einem Thema einfällt. Dann mit dem Buch abgleichen und die Lücken markieren. Diese Lücken sind dein Lernplan.
 - **Karteikarten:** Frage auf der Vorderseite, Antwort hinten. Erst **raten**, dann umdrehen. (Genau das verbindet sich perfekt mit dem Leitner-Kasten!)
 - **Eigene Prüfungsfragen schreiben:** Tu so, als wärst du die Lehrerin. Welche Fragen würdest *du* stellen? Das Fragen-Erfinden zwingt dich, den Stoff zu durchdenken.
 - **Abfrage-Partner:** Lass dich von jemandem abfragen — oder fragt euch gegenseitig ab.
-- **Früh testen:** Warte nicht, bis du dich „bereit" fühlst. Teste dich, *bevor* du es kannst. Selbst geratene falsche Antworten helfen beim Lernen.
+- **Früh testen:** Warte nicht, bis du dich „bereit“ fühlst. Teste dich, *bevor* du es kannst. Selbst geratene falsche Antworten helfen beim Lernen.
 
 ---
 
@@ -108,12 +108,12 @@ Das ist die mächtigste Lernmethode, die die Wissenschaft kennt. Und das Beste: 
 
 Fang mit **Papier** an. Ein Schuhkarton mit fünf Fächern und ein Stapel Karten — mehr brauchst du nicht, und das Schreiben der Karten von Hand ist selbst schon Lernen (kein Bildschirm, keine Ablenkung). Für die meisten Fälle reicht das völlig.
 
-Erst wenn es richtig *viel* wird oder du Stoff über *Monate und Jahre* behalten willst (klassisch: Vokabeln), spielt eine App ihre Stärke aus: Sie rechnet für *jede einzelne* Karte den perfekten Wiederhol-Tag aus und legt dir automatisch genau die Karten vor, die heute „dran" sind — das kann ein Pappkarton nicht. Ich habe die gängigen Apps gründlich verglichen; zwei lohnen sich wirklich *(Stand 2026)*:
+Erst wenn es richtig *viel* wird oder du Stoff über *Monate und Jahre* behalten willst (klassisch: Vokabeln), spielt eine App ihre Stärke aus: Sie rechnet für *jede einzelne* Karte den perfekten Wiederhol-Tag aus und legt dir automatisch genau die Karten vor, die heute „dran“ sind — das kann ein Pappkarton nicht. Ich habe die gängigen Apps gründlich verglichen; zwei lohnen sich wirklich *(Stand 2026)*:
 
 - **Für Schulvokabeln → phase6.** Die mit Abstand *einfachste* Option, weil du gar keine Karten tippen musst: Du wählst dein Schulbuch (Green Line, Découvertes, À Plus! und viele mehr) und die passenden Vokabeln sind schon fertig drin. phase6 ist ein digitaler Leitner-Kasten von einer deutschen Firma und kostet ein paar Euro im Monat (vorher gratis testbar). Für Sprachen unschlagbar bequem.
-- **Für alle anderen Fächer (und kostenlos) → Anki.** Die App mit dem *besten* Wiederhol-Rechner der Welt — gratis am Computer, im Browser und auf Android, ganz ohne Werbung (nur die iPhone-App kostet einmalig). Du machst die Karten selbst (oder lädst fertige herunter) und sagst nach jeder bloß „gewusst" oder „nicht gewusst", den Rest erledigt Anki. Einziger Haken: Die Oberfläche wirkt altmodisch, und du brauchst ein halbes Stündchen zum Einfinden — das lohnt sich, weil dich Anki danach jahrelang trägt.
+- **Für alle anderen Fächer (und kostenlos) → Anki.** Die App mit dem *besten* Wiederhol-Rechner der Welt — gratis am Computer, im Browser und auf Android, ganz ohne Werbung (nur die iPhone-App kostet einmalig). Du machst die Karten selbst (oder lädst fertige herunter) und sagst nach jeder bloß „gewusst“ oder „nicht gewusst“, den Rest erledigt Anki. Einziger Haken: Die Oberfläche wirkt altmodisch, und du brauchst ein halbes Stündchen zum Einfinden — das lohnt sich, weil dich Anki danach jahrelang trägt.
 
-Und **Quizlet**, das viele aus der Schule kennen? Hübsch und kinderleicht — aber die Gratis-Version ist inzwischen stark beschnitten (ausgerechnet der clevere „Lernen"-Modus kostet jetzt extra) und voller Werbung. Als kostenlose Lern-App nicht mehr die erste Wahl. *(Ausnahme: Richtet deine Lehrerin eine Quizlet-Klasse ein, ist sie für euch gratis und werbefrei.)*
+Und **Quizlet**, das viele aus der Schule kennen? Hübsch und kinderleicht — aber die Gratis-Version ist inzwischen stark beschnitten (ausgerechnet der clevere „Lernen“-Modus kostet jetzt extra) und voller Werbung. Als kostenlose Lern-App nicht mehr die erste Wahl. *(Ausnahme: Richtet deine Lehrerin eine Quizlet-Klasse ein, ist sie für euch gratis und werbefrei.)*
 
 **Kurz gesagt:** Papier zum Start · Vokabeln → phase6 · alles andere, kostenlos und für die Ewigkeit → Anki.
 
@@ -143,27 +143,27 @@ Du willst den digitalen Karteikasten ausprobieren? Hier der Schnellstart — kei
 
 **Schritt 1 — Anki holen** (es heißt auf jedem Gerät etwas anders):
 - **Computer (Windows/Mac):** kostenlos auf [apps.ankiweb.net](https://apps.ankiweb.net)
-- **Android-Handy/Tablet:** „AnkiDroid" im Play Store — kostenlos
-- **iPhone/iPad:** „AnkiMobile" im App Store — kostet einmalig etwas (die anderen sind gratis)
+- **Android-Handy/Tablet:** „AnkiDroid“ im Play Store — kostenlos
+- **iPhone/iPad:** „AnkiMobile“ im App Store — kostet einmalig etwas (die anderen sind gratis)
 
 > Am bequemsten ist es, die Karten am Computer zu erstellen und dann unterwegs auf dem Handy zu lernen.
 
 **Schritt 2 — (freiwillig) Konto zum Synchronisieren:** Wenn du auf mehreren Geräten lernen willst, leg dir ein kostenloses Konto auf [ankiweb.net](https://ankiweb.net) an — dann sind deine Karten überall gleich. Nutzt du nur ein Gerät, kannst du das überspringen.
 
-**Schritt 3 — einen Stapel anlegen:** In Anki heißt ein Kartenstapel „Deck". Klick auf „Stapel erstellen" / „Create Deck" und gib ihm einen Namen, z. B. *Englisch Vokabeln*.
+**Schritt 3 — einen Stapel anlegen:** In Anki heißt ein Kartenstapel „Deck“. Klick auf „Stapel erstellen“ / „Create Deck“ und gib ihm einen Namen, z. B. *Englisch Vokabeln*.
 
-**Schritt 4 — Karten machen (oder schummeln):** Klick auf „Hinzufügen" / „Add", tipp die Frage ins obere Feld (Vorderseite) und die Antwort ins untere (Rückseite), dann „Hinzufügen". Fertig.
-*Schummel-Variante:* Über „Geteilte Stapel" / „Get Shared" gibt es Tausende fertige Decks zum Herunterladen — praktisch für gängige Themen.
+**Schritt 4 — Karten machen (oder schummeln):** Klick auf „Hinzufügen“ / „Add“, tipp die Frage ins obere Feld (Vorderseite) und die Antwort ins untere (Rückseite), dann „Hinzufügen“. Fertig.
+*Schummel-Variante:* Über „Geteilte Stapel“ / „Get Shared“ gibt es Tausende fertige Decks zum Herunterladen — praktisch für gängige Themen.
 
-**Schritt 5 — lernen:** Klick auf dein Deck → „Jetzt lernen". Anki zeigt dir eine Frage. Denk an die Antwort, dann „Antwort zeigen" und bewerte ehrlich:
+**Schritt 5 — lernen:** Klick auf dein Deck → „Jetzt lernen“. Anki zeigt dir eine Frage. Denk an die Antwort, dann „Antwort zeigen“ und bewerte ehrlich:
 - **Nochmal** = wusste ich nicht → kommt gleich wieder dran
 - **Gut** = wusste ich → kommt erst in ein paar Tagen wieder
 
-Das ist alles. „Nochmal" und „Gut" reichen für den Anfang völlig — die anderen Knöpfe brauchst du noch nicht.
+Das ist alles. „Nochmal“ und „Gut“ reichen für den Anfang völlig — die anderen Knöpfe brauchst du noch nicht.
 
 **Drei Tipps fürs Gelingen:**
 1. **Jeden Tag kurz** schlägt selten lang — schon 5–10 Minuten genügen.
-2. **Wenig Neues am Anfang:** Stell „neue Karten pro Tag" auf 5–10, sonst wird es schnell zu viel.
+2. **Wenig Neues am Anfang:** Stell „neue Karten pro Tag“ auf 5–10, sonst wird es schnell zu viel.
 3. **Eine Karte = eine Sache.** Kurze, klare Karten lernst du viel leichter als vollgestopfte.
 
 Eine ausführliche Anleitung mit Bildern findest du im offiziellen Anki-Handbuch: [docs.ankiweb.net/getting-started](https://docs.ankiweb.net/getting-started.html). Und denk dran: Die Oberfläche sieht altbacken aus — aber du hast den Dreh schneller raus, als du denkst.
@@ -172,8 +172,8 @@ Eine ausführliche Anleitung mit Bildern findest du im offiziellen Anki-Handbuch
 
 ## 📚 Quellen & Links
 
-- **Dunlosky et al. (2013)** · „Improving Students' Learning With Effective Learning Techniques", *Psychological Science in the Public Interest*, 14(1) — Das große Techniken-Turnier (169 000 Teilnehmende, 10 Methoden bewertet)
-- **Karpicke & Blunt (2011)** · „Retrieval Practice Produces More Learning than Elaborative Studying with Concept Mapping", *Science*, 331 — ~50 % besseres Behalten durch Selbst-Abfragen
-- **Roediger & Karpicke (2006)** · „Test-Enhanced Learning", *Psychological Science*, 17(3) — Grundlagenwerk zum Testing-Effekt
-- **Cepeda et al. (2006)** · „Distributed Practice in Verbal Recall Tasks: A Review and Quantitative Synthesis", *Psychological Bulletin*, 132(3) — Meta-Analyse zum verteilten Lernen; Quelle der Verbesserungs-Spanne von rund 10–30 %
+- **Dunlosky et al. (2013)** · „Improving Students' Learning With Effective Learning Techniques“, *Psychological Science in the Public Interest*, 14(1) — Das große Techniken-Turnier (169 000 Teilnehmende, 10 Methoden bewertet)
+- **Karpicke & Blunt (2011)** · „Retrieval Practice Produces More Learning than Elaborative Studying with Concept Mapping“, *Science*, 331 — ~50 % besseres Behalten durch Selbst-Abfragen
+- **Roediger & Karpicke (2006)** · „Test-Enhanced Learning“, *Psychological Science*, 17(3) — Grundlagenwerk zum Testing-Effekt
+- **Cepeda et al. (2006)** · „Distributed Practice in Verbal Recall Tasks: A Review and Quantitative Synthesis“, *Psychological Bulletin*, 132(3) — Meta-Analyse zum verteilten Lernen; Quelle der Verbesserungs-Spanne von rund 10–30 %
 - **Apps:** [phase6.de](https://www.phase6.de) · [apps.ankiweb.net](https://apps.ankiweb.net) · [ankiweb.net](https://ankiweb.net) · [docs.ankiweb.net](https://docs.ankiweb.net/getting-started.html) — alle direkt im Kapitel erklärt

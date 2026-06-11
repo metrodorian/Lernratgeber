@@ -1,6 +1,6 @@
 # Kapitel 8 — Der Körper lernt mit
 
-🟩🟩🟩🟩⬜ **Konfidenz: Solide** · Dass Schlaf Gelerntes festigt und Bewegung dem Gehirn hilft, ist gut belegt. Einzelheiten wie „direkt vor dem Schlaf lernen" sind plausibel, aber schwächer abgesichert.
+🟩🟩🟩🟩⬜ **Konfidenz: Solide** · Dass Schlaf Gelerntes festigt und Bewegung dem Gehirn hilft, ist gut belegt. Einzelheiten wie „direkt vor dem Schlaf lernen“ sind plausibel, aber schwächer abgesichert.
 
 > Lernen passiert nicht nur im Kopf am Schreibtisch. Es passiert auch im Bett, beim Sport und in der Pause. Das klingt nach gut gemeinten Ermahnungen von Erwachsenen — ist aber knallharte Wissenschaft. Wenn du diese Grundlagen ignorierst, verschenkst du einen großen Teil deiner Lernarbeit. Buchstäblich.
 
@@ -8,7 +8,7 @@
 
 ## Schlaf: die heimliche Lernzeit
 
-Erinnerst du dich an die „Konsolidierung" aus Kapitel 1 — wie frischer Beton, der erst aushärten muss? Hier ist die entscheidende Stelle, wo das passiert: **im Schlaf.**
+Erinnerst du dich an die „Konsolidierung“ aus Kapitel 1 — wie frischer Beton, der erst aushärten muss? Hier ist die entscheidende Stelle, wo das passiert: **im Schlaf.**
 
 Während du schläfst, ist dein Gehirn keineswegs aus. Es spielt den Tag noch einmal durch, sortiert das Gelernte, verknüpft es mit altem Wissen und schiebt das Wichtige ins Langzeitgedächtnis. Du lernst also weiter, während du nichts tust — wenn du nur lässt.
 
@@ -49,7 +49,7 @@ Echte Pausen geben dem Kopf Raum, das eben Gelernte im Hintergrund zu verarbeite
 
 - aufstehen, strecken, ans Fenster oder kurz raus,
 - etwas trinken (dein Gehirn arbeitet schlecht, wenn du zu wenig trinkst),
-- für ein paar Minuten gar nichts „Forderndes" tun.
+- für ein paar Minuten gar nichts „Forderndes“ tun.
 
 Oft kommen einem genau in solchen leeren Momenten die besten Einfälle — weil das Gehirn im Hintergrund weiterarbeitet, sobald du es lässt.
 
@@ -59,12 +59,12 @@ Oft kommen einem genau in solchen leeren Momenten die besten Einfälle — weil 
 
 Noch ein Wort zum Schlaf, weil er so wichtig ist: Helle Bildschirme am späten Abend gaukeln deinem Gehirn vor, es sei noch Tag, und machen das Einschlafen schwerer. Wenn du also abends noch lernst, ist Papier am Ende des Tages oft die bessere Wahl als der leuchtende Screen — und das Handy gehört eine Weile vor dem Schlafen weggelegt. Dein morgiges Ich wird es dir danken.
 
-Wenn du abends doch an den Bildschirm musst, kannst du wenigstens den **Blaulicht-Filter** einschalten — die Anzeige wird dann wärmer und gelblicher. Fast jedes Gerät hat das eingebaut:
+Wenn du abends doch an den Bildschirm musst, kannst du wenigstens den **Blaulichtfilter** einschalten — die Anzeige wird dann wärmer und gelblicher. Fast jedes Gerät hat das eingebaut:
 
-- **Windows:** „Nachtlicht" (Einstellungen → System → Anzeige)
-- **Mac:** „Night Shift" (Systemeinstellungen → Displays)
-- **iPhone / iPad:** „Night Shift" (Einstellungen → Anzeige & Helligkeit)
-- **Android:** „Nachtmodus" bzw. „Blaulichtfilter" (je nach Handy etwas anders benannt — meist in den Schnelleinstellungen, die du von oben herunterwischst)
+- **Windows:** „Nachtlicht“ (Einstellungen → System → Anzeige)
+- **Mac:** „Night Shift“ (Systemeinstellungen → Displays)
+- **iPhone / iPad:** „Night Shift“ (Einstellungen → Anzeige & Helligkeit)
+- **Android:** „Nachtmodus“ bzw. „Blaulichtfilter“ (je nach Handy etwas anders benannt — meist in den Schnelleinstellungen, die du von oben herunterwischst)
 
 Ehrlich dazu: Neuere Studien zeigen, dass so ein Filter *allein* den Schlaf kaum messbar verbessert — wichtiger sind **den Bildschirm dunkler stellen** und vor allem **früher weglegen**. Sieh den Filter also als kleinen Bonus, nicht als Freibrief, bis Mitternacht zu scrollen.
 
@@ -81,7 +81,7 @@ Ehrlich dazu: Neuere Studien zeigen, dass so ein Filter *allein* den Schlaf kaum
 >
 > Mach diese Woche ein kleines Experiment. Schau dir an zwei Abenden direkt vor dem Schlafengehen fünf Minuten deine Karteikarten oder Notizen an — und dann sofort Licht aus, kein Handy mehr. Prüfe am nächsten Morgen, wie viel davon noch da ist.
 >
-> Vergleiche es mit Stoff, den du tagsüber gelernt und danach noch stundenlang am Bildschirm „übertüncht" hast. Du wirst den Unterschied spüren — und nebenbei besser schlafen.
+> Vergleiche es mit Stoff, den du tagsüber gelernt und danach noch stundenlang am Bildschirm „übertüncht“ hast. Du wirst den Unterschied spüren — und nebenbei besser schlafen.
 
 ---
 
@@ -89,5 +89,5 @@ Ehrlich dazu: Neuere Studien zeigen, dass so ein Filter *allein* den Schlaf kaum
 
 - **Walker (2017)** · *Why We Sleep* — Sehr lesbares Buch über die Schlafforschung (auf Deutsch: *Das große Buch vom Schlaf*)
 - **Ratey & Hagerman (2008)** · *Spark: The Revolutionary New Science of Exercise and the Brain* — Bewegung und ihre Wirkung auf das Gehirn
-- **Stickgold (2005)** · „Sleep-Dependent Memory Consolidation", *Nature*, 437 — Kernbefunde: wie der Schlaf Gelerntes festigt
-- **Chang et al. (2015)** · „Evening use of light-emitting eReaders negatively affects sleep", *PNAS* — Blaulicht und Schlaf: Bildschirme verzögern das Einschlafen
+- **Stickgold (2005)** · „Sleep-Dependent Memory Consolidation“, *Nature*, 437 — Kernbefunde: wie der Schlaf Gelerntes festigt
+- **Chang et al. (2015)** · „Evening use of light-emitting eReaders negatively affects sleep“, *PNAS* — Blaulicht und Schlaf: Bildschirme verzögern das Einschlafen

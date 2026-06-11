@@ -6,20 +6,20 @@
 
 ---
 
-## „Ich kann das nicht" — oder „ich kann das *noch* nicht"?
+## „Ich kann das nicht“ — oder „ich kann das *noch* nicht“?
 
-🔴 *Umstritten: Die großen Versprechen des Wachstumsdenkens halten neueren Studien nicht stand — mehr dazu gleich unter „Aber Vorsicht".*
+🔴 *Umstritten: Die großen Versprechen des Wachstumsdenkens halten neueren Studien nicht stand — mehr dazu gleich unter „Aber Vorsicht“.*
 
 Stell dir zwei Schüler vor, die bei derselben kniffligen Aufgabe scheitern.
 
-- Der eine denkt: *„Ich bin halt schlecht in Mathe. Das war's."*
-- Der andere denkt: *„Diese Art Aufgabe kann ich noch nicht. Was muss ich üben?"*
+- Der eine denkt: *„Ich bin halt schlecht in Mathe. Das war's.“*
+- Der andere denkt: *„Diese Art Aufgabe kann ich noch nicht. Was muss ich üben?“*
 
-Die Psychologin Carol Dweck hat herausgefunden, dass dieser Unterschied im Kopf riesige Folgen hat. Sie nennt die erste Haltung ein **„festes" Denken** (Intelligenz ist angeboren und unveränderlich) und die zweite ein **„Wachstums-Denken"** (Fähigkeiten kann man durch Übung wachsen lassen — wie einen Muskel).
+Die Psychologin Carol Dweck hat herausgefunden, dass dieser Unterschied im Kopf riesige Folgen hat. Sie nennt die erste Haltung ein **„festes“ Denken** (Intelligenz ist angeboren und unveränderlich) und die zweite ein **„Wachstums-Denken“** (Fähigkeiten kann man durch Übung wachsen lassen — wie einen Muskel).
 
 Wer im Wachstums-Denken steckt, gibt bei Schwierigkeiten nicht so schnell auf, sucht aktiv nach Rückmeldung und sieht Fehler als Hinweise, nicht als Urteil. Ein einziges kleines Wort macht dabei einen großen Unterschied:
 
-> **„Ich kann das *noch* nicht."**
+> **„Ich kann das *noch* nicht.“**
 
 Dieses *noch* verwandelt eine Sackgasse in einen Weg.
 
@@ -27,7 +27,7 @@ Dieses *noch* verwandelt eine Sackgasse in einen Weg.
 
 Hier muss man fair bleiben, denn dazu gibt es neuere Forschung: Nur *daran zu glauben*, dass man besser werden kann, verbessert deine Noten **nicht** von allein. Positives Denken ist kein Zauberspruch.
 
-Das Wachstums-Denken wirkt erst, wenn du es mit **echtem Handeln** verbindest — also mit den Techniken aus diesem Ratgeber. „Ich kann besser werden" ist nur der erste Schritt. Der zweite ist: „… und hier ist *wie* — durch Abfragen, Verteilen, Erklären, Üben." Die richtige Einstellung öffnet die Tür. Durchgehen musst du mit Methode.
+Das Wachstums-Denken wirkt erst, wenn du es mit **echtem Handeln** verbindest — also mit den Techniken aus diesem Ratgeber. „Ich kann besser werden“ ist nur der erste Schritt. Der zweite ist: „… und hier ist *wie* — durch Abfragen, Verteilen, Erklären, Üben.“ Die richtige Einstellung öffnet die Tür. Durchgehen musst du mit Methode.
 
 ---
 
@@ -35,7 +35,7 @@ Das Wachstums-Denken wirkt erst, wenn du es mit **echtem Handeln** verbindest �
 
 🟢 *Sehr gut belegt — Metakognition gehört zu den wirksamsten Faktoren für Lernerfolg überhaupt.*
 
-Das ist vielleicht die wichtigste „unsichtbare" Fähigkeit überhaupt — Forscher nennen sie **Metakognition**, also „das Denken über das eigene Denken". Sie ist der Dirigent, der all deine Lern-Werkzeuge klug einsetzt. Sie hat drei Phasen:
+Das ist vielleicht die wichtigste „unsichtbare“ Fähigkeit überhaupt — Forscher nennen sie **Metakognition**, also „das Denken über das eigene Denken“. Sie ist der Dirigent, der all deine Lern-Werkzeuge klug einsetzt. Sie hat drei Phasen:
 
 1. **Planen (vorher):** *Was* will ich lernen, *wie* und *wie lange*? Welche Technik passt zu diesem Stoff? (Vokabeln → Karteikasten. Ein schwieriges Konzept → Feynman.)
 2. **Überwachen (währenddessen):** *Verstehe ich das wirklich — oder kommt es mir nur bekannt vor?* Hier schützt du dich vor der Illusion der Kompetenz aus Kapitel 1, indem du dich kurz selbst abfragst.
@@ -59,20 +59,20 @@ Dazu kommen ein paar Helfer:
 
 - **Übe unter echten Bedingungen.** Mach dir eine Probeklausur: Wecker stellen, Buch zu, schreiben. Dann ist die echte Prüfung kein fremdes Terrain mehr.
 - **Atme.** Wenn die Panik hochkommt: ein paar Mal langsam und tief ein- und ausatmen, länger ausatmen als einatmen. Das beruhigt den Körper messbar.
-- **Sprich freundlich mit dir.** Statt „Ich versau das gleich" → „Ich habe geübt, ich fange mit der leichtesten Aufgabe an." Mit der leichtesten Aufgabe zu starten, bringt dich ins Rollen und gibt Sicherheit.
+- **Sprich freundlich mit dir.** Statt „Ich versau das gleich“ → „Ich habe geübt, ich fange mit der leichtesten Aufgabe an.“ Mit der leichtesten Aufgabe zu starten, bringt dich ins Rollen und gibt Sicherheit.
 - **Schlaf** die Nacht davor (du weißt aus Kapitel 8, warum).
 
 ---
 
 > ## 📦 Für deine Werkzeugkiste
 >
-> - **Wachstums-Denken:** „Ich kann das *noch* nicht" — aber nur zusammen mit echtem Üben, nicht als bloßer Glaube.
+> - **Wachstums-Denken:** „Ich kann das *noch* nicht“ — aber nur zusammen mit echtem Üben, nicht als bloßer Glaube.
 > - **Metakognition:** Plane, überwache, werte aus. Frag dich regelmäßig: *Lerne ich gerade wirklich — oder beschäftige ich mich nur?*
 > - Gegen **Prüfungsangst** hilft vor allem echte Vorbereitung (Abfragen!), dazu Probeklausuren, Atmen und freundliche Selbstgespräche.
 
 > ## 🎯 Probier's aus
 >
-> Führe ab heute ein winziges „Lern-Logbuch" — ein paar Zeilen nach jeder Lernsession. Drei Fragen: *Was habe ich gelernt? Welche Methode habe ich benutzt? Hat sie funktioniert?*
+> Führe ab heute ein winziges „Lern-Logbuch“ — ein paar Zeilen nach jeder Lernsession. Drei Fragen: *Was habe ich gelernt? Welche Methode habe ich benutzt? Hat sie funktioniert?*
 >
 > Nach einer Woche liest du es durch. Du wirst Muster entdecken — welche Methoden bei dir wirken und welche Zeitverschwendung waren. Damit wirst du zu deiner eigenen besten Lern-Trainerin.
 
@@ -81,6 +81,6 @@ Dazu kommen ein paar Helfer:
 ## 📚 Quellen & Links
 
 - **Dweck (2006)** · *Mindset: The New Psychology of Success* — Grundlagenwerk zum Wachstumsdenken (auch auf Deutsch erhältlich)
-- **Sisk et al. (2018)** · „To What Extent and Under Which Circumstances Are Growth Mind-Sets Important to Academic Achievement?", *Psychological Science* — Kritische Meta-Analyse: Wachstumsdenken wirkt, aber schwächer als vermutet
+- **Sisk et al. (2018)** · „To What Extent and Under Which Circumstances Are Growth Mind-Sets Important to Academic Achievement?“, *Psychological Science* — Kritische Meta-Analyse: Wachstumsdenken wirkt, aber schwächer als vermutet
 - **Hattie (2008)** · *Visible Learning* — Umfangreiche Auswertung von über 800 Meta-Analysen; Metakognition als einer der stärksten Faktoren für Lernerfolg
 - [Wikipedia: Metakognition](https://de.wikipedia.org/wiki/Metakognition) — Erklärung und Phasen der Selbstbeobachtung beim Lernen

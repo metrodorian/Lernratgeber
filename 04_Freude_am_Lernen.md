@@ -8,7 +8,7 @@
 
 ## Das, was du liebst, lernst du mühelos
 
-Denk mal an etwas, das du richtig gut kennst, ohne je dafür „gelernt" zu haben: die Texte deiner Lieblingslieder, die Regeln eines Spiels, die Namen von hundert Tierarten, jedes Detail deines Hobbys. Niemand hat dich abgefragt. Du hast es trotzdem behalten — mühelos.
+Denk mal an etwas, das du richtig gut kennst, ohne je dafür „gelernt“ zu haben: die Texte deiner Lieblingslieder, die Regeln eines Spiels, die Namen von hundert Tierarten, jedes Detail deines Hobbys. Niemand hat dich abgefragt. Du hast es trotzdem behalten — mühelos.
 
 Der Grund ist kein Zufall, und er ist der Schlüssel zu diesem ganzen Kapitel: **Dein Gehirn lernt am besten, wenn es Feuer gefangen hat.** Freude und Neugier sind nicht das Gegenteil von Lernen — sie sind einer seiner stärksten Motoren. Wenn du das geschickt nutzt, wird aus Pflicht plötzlich Sog.
 
@@ -24,11 +24,11 @@ Die Folge: In Zuständen hoher Neugier merkten sich die Leute die Antworten viel
 
 ## Der Funke zuerst
 
-Wie weckt man Neugier auf ein Thema, das einen (noch) kalt lässt? Mit einem **Funken** — etwas, das das Thema spannend, lebendig oder rätselhaft macht, *bevor* du in die Details gehst:
+Wie weckt man Neugier auf ein Thema, das einen (noch) kaltlässt? Mit einem **Funken** — etwas, das das Thema spannend, lebendig oder rätselhaft macht, *bevor* du in die Details gehst:
 
 - ein packendes **YouTube-Video** oder eine Doku zum Thema
-- ein verblüffendes Experiment, ein Rätsel, eine gute Frage („Warum ist der Himmel blau?")
-- eine Geschichte oder ein Film über eine historische Epoche, bevor du sie „durchnimmst"
+- ein verblüffendes Experiment, ein Rätsel, eine gute Frage („Warum ist der Himmel blau?“)
+- eine Geschichte oder ein Film über eine historische Epoche, bevor du sie „durchnimmst“
 
 Der Trick ist immer derselbe: erst der Funke, dann die Methode. Das Video (oder das Experiment, die Geschichte) bringt dich in den neugierigen Aufnahme-Modus — und in dem lernt es sich danach viel leichter.
 
@@ -40,7 +40,7 @@ Aber ein ehrlicher Hinweis, der sich durch diesen ganzen Ratgeber zieht: **Das V
 
 Es gibt zwei Arten, etwas zu tun: weil man *muss* — oder weil man *will*. Die Forschung ist hier eindeutig: Wer aus echtem Interesse lernt, versteht tiefer, behält länger und fühlt sich dabei wohler als jemand, der nur dem Druck folgt.
 
-Drei Zutaten machen aus „müssen" ein „wollen":
+Drei Zutaten machen aus „müssen“ ein „wollen“:
 
 1. **Selbst wählen dürfen** (Autonomie): Such dir, wo immer es geht, deinen eigenen Zugang — dein Beispiel, dein Projekt, deine Reihenfolge. Eigenes fühlt sich nie wie Zwang an.
 2. **Fortschritt spüren** (Können): Nichts motiviert so sehr wie das Gefühl, besser zu werden. Setz dir kleine Ziele, die du erreichst — der Karteikasten, dessen vorderer Stapel schrumpft (Kapitel 2), ist genau dafür perfekt.
@@ -50,13 +50,13 @@ Drei Zutaten machen aus „müssen" ein „wollen":
 
 🟡 *Solide — gemeinsames Lernen steigert Motivation und Leistung, wenn alle mitmachen.*
 
-Sich mit Freunden zum Lernen zu treffen, ist nicht „weniger ernst" — richtig gemacht ist es eine der angenehmsten *und* wirksamsten Arten zu lernen. Warum? Weil ihr automatisch die besten Techniken aus diesem Ratgeber benutzt:
+Sich mit Freunden zum Lernen zu treffen, ist nicht „weniger ernst“ — richtig gemacht ist es eine der angenehmsten *und* wirksamsten Arten zu lernen. Warum? Weil ihr automatisch die besten Techniken aus diesem Ratgeber benutzt:
 
 - **Gegenseitig abfragen** = aktives Abrufen (Kapitel 2).
 - **Einander etwas erklären** = die Feynman-Technik (Kapitel 3) — und wer erklärt, lernt am meisten.
 - **Sich Fragen ausdenken**, streiten, vergleichen = tiefes Verstehen.
 
-Dazu kommt: Mit anderen macht es schlicht mehr Spaß, man bleibt eher dran, und man zieht sich gegenseitig hoch. Ein, zwei feste „Lern-Verabredungen" können mehr bringen als stundenlanges Alleine-Grübeln. *(Die einzige Falle: Es darf nicht im reinen Quatschen versinken — ein kleines Ziel pro Treffen hält euch auf Kurs.)*
+Dazu kommt: Mit anderen macht es schlicht mehr Spaß, man bleibt eher dran, und man zieht sich gegenseitig hoch. Ein, zwei feste „Lern-Verabredungen“ können mehr bringen als stundenlanges Alleine-Grübeln. *(Die einzige Falle: Es darf nicht im reinen Quatschen versinken — ein kleines Ziel pro Treffen hält euch auf Kurs.)*
 
 ## Mach etwas Echtes: Projekte
 
@@ -71,15 +71,15 @@ Ein Projekt verwandelt totes Wissen in lebendiges Können:
 - Sprachen? Schreib jemandem im Ausland, schau Serien in der Sprache, führ ein Mini-Tagebuch darin.
 - Natur? Leg ein Herbarium an, beobachte die Sterne, baue ein Experiment nach.
 
-Bei einem Projekt fragst du gar nicht mehr „Muss ich das wirklich lernen?" — du *brauchst* das Wissen, um dein Ding zu bauen. Und Wissen, das du benutzt, vergisst du kaum.
+Bei einem Projekt fragst du gar nicht mehr „Muss ich das wirklich lernen?“ — du *brauchst* das Wissen, um dein Ding zu bauen. Und Wissen, das du benutzt, vergisst du kaum.
 
-## Was, wenn mich das Thema kalt lässt?
+## Was, wenn mich das Thema kaltlässt?
 
 Seien wir ehrlich: Nicht jeder Schulstoff lässt sich in ein Lieblingsprojekt verwandeln — und manchmal zündet auch der beste Funke nicht. Was tun, wenn das Thema wirklich nicht interessiert und man es trotzdem lernen muss?
 
 **1. Suche den einen Haken.** Kein Thema ist wirklich rundum langweilig. In der Chemie stecken Explosionen, Gifte und Farbstoffe. In der Geschichte stecken Verbrechen, Zufälle und skurrile Menschen. In der Grammatik steckt der Bauplan jeder Sprache, die je gesprochen wurde. Frage dich: *Welcher Aspekt wäre für einen Detektiv, eine Erfinderin oder ein neugieriges Kind spannend?* Meistens findest du ihn.
 
-**2. Lenke die Neugier auf das Können.** Wenn der Inhalt dich nicht zieht, kann das Meistern es dennoch: *„Kann ich diesen Stoff in 30 Minuten so gut lernen, dass ich jeden Test dazu bestehe?"* — das ist ein Spiel, das sich gewinnen lässt. Die Befriedigung danach ist echt, auch wenn das Thema es nicht war.
+**2. Lenke die Neugier auf das Können.** Wenn der Inhalt dich nicht zieht, kann das Meistern es dennoch: *„Kann ich diesen Stoff in 30 Minuten so gut lernen, dass ich jeden Test dazu bestehe?“* — das ist ein Spiel, das sich gewinnen lässt. Die Befriedigung danach ist echt, auch wenn das Thema es nicht war.
 
 **3. Mach es so kurz wie möglich — aber richtig.** Langweiligen Stoff mit schlechten Methoden zu lernen ist die schlimmste Kombination: viel Aufwand, kaum Ergebnis. Mit den Königstechniken aus Kapitel 2 geht derselbe Stoff schneller und bleibt länger — weniger Aufwand bei besserem Ergebnis.
 
@@ -87,7 +87,7 @@ Und manchmal entdeckt man dabei, dass das Thema doch interessanter war, als es z
 
 ## Gute Laune lernt besser
 
-Noch ein kleiner, aber feiner Punkt: In guter Stimmung lernt es sich leichter. Stress und Angst engen das Denken ein; Freude und Gelassenheit öffnen es. Genug Schlaf (Kapitel 8), Bewegung, Pausen mit echten Freunden, und ab und zu bewusst etwas lernen, das einfach *Spaß* macht — all das ist kein „Zeitverlust", sondern hält den Motor am Laufen.
+Noch ein kleiner, aber feiner Punkt: In guter Stimmung lernt es sich leichter. Stress und Angst engen das Denken ein; Freude und Gelassenheit öffnen es. Genug Schlaf (Kapitel 8), Bewegung, Pausen mit echten Freunden, und ab und zu bewusst etwas lernen, das einfach *Spaß* macht — all das ist kein „Zeitverlust“, sondern hält den Motor am Laufen.
 
 ---
 
@@ -98,7 +98,7 @@ Noch ein kleiner, aber feiner Punkt: In guter Stimmung lernt es sich leichter. S
 > - **Aus Lust lernen** schlägt aus Zwang: selbst wählen, Fortschritt spüren, mit anderen.
 > - **Mit Freunden lernen** nutzt automatisch Abfragen + Erklären — und macht mehr Spaß.
 > - **Eigene Projekte** verwandeln Wissen in Können, das bleibt.
-> - **Wenn das Thema kalt lässt:** den einen Haken suchen · das Meistern als Spiel nehmen · mit den richtigen Methoden die Lernzeit kürzen.
+> - **Wenn das Thema kaltlässt:** den einen Haken suchen · das Meistern als Spiel nehmen · mit den richtigen Methoden die Lernzeit kürzen.
 
 > ## 🎯 Probier's aus
 >
@@ -110,6 +110,6 @@ Noch ein kleiner, aber feiner Punkt: In guter Stimmung lernt es sich leichter. S
 
 ## 📚 Quellen & Links
 
-- **Gruber et al. (2014)** · „States of Curiosity Modulate Hippocampus-Dependent Learning via the Dopaminergic Circuit", *Neuron*, 84(2) — Die Hirnscan-Studie: Neugier aktiviert Belohnungssystem und Gedächtniszentrum gleichzeitig
-- **Deci & Ryan (2000)** · „The 'What' and 'Why' of Goal Pursuits: Human Needs and the Self-Determination of Behavior", *Psychological Inquiry* — Grundlagenwerk der Selbstbestimmungstheorie (intrinsische Motivation)
-- **Krajcik & Shin (2014)** · „Project-Based Learning" in *The Cambridge Handbook of the Learning Sciences* — Überblick zur Wirkung von Projektlernen
+- **Gruber et al. (2014)** · „States of Curiosity Modulate Hippocampus-Dependent Learning via the Dopaminergic Circuit“, *Neuron*, 84(2) — Die Hirnscan-Studie: Neugier aktiviert Belohnungssystem und Gedächtniszentrum gleichzeitig
+- **Deci & Ryan (2000)** · „The 'What' and 'Why' of Goal Pursuits: Human Needs and the Self-Determination of Behavior“, *Psychological Inquiry* — Grundlagenwerk der Selbstbestimmungstheorie (intrinsische Motivation)
+- **Krajcik & Shin (2014)** · „Project-Based Learning“ in *The Cambridge Handbook of the Learning Sciences* — Überblick zur Wirkung von Projektlernen

@@ -34,7 +34,7 @@ Damit du dich schnell zurechtfindest, ist alles nach demselben Muster gebaut:
 
 ## Eine Einladung, nicht eine Hausaufgabe
 
-Du musst nicht alles auf einmal umkrempeln. Niemand benutzt ab morgen zwölf neue Techniken. Such dir **eine** Sache aus, die dich anspricht, und probier sie eine Woche lang. Wenn Du fertig bist, nimm die nächste dazu.
+Du musst nicht alles auf einmal umkrempeln. Niemand benutzt ab morgen zwölf neue Techniken. Such dir **eine** Sache aus, die dich anspricht, und probier sie eine Woche lang. Wenn du fertig bist, nimm die nächste dazu.
 
 So wird aus diesem Ratgeber kein weiterer Stapel guter Ratschläge, den man nickend liest und wieder vergisst — sondern eine Werkzeugkiste, die du wirklich benutzt. Fangen wir an.
 
@@ -59,4 +59,4 @@ So wird aus diesem Ratgeber kein weiterer Stapel guter Ratschläge, den man nick
 
 ---
 
-\* *Beleg: Karpicke & Blunt (2011), Science — sich selbst abzufragen führte zu rund 50 % besserer Behaltensleistung als wiederholtes Durcharbeiten oder das Erstellen von Concept-Maps. Eingebettet in den robust belegten „Testing-Effekt" (u. a. Roediger & Karpicke, 2006). Konfidenz: 🟢 felsenfest. — Weitere Einzelnachweise in der [Forschungs-Übersicht](Recherche/01_Recherche_Lerntechniken.md).*
+\* *Beleg: Karpicke & Blunt (2011), Science — sich selbst abzufragen führte zu rund 50 % besserer Behaltensleistung als wiederholtes Durcharbeiten oder das Erstellen von Concept-Maps. Eingebettet in den robust belegten „Testing-Effekt“ (u. a. Roediger & Karpicke, 2006). Konfidenz: 🟢 felsenfest. — Weitere Einzelnachweise in der [Forschungs-Übersicht](Recherche/01_Recherche_Lerntechniken.md).*

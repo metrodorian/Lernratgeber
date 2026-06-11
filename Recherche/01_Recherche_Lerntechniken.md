@@ -8,7 +8,7 @@ Die Kernbotschaft der gesamten Lernforschung in einem Satz:
 **Was sich beim Lernen leicht und angenehm anfühlt (Wiederlesen, Markieren), bringt
 meist wenig. Was sich anstrengend anfühlt (sich selbst abfragen, Pausen einlegen,
 Themen mischen), bringt am meisten.** Forscher nennen das die *„wünschenswerten
-Schwierigkeiten"* (desirable difficulties, Robert & Elizabeth Bjork).
+Schwierigkeiten“* (desirable difficulties, Robert & Elizabeth Bjork).
 
 ---
 
@@ -35,16 +35,16 @@ Bevor es um Techniken geht, drei Tatsachen, die *alles andere erklären*.
   innerhalb 1 Stunde** und **~90 % innerhalb 1 Woche**. Vergessen verläuft exponentiell:
   erst rasend schnell, dann langsamer.
 - **Wichtig:** Das ist kein persönliches Versagen — das Gehirn ist *gebaut*, um
-  Unwichtiges zu löschen. Lerntechnik = dem Gehirn signalisieren „das ist wichtig".
+  Unwichtiges zu löschen. Lerntechnik = dem Gehirn signalisieren „das ist wichtig“.
 
 ### A2 — Konsolidierung: Erinnerungen werden *nach* dem Lernen gebaut
-- Eine Erinnerung ist direkt nach dem Lernen noch „weich". Sie wird erst stabil,
+- Eine Erinnerung ist direkt nach dem Lernen noch „weich“. Sie wird erst stabil,
   wenn das Gehirn sie **wiederholt aktiviert** und vor allem **im Schlaf** verfestigt
   (→ Kategorie G).
 - Daraus folgt: *Wann* und *wie oft* man eine Information wieder anfasst, ist
   wichtiger als wie lange man beim ersten Mal draufstarrt.
 
-### A3 — Die „Illusion der Kompetenz" (illusion of competence)
+### A3 — Die „Illusion der Kompetenz“ (illusion of competence)
 - Wenn man einen Text wieder*liest*, kommt er einem vertraut vor → das Gehirn
   verwechselt **Vertrautheit mit Können**. Man *glaubt*, es zu können, kann es aber nicht
   abrufen, wenn die Vorlage weg ist (z. B. in der Klausur).
@@ -53,7 +53,7 @@ Bevor es um Techniken geht, drei Tatsachen, die *alles andere erklären*.
 
 ### A4 — Wünschenswerte Schwierigkeiten (Bjork)
 - Ein bisschen Anstrengung beim Abrufen *ist* der Lerneffekt. Techniken, die das
-  Lernen kurzfristig „schwerer" oder langsamer machen, führen langfristig zu deutlich
+  Lernen kurzfristig „schwerer“ oder langsamer machen, führen langfristig zu deutlich
   besserem Behalten. Das rote Faden-Prinzip hinter B, C und I.
 
 *Quellen A:*
@@ -67,14 +67,14 @@ Bevor es um Techniken geht, drei Tatsachen, die *alles andere erklären*.
 ## B — Die zwei Königstechniken (am besten wissenschaftlich belegt)
 
 Die große Übersichtsstudie von **Dunlosky et al. (2013)** verglich 10 gängige
-Lernstrategien. Zwei kamen mit Abstand als „hoch wirksam" heraus — über fast alle
+Lernstrategien. Zwei kamen mit Abstand als „hoch wirksam“ heraus — über fast alle
 Fächer, Altersgruppen und Aufgabentypen hinweg: **verteiltes Lernen** und
 **sich selbst abfragen**. (Basis u. a.: 242 Studien, 169.179 Teilnehmende.)
 → Diese beiden sollten das **Herzstück** des Ratgebers sein.
 
 ### B1 — Verteiltes Lernen / Spaced Repetition (Distributed Practice)
 - **Was:** Lernstoff über mehrere Tage *verteilen* statt alles am Stück (kein „Bulimie-
-  Lernen" / Cramming). Genau die Technik, die Lennart erwähnt hat (1 h / 1 Tag / 1 Woche).
+  Lernen“ / Cramming). Genau die Technik, die Lennart erwähnt hat (1 h / 1 Tag / 1 Woche).
 - **Warum:** Jede Wiederholung *kurz bevor man es vergessen würde* drückt die
   Vergessenskurve flacher. Studien zeigen bis zu **~25 % bessere Behaltensleistung**
   gegenüber Massieren bei Zeiträumen ab 4 Wochen; langfristig lassen sich so große
@@ -83,23 +83,23 @@ Fächer, Altersgruppen und Aufgabentypen hinweg: **verteiltes Lernen** und
   - Einfacher Plan: **Tag 1 → nach 1 Tag → nach 3 Tagen → nach 1 Woche → nach 3 Wochen**
   - Die von Lennart genannte Variante (**~1 h → 1 Tag → 1 Woche**) ist eine gute,
     schülertaugliche Kurzform — danach in größeren Abständen auffrischen.
-  - „Profi"-Algorithmus (SM-2, steckt in Apps wie Anki): 1 Tag → 6 Tage → ~15 → ~37 → ~90.
-- **Übung für die Nichte:** Ein „5-Fächer-Kasten" (Leitner-System) mit Karteikarten.
+  - „Profi“-Algorithmus (SM-2, steckt in Apps wie Anki): 1 Tag → 6 Tage → ~15 → ~37 → ~90.
+- **Übung für die Nichte:** Ein „5-Fächer-Kasten“ (Leitner-System) mit Karteikarten.
   Was man kann, wandert ein Fach nach hinten (= seltener dran), was man nicht kann,
   zurück nach vorn (= öfter dran). Analog mit Pappkarten **oder** digital mit *Anki*.
 
 ### B2 — Sich selbst abfragen / Active Recall (Practice Testing, Testing Effect)
 - **Was:** Information **aus dem Kopf abrufen**, statt sie nochmal zu lesen. Buch zu,
   Frage stellen, Antwort hinschreiben/sagen, *dann* kontrollieren.
-- **Warum:** Jeder erfolgreiche Abruf verstärkt die „Nervenstraße" zur Information —
+- **Warum:** Jeder erfolgreiche Abruf verstärkt die „Nervenstraße“ zur Information —
   einer der am häufigsten bestätigten Befunde der Gedächtnispsychologie. Aktives
   Abrufen verbessert das Behalten um **~50 % und mehr** gegenüber Wiederlesen.
 - **Wie:**
   - Karteikarten (Frage vorn / Antwort hinten) — erst raten, *dann* umdrehen.
-  - „Brain Dump": leeres Blatt, alles zum Thema aus dem Kopf aufschreiben, dann mit
+  - „Brain Dump“: leeres Blatt, alles zum Thema aus dem Kopf aufschreiben, dann mit
     dem Buch abgleichen und Lücken markieren.
   - Eigene Prüfungsfragen schreiben (und sich gegenseitig abfragen).
-  - **Früh testen** — schon *bevor* man sich „bereit" fühlt.
+  - **Früh testen** — schon *bevor* man sich „bereit“ fühlt.
 - **Königskombination:** B1 + B2 zusammen — **sich in verteilten Abständen selbst
   abfragen** — ist das wirksamste, was die Forschung kennt. Genau das macht Anki/Leitner.
 
@@ -127,7 +127,7 @@ bauen ein echtes Verständnis und Verknüpfungen auf.
   3) Lücken/Stockstellen markieren → dort nochmal nachlesen. 4) Vereinfachen &
   mit Vergleichen/Bildern verständlich machen.
 
-### C2 — Elaboration / Selbsterklärung („Warum?" und „Wie hängt das zusammen?")
+### C2 — Elaboration / Selbsterklärung („Warum?“ und „Wie hängt das zusammen?“)
 - **Was:** Neues mit Bekanntem verknüpfen und sich selbst *erklären*, **warum** etwas
   so ist und **wie** es mit anderem zusammenhängt.
 - **Warum:** Eigene Erklärungen zu erzeugen führt zu tieferem Einprägen und besserem
@@ -135,7 +135,7 @@ bauen ein echtes Verständnis und Verknüpfungen auf.
   ~6.000 Personen, deutliche Verbesserung (Effektstärke **g ≈ 0,55**). Bei Chi et al.
   (1994) lösten Lernende, die laut mitdachten, Probleme **~89 % besser**.
 - **Wie:** Beim Lernen ständig fragen: *„Warum ist das so? Wofür brauche ich das?
-  Wo kenne ich Ähnliches?"* — und die Antworten in eigenen Worten formulieren.
+  Wo kenne ich Ähnliches?“* — und die Antworten in eigenen Worten formulieren.
 
 ### C3 — Verschachteltes Lernen / Interleaving (Themen mischen)
 - **Was:** Verschiedene (verwandte) Aufgabentypen **mischen**, statt einen Typ am
@@ -146,7 +146,7 @@ bauen ein echtes Verständnis und Verknüpfungen auf.
 - **Achtung / Nuance:** Beim *ersten* Kennenlernen einer Regel kann Blocken (am Stück)
   besser sein; Mischen glänzt beim **Wiederholen/Festigen** und beim Unterscheiden
   ähnlicher Dinge (z. B. Mathe-Aufgabentypen, Vokabeln, Bestimmungsübungen).
-- **Übung:** Gemischte Aufgabenblätter bauen statt „Seite mit 20 gleichen Aufgaben".
+- **Übung:** Gemischte Aufgabenblätter bauen statt „Seite mit 20 gleichen Aufgaben“.
 
 *Quellen C:*
 - [The Feynman Technique — fs.blog](https://fs.blog/feynman-technique/)
@@ -163,7 +163,7 @@ helfen uralte Tricks, die das bildhafte Gedächtnis ausnutzen.
 
 ### D1 — Gedächtnispalast / Loci-Methode (~2.000 Jahre alt)
 - **Was:** Zu merkende Dinge an **vertraute Orte** legen (Zimmer in der eigenen
-  Wohnung, Weg zur Schule) und sie dort als *Bilder* „ablegen".
+  Wohnung, Weg zur Schule) und sie dort als *Bilder* „ablegen“.
 - **Warum:** Das räumliche Gedächtnis ist extrem stark. In einer kontrollierten Studie
   schnitten Lernende mit Loci-Methode bei Tests **deutlich besser** ab als mit normalem
   Selbstlernen. Es ist die Standardtechnik von Gedächtnissportler:innen.
@@ -173,14 +173,14 @@ helfen uralte Tricks, die das bildhafte Gedächtnis ausnutzen.
 
 ### D2 — Eselsbrücken: Akronyme, Merksätze, Reime
 - **Was:** Anfangsbuchstaben zu einem Wort/Satz bündeln, Reime, Geschichten.
-- **Beispiele:** „Mein Vater erklärt mir jeden Sonntag unsere Nachbarplaneten"
-  (Planeten-Reihenfolge); „Nie ohne Seife waschen" (Himmelsrichtungen).
+- **Beispiele:** „Mein Vater erklärt mir jeden Sonntag unsere Nachbarplaneten“
+  (Planeten-Reihenfolge); „Nie ohne Seife waschen“ (Himmelsrichtungen).
 - **Warum/Wann:** Top für feste Reihenfolgen und Listen; ersetzt aber **kein**
   Verständnis (→ Kombi mit C).
 
 ### D3 — Bilder im Kopf erzeugen (Schlüsselwort-Methode für Vokabeln)
 - Fremdwort an ein ähnlich klingendes deutsches Wort koppeln und ein **gemeinsames
-  Bild** malen. Engl. *„butterfly"* → „Butter, die fliegt" → Bild einer fliegenden
+  Bild** malen. Engl. *„butterfly“* → „Butter, die fliegt“ → Bild einer fliegenden
   Butter mit Flügeln. Klingt albern, funktioniert genau deshalb.
 
 *Quellen D:*
@@ -231,9 +231,9 @@ Die beste Technik nützt nichts, wenn man nicht ins Tun kommt und ständig abgel
 
 ### F1 — Pomodoro-Technik (Zeit in Häppchen)
 - **Was:** **25 Min konzentriert** arbeiten → **5 Min Pause**; nach 4 Runden eine
-  längere Pause (15–30 Min). („Pomodoro" = Tomate, nach einer Küchenuhr.)
+  längere Pause (15–30 Min). („Pomodoro“ = Tomate, nach einer Küchenuhr.)
 - **Warum:** Erzwingt **Single-Tasking**, beugt Erschöpfung vor (Pause *bevor* die
-  Luft raus ist) und macht den Anfang leicht („nur 25 Minuten"). Bei jüngeren
+  Luft raus ist) und macht den Anfang leicht („nur 25 Minuten“). Bei jüngeren
   Kindern ruhig **kürzere** Blöcke (z. B. 15 Min).
 - **Wie:** Timer stellen, **Handy außer Sicht/auf lautlos**, eine einzige Aufgabe,
   Ablenkungen auf einen Zettel notieren und erst in der Pause erledigen.
@@ -245,14 +245,14 @@ Die beste Technik nützt nichts, wenn man nicht ins Tun kommt und ständig abgel
   schwierigste Aufgabe oft zuerst.
 
 ### F3 — Aufschieberitis (Prokrastination) überwinden
-- **Ursachen (Forschung):** weniger „Faulheit", mehr **Gefühls-Vermeidung** —
+- **Ursachen (Forschung):** weniger „Faulheit“, mehr **Gefühls-Vermeidung** —
   Angst vor Versagen, Perfektionismus, Aufgabe wirkt zu groß.
 - **Strategien:**
   - **Klein anfangen / 2-Minuten-Start:** nur die ersten 2 Minuten beginnen — der
     Rest folgt meist von allein.
-  - **Konkrete, machbare Ziele** statt „Ich lerne Mathe" → „3 Aufgaben auf S. 42".
+  - **Konkrete, machbare Ziele** statt „Ich lerne Mathe“ → „3 Aufgaben auf S. 42“.
   - **Wenn-dann-Pläne** (Implementationsabsichten): „*Wenn* ich von der Schule komme,
-    *dann* mache ich zuerst 1 Pomodoro Mathe."
+    *dann* mache ich zuerst 1 Pomodoro Mathe.“
   - **Kleine Belohnungen** nach erledigten Häppchen.
 
 *Quellen F:*
@@ -272,11 +272,11 @@ Lernen passiert nicht nur am Schreibtisch. Ohne diese Basis verpufft der Rest.
   Langzeitgedächtnis; Schlaf bereitet das Gehirn auch auf **neues** Lernen am nächsten
   Tag vor. Lernen **direkt vor dem Schlafengehen** kann das Behalten begünstigen.
 - **Empfehlung Teenager: 8–10 Stunden** pro Nacht. Durchmachen/Nacht-Lernen vor der
-  Klausur ist kontraproduktiv (man „spart" die Konsolidierung weg).
+  Klausur ist kontraproduktiv (man „spart“ die Konsolidierung weg).
 
 ### G2 — Bewegung
 - Sport verbessert Gedächtnis und Konzentration — **aber** der Effekt zeigt sich erst
-  *zusammen mit* Schlaf (Bewegung „lädt", Schlaf „speichert"). Schon Spaziergänge/
+  *zusammen mit* Schlaf (Bewegung „lädt“, Schlaf „speichert“). Schon Spaziergänge/
   Bewegungspausen helfen.
 
 ### G3 — Pausen, Wasser, Bildschirm vor dem Schlaf
@@ -295,7 +295,7 @@ Lernen passiert nicht nur am Schreibtisch. Ohne diese Basis verpufft der Rest.
 ### H1 — Wachstumsdenken (Growth Mindset) — *differenziert*
 - **Idee (Carol Dweck):** Die Überzeugung, dass Intelligenz/Können **wachsen kann**,
   führt zu mehr Durchhaltevermögen, besserem Umgang mit Rückschlägen und Hunger nach
-  Feedback. Sprache: „Ich kann das **noch** nicht."
+  Feedback. Sprache: „Ich kann das **noch** nicht.“
 - **Ehrlich bleiben (neuere Forschung):** *Nur* an Wachstum zu glauben, verbessert die
   Noten **nicht** automatisch (Sisk et al. 2018; EEF-Studie). Es wirkt erst zusammen mit
   **konkreten Lernstrategien** (B–F) und Selbstbeobachtung (H2). → Im Ratgeber als
@@ -305,7 +305,7 @@ Lernen passiert nicht nur am Schreibtisch. Ohne diese Basis verpufft der Rest.
 - **Was:** *Planen* (Was, wie, wie lange?) → *Überwachen* (Verstehe ich das wirklich?
   Test gegen die Illusion aus A3) → *Auswerten* (Was hat funktioniert?).
 - **Warum:** Selbstregulation gehört zu den Faktoren mit dem **stärksten** Einfluss auf
-  Lernerfolg — sie ist der „Dirigent", der die Techniken B–F überhaupt klug einsetzt.
+  Lernerfolg — sie ist der „Dirigent“, der die Techniken B–F überhaupt klug einsetzt.
 
 ### H3 — Prüfungsangst & Stress
 - Gute Vorbereitung mit B/E senkt Angst direkt (man *weiß*, dass man es kann). Zusätzlich:
@@ -323,9 +323,9 @@ Lernen passiert nicht nur am Schreibtisch. Ohne diese Basis verpufft der Rest.
 
 Ein moderner Ratgeber muss auch sagen, was *nicht* funktioniert — das spart die meiste Mühe.
 
-### I1 — Der Lernstil-Mythos (VARK: „ich bin visueller/auditiver Typ")
+### I1 — Der Lernstil-Mythos (VARK: „ich bin visueller/auditiver Typ“)
 - **Status: widerlegt.** Die Annahme, man lerne besser, wenn der Unterricht zum
-  „eigenen Stil" passt (*Meshing-Hypothese*), hält keiner sauberen Prüfung stand
+  „eigenen Stil“ passt (*Meshing-Hypothese*), hält keiner sauberen Prüfung stand
   (u. a. Meta-Analyse 2024, >1.700 Lernende, 21 Studien). Hält sich trotzdem hartnäckig.
 - **Was stimmt:** **Alle** lernen besser mit *passendem* Material zum **Inhalt** (Karte
   zur Geografie, Audio fürs Hörverstehen) und mit **mehreren** Kanälen zugleich
@@ -357,13 +357,13 @@ nach Einsatzart.** Kernunterscheidung: KI als *Denk-Ersatz* (schädlich) vs. KI 
 A4 (wünschenswerte Schwierigkeiten) und B2 (aktives Abrufen).
 
 ### J1 — Die Gefahr: kognitive Schuld & metakognitive Faulheit
-- **MIT-EEG-Studie „Your Brain on ChatGPT" (Kosmyna et al. 2025):** 54 Personen
+- **MIT-EEG-Studie „Your Brain on ChatGPT“ (Kosmyna et al. 2025):** 54 Personen
   schreiben Essays (ChatGPT / Suchmaschine / nur Kopf), gemessen per EEG. LLM-Nutzer
-  zeigten die **schwächste Hirnvernetzung**; „Nur-Kopf"-Gruppe die stärkste. Effekt
+  zeigten die **schwächste Hirnvernetzung**; „Nur-Kopf“-Gruppe die stärkste. Effekt
   hielt an: Beim späteren Schreiben *ohne* KI blieben die LLM-Nutzer schwächer
-  vernetzt → **„cognitive debt"**. **78 %** konnten direkt danach kein Zitat aus dem
+  vernetzt → **„cognitive debt“**. **78 %** konnten direkt danach kein Zitat aus dem
   eigenen Essay nennen.
-- **„Metacognitive laziness" (Fan et al., British Journal of Educational Technology,
+- **„Metacognitive laziness“ (Fan et al., British Journal of Educational Technology,
   Dez 2024):** 117 Studierende. ChatGPT-Gruppe schrieb die *besten* Essays, zeigte
   aber **keinen Wissenszuwachs** im späteren Test und **weniger Selbstkorrektur/
   Reflexion**. → Performance ≠ Learning.
@@ -403,8 +403,8 @@ Verbindet sich mit A4 (Anstrengung) — Freude macht die nötige Anstrengung lei
 ### K1 — Neugier verstärkt das Gedächtnis (Dopamin)
 - **Gruber et al. (2014, Neuron):** Bei hoher Neugier sind dopaminerges Belohnungs-
   system + Hippocampus aktiver; bessere Erinnerung an die gesuchte Info UND an
-  zufälliges Begleitmaterial. Neugier = „Aufnahme-Modus". 🟢
-- Anwendung: „Funke zuerst" (spannendes Video/Doku/Frage als Initialinspiration),
+  zufälliges Begleitmaterial. Neugier = „Aufnahme-Modus“. 🟢
+- Anwendung: „Funke zuerst“ (spannendes Video/Doku/Frage als Initialinspiration),
   DANN aktiv vertiefen. Wichtig: Video allein ist passiv (Illusion der Kompetenz) —
   Funke, nicht Feuer.
 
@@ -439,13 +439,13 @@ Ein eingängiges Gerüst, das die Kategorien in eine Lern-Reihenfolge bringt:
 5. **Drumherum** (F Fokus, G Körper, H Einstellung) — die Rahmenbedingungen.
 6. **Bonus:** Was man getrost *weglassen* kann (I) — spart Zeit.
 
-Merksatz-Kandidat für die Nichte: **„Verstehen → Abfragen → Verteilen → Schlafen."**
+Merksatz-Kandidat für die Nichte: **„Verstehen → Abfragen → Verteilen → Schlafen.“**
 
 ---
 
 ## Offene Punkte / noch zu klären (für die Verfeinerung)
-- Tiefe vs. Knappheit: Kompakte „Toolbox" oder ausführlicher Ratgeber mit Geschichten?
+- Tiefe vs. Knappheit: Kompakte „Toolbox“ oder ausführlicher Ratgeber mit Geschichten?
 - Selbst schreiben oder bestehendes Buch empfehlen/ergänzen?
 - Fächerbezug (Mathe, Sprachen, Auswendigstoff) als eigene Beispiel-Kapitel?
 - Digitale Tools (Anki & Co.) — erlauben/empfehlen oder bewusst analog halten?
-- Format der Übungen: Mitmach-Aufgaben, Challenges, „30-Tage-Plan"?
+- Format der Übungen: Mitmach-Aufgaben, Challenges, „30-Tage-Plan“?
