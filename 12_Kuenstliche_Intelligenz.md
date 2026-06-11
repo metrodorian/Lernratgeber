@@ -35,7 +35,7 @@ Das Ergebnis war eindeutig: Die Gehirne der ChatGPT-Nutzer waren am **wenigsten*
 
 Aber jetzt kommt der wirklich beunruhigende Teil. Als die ChatGPT-Gruppe später *ohne* KI schreiben sollte, war ihr Gehirn immer noch schwächer vernetzt als bei denen, die nie eine KI benutzt hatten. Die Forscher nannten das **„kognitive Schuld"** (cognitive debt): Du leihst dir kurzfristig Leistung, die du langfristig mit Zinsen zurückzahlst — in Form eines Gehirns, das das selbstständige Arbeiten verlernt hat.
 
-Und ein Detail bleibt besonders hängen: **78 % der ChatGPT-Nutzer konnten kurz nach dem Schreiben nicht einen einzigen Satz aus ihrem „eigenen" Aufsatz zitieren.** Es war nie *ihr* Aufsatz. Es ging nie durch ihren Kopf. Also blieb auch nichts hängen.
+Und ein Detail bleibt besonders hängen: **Rund vier von fünf ChatGPT-Nutzern konnten kurz nach dem Schreiben nicht einen einzigen Satz aus ihrem „eigenen" Aufsatz zitieren.** Es war nie *ihr* Aufsatz. Es ging nie durch ihren Kopf. Also blieb auch nichts hängen.
 
 ### Gute Ergebnisse — und trotzdem nichts gelernt
 
@@ -118,6 +118,6 @@ Schreib deinen Aufsatz **selbst**. Dann darfst du fragen: *„Welche Stellen sin
 
 ## 📚 Quellen & Links
 
-- **Kosmyna et al. (2025)** · „Your Brain on ChatGPT: Accumulation of Cognitive Debt when Using an AI Assistant for Essay Writing Task" (MIT Media Lab) — EEG-Studie zur kognitiven Schuld; 78 % der ChatGPT-Nutzer konnten keinen eigenen Satz zitieren
+- **Kosmyna et al. (2025)** · „Your Brain on ChatGPT: Accumulation of Cognitive Debt when Using an AI Assistant for Essay Writing Task" (MIT Media Lab) — EEG-Studie zur kognitiven Schuld; rund vier von fünf ChatGPT-Nutzern konnten keinen eigenen Satz zitieren
 - **Fan et al. (2024)** · „The impact of artificial intelligence on student learning outcomes", *British Journal of Educational Technology* — Metakognitive Faulheit: bessere Ergebnisse, null Wissenszuwachs
 - [Wikipedia: Halluzination (Künstliche Intelligenz)](https://de.wikipedia.org/wiki/Halluzination_(K%C3%BCnstliche_Intelligenz)) — Erklärung, warum KI manchmal selbstbewusst falsche Fakten erfindet
