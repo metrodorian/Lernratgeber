@@ -25,7 +25,7 @@ Und Schlaf hilft nicht nur, das Gestrige zu speichern — er macht dein Gehirn a
 
 ---
 
-## Bewegung: Dünger fürs Gehirn
+## Bewegung: Unterstützung fürs Gehirn
 
 Sport ist nicht nur für die Muskeln da. Bewegung verbessert nachweislich Gedächtnis und Konzentration — sie sorgt für mehr Durchblutung im Gehirn und schafft bessere Bedingungen, damit neue Verbindungen wachsen.
 

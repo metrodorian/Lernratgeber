@@ -36,7 +36,7 @@ Damit du dich schnell zurechtfindest, ist alles nach demselben Muster gebaut:
 
 Du musst nicht alles auf einmal umkrempeln. Niemand benutzt ab morgen zwölf neue Techniken. Such dir **eine** Sache aus, die dich anspricht, und probier sie eine Woche lang. Wenn Du fertig bist, nimm die nächste dazu.
 
-So wird aus diesem Ratgeber kein weiterer Stapel guter Ratschläge, den man nickend liest und wieder vergisst — sondern ein Werkzeugkasten, den du wirklich benutzt. Fangen wir an.
+So wird aus diesem Ratgeber kein weiterer Stapel guter Ratschläge, den man nickend liest und wieder vergisst — sondern eine Werkzeugkiste, die du wirklich benutzt. Fangen wir an.
 
 ---
 

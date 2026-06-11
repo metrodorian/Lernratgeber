@@ -75,7 +75,7 @@ Bei einem Projekt fragst du gar nicht mehr „Muss ich das wirklich lernen?" —
 
 ## Was, wenn mich das Thema kalt lässt?
 
-Seien wir ehrlich: Nicht jeder Schulstoff lässt sich in ein Lieblingsprojekt verwandeln. Was tun, wenn das Thema wirklich nicht interessiert — und man es trotzdem lernen muss?
+Seien wir ehrlich: Nicht jeder Schulstoff lässt sich in ein Lieblingsprojekt verwandeln — und manchmal zündet auch der beste Funke nicht. Was tun, wenn das Thema wirklich nicht interessiert und man es trotzdem lernen muss?
 
 **1. Suche den einen Haken.** Kein Thema ist wirklich rundum langweilig. In der Chemie stecken Explosionen, Gifte und Farbstoffe. In der Geschichte stecken Verbrechen, Zufälle und skurrile Menschen. In der Grammatik steckt der Bauplan jeder Sprache, die je gesprochen wurde. Frage dich: *Welcher Aspekt wäre für einen Detektiv, eine Erfinderin oder ein neugieriges Kind spannend?* Meistens findest du ihn.
 

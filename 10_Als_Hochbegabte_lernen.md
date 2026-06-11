@@ -14,11 +14,11 @@ Aber genau hier liegt eine versteckte Falle — und sie ist so unauffällig, das
 
 Weil dir der Schulstoff leichtfällt, **musst du nie lernen, wie man lernt.**
 
-Andere Kinder müssen sich von klein auf abmühen: Sie entwickeln Tricks, sie lernen, sich zu organisieren, durchzuhalten, mit Frust umzugehen. Du brauchst das alles nicht — du hörst einmal zu, und es sitzt. Du sammelst dabei aber, ohne es zu merken, *keine* Lernstrategien. Dein „Werkzeugkasten" bleibt leer, weil du ihn nie gebraucht hast.
+Andere Kinder müssen sich von klein auf abmühen: Sie entwickeln Tricks, sie lernen, sich zu organisieren, durchzuhalten, mit Frust umzugehen. Du brauchst das alles nicht — du hörst einmal zu, und es sitzt. Du sammelst dabei aber, ohne es zu merken, *keine* Lernstrategien. Deine „Werkzeugkiste" bleibt leer, weil du sie nie gebraucht hast.
 
 Und dann kommt irgendwann der Tag — vielleicht in einem schweren Fach, vielleicht erst in der Oberstufe oder im Studium — an dem etwas zum ersten Mal **nicht** sofort klappt. Plötzlich reicht „einmal zuhören" nicht mehr. Und jetzt fehlt dir genau das, was die anderen längst können: *richtig zu lernen.*
 
-> **Die gute Nachricht:** Du liest diesen Ratgeber. Du kannst dir den Werkzeugkasten *jetzt* bauen — in Ruhe, bevor du ihn dringend brauchst. Das ist der größte Vorsprung, den du dir verschaffen kannst.
+> **Die gute Nachricht:** Du liest diesen Ratgeber. Du kannst dir die Werkzeugkiste *jetzt* bauen — in Ruhe, bevor du sie dringend brauchst. Das ist der größte Vorsprung, den du dir verschaffen kannst.
 
 ---
 
@@ -71,14 +71,14 @@ Genug von den Fallen — reden wir über deine Vorteile. Denn deine schnelle Auf
 
 - **Geh in die Tiefe statt in die Breite.** Wenn du den Grundstoff in der halben Zeit verstehst, nutze die andere Hälfte, um *tiefer* zu graben — die Feynman-Technik (Kapitel 3) ist wie für dich gemacht. Erklär den Stoff nicht nur, sondern bis in die letzte Ecke.
 - **Verknüpfe wild.** Dein Gehirn sieht Zusammenhänge schnell — füttere es. Frag bei allem: „Wo kenne ich Ähnliches?" Je mehr Verbindungen, desto fester sitzt das Wissen und desto mehr Spaß macht es.
-- **Bau den Werkzeugkasten jetzt.** Üb die Königstechniken an Stoff, der dir leichtfällt — nicht, weil du sie da brauchst, sondern damit sie sitzen, wenn es ernst wird. Ein Pilot übt den Notfall auch bei schönem Wetter.
+- **Bau die Werkzeugkiste jetzt.** Üb die Königstechniken an Stoff, der dir leichtfällt — nicht, weil du sie da brauchst, sondern damit sie sitzen, wenn es ernst wird. Ein Pilot übt den Notfall auch bei schönem Wetter.
 - **Such dir deine Liga.** Nichts ist so motivierend wie Menschen, die mitziehen oder dich herausfordern: ein Wettbewerb, eine AG, ein Verein, Freunde mit ähnlichem Feuer. Schweres in Gesellschaft macht plötzlich Freude.
 
 ---
 
 > ## 📦 Für deine Werkzeugkiste
 >
-> - Schnell verstehen heißt: Du hast nie „lernen müssen" gelernt — **bau dir den Werkzeugkasten jetzt**, bevor du ihn brauchst.
+> - Schnell verstehen heißt: Du hast nie „lernen müssen" gelernt — **bau dir die Werkzeugkiste jetzt**, bevor du sie brauchst.
 > - **Anstrengung ist kein Zeichen von Schwäche**, sondern das normale Gefühl von echtem Lernen.
 > - **Frustrationstoleranz** ist trainierbar — such dir bewusst Schweres, solange die Einsätze klein sind.
 > - Hüte dich vor **Langeweile, Perfektionismus** und dem Schluss „schwer = nicht mein Ding".

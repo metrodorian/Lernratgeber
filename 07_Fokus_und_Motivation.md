@@ -39,7 +39,7 @@ Eine solche 25-Minuten-Einheit heißt „ein Pomodoro".
 
 Wenn 25 Minuten am Anfang zu lang sind: Fang mit **15** an. Es gibt keine heilige Zahl — wichtig ist der Rhythmus aus Fokus und Pause.
 
-> **Tipp:** Wenn dir mitten im Pomodoro etwas einfällt („Ich muss noch Lena schreiben!"), schreib es schnell auf einen Zettel und mach weiter. In der Pause kümmerst du dich drum. So jagst du nicht jedem Gedanken hinterher.
+> **Tipp:** Wenn dir mitten im Pomodoro etwas einfällt („Ich muss noch Emma schreiben!"), schreib es schnell auf einen Zettel und mach weiter. In der Pause kümmerst du dich drum. So jagst du nicht jedem Gedanken hinterher.
 
 ---
 
